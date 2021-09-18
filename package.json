@@ -1,0 +1,14 @@
+{
+  "name": "hypolistjson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gen.js",
+  "scripts": {
+    "run": "node gen"
+  },
+  "author": "",
+  "dependencies": {
+    "jsdom": "^17.0.0",
+    "request": "^2.88.2"
+  }
+}
