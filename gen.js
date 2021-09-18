@@ -2,11 +2,12 @@ const { getColumns } = require('./counts');
 const request = require('request');
 const { JSDOM } = require('jsdom');
 const fs = require('fs');
+const {formatToTimeZone} = require('date-fns-timezone');
 
 var today = new Date();
 var targetDay = formatToTimeZone(today, 'YYYY', {timeZone: 'Asia/Tokyo'})+
-                parseInt(formatToTimeZone(today, 'MM', {timeZone: 'Asia/Tokyo'}))-1+
-                formatToTimeZone(today, 'DD', {timeZone: 'Asia/Tokyo'});
+                ("00"+(parseInt(formatToTimeZone(today, 'MM', {timeZone: 'Asia/Tokyo'}))-1)).slice(-2)+
+                ('00'+formatToTimeZone(today, 'DD', {timeZone: 'Asia/Tokyo'})).slice(-2);
 
 // データ取得
 var options = {
