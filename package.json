@@ -8,6 +8,7 @@
   },
   "author": "",
   "dependencies": {
+    "date-fns-timezone": "^0.1.4",
     "jsdom": "^17.0.0",
     "request": "^2.88.2"
   }

@@ -4,7 +4,9 @@ const { JSDOM } = require('jsdom');
 const fs = require('fs');
 
 var today = new Date();
-var targetDay = today.getFullYear()+("00"+(new Date().getMonth()+1)).slice(-2)+("00"+(new Date().getDate()-1)).slice(-2);
+var targetDay = formatToTimeZone(today, 'YYYY', {timeZone: 'Asia/Tokyo'})+
+                parseInt(formatToTimeZone(today, 'MM', {timeZone: 'Asia/Tokyo'}))-1+
+                formatToTimeZone(today, 'DD', {timeZone: 'Asia/Tokyo'});
 
 // データ取得
 var options = {
