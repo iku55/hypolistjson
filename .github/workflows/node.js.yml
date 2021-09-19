@@ -27,6 +27,7 @@ jobs:
     - run: npm install
     - run: npm run run
     - name: Commit changes
+      id: commit
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "github-actions"
