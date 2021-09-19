@@ -25,7 +25,7 @@
     },
     {
         "date": "2021-08-18T15:07:42.400Z",
-        "latitude": "35° 5.4'N",
+        "latitude": "35.054",
         "longitude": "137.168",
         "depth": "38",
         "magnitude": "0.7",
@@ -50,15 +50,15 @@
     {
         "date": "2021-08-18T15:13:25.600Z",
         "latitude": "28.291",
-        "longitude": "129° 2.7'E",
+        "longitude": "129.027",
         "depth": "15",
         "magnitude": "1.9",
         "name": "奄美大島近海"
     },
     {
         "date": "2021-08-18T15:14:55.800Z",
-        "latitude": "38° 7.7'N",
-        "longitude": "144° 3.4'E",
+        "latitude": "38.077",
+        "longitude": "144.034",
         "depth": "5",
         "magnitude": "1.3",
         "name": "三陸沖"
@@ -82,7 +82,7 @@
     {
         "date": "2021-08-18T15:15:59.000Z",
         "latitude": "40.578",
-        "longitude": "143° 8.6'E",
+        "longitude": "143.086",
         "depth": "22",
         "magnitude": "1.2",
         "name": "青森県東方沖"
@@ -122,7 +122,7 @@
     {
         "date": "2021-08-18T15:28:59.600Z",
         "latitude": "38.180",
-        "longitude": "142° 6.3'E",
+        "longitude": "142.063",
         "depth": "34",
         "magnitude": "1.8",
         "name": "宮城県沖"
@@ -185,7 +185,7 @@
     },
     {
         "date": "2021-08-18T15:45:33.800Z",
-        "latitude": "35° 6.2'N",
+        "latitude": "35.062",
         "longitude": "135.418",
         "depth": "12",
         "magnitude": "0.3",
@@ -266,7 +266,7 @@
     {
         "date": "2021-08-18T16:17:16.200Z",
         "latitude": "32.408",
-        "longitude": "130° 3.1'E",
+        "longitude": "130.031",
         "depth": "14",
         "magnitude": "0.4",
         "name": "橘湾"
@@ -297,7 +297,7 @@
     },
     {
         "date": "2021-08-18T16:31:36.100Z",
-        "latitude": "35° 1.2'N",
+        "latitude": "35.012",
         "longitude": "131.566",
         "depth": "16",
         "magnitude": "1.2",
@@ -313,16 +313,16 @@
     },
     {
         "date": "2021-08-18T16:38:31.000Z",
-        "latitude": "33° 4.1'N",
-        "longitude": "132° 3.8'E",
+        "latitude": "33.041",
+        "longitude": "132.038",
         "depth": "6",
         "magnitude": "1.2",
         "name": "豊後水道"
     },
     {
         "date": "2021-08-18T16:39:15.200Z",
-        "latitude": "33° 4.0'N",
-        "longitude": "132° 3.7'E",
+        "latitude": "33.040",
+        "longitude": "132.037",
         "depth": "10",
         "magnitude": null,
         "name": "豊後水道"
@@ -337,8 +337,8 @@
     },
     {
         "date": "2021-08-18T16:41:37.100Z",
-        "latitude": "33° 4.1'N",
-        "longitude": "132° 3.8'E",
+        "latitude": "33.041",
+        "longitude": "132.038",
         "depth": "8",
         "magnitude": "1.4",
         "name": "豊後水道"
@@ -394,7 +394,7 @@
     {
         "date": "2021-08-18T17:04:38.600Z",
         "latitude": "40.138",
-        "longitude": "145° 8.5'E",
+        "longitude": "145.085",
         "depth": "25",
         "magnitude": "1.6",
         "name": "三陸沖"
@@ -426,7 +426,7 @@
     {
         "date": "2021-08-18T17:12:52.500Z",
         "latitude": "42.580",
-        "longitude": "145° 8.3'E",
+        "longitude": "145.083",
         "depth": "89",
         "magnitude": "2.2",
         "name": "釧路沖"
@@ -449,7 +449,7 @@
     },
     {
         "date": "2021-08-18T17:16:11.700Z",
-        "latitude": "37° 5.7'N",
+        "latitude": "37.057",
         "longitude": "139.368",
         "depth": "8",
         "magnitude": "0.8",
@@ -562,7 +562,7 @@
     {
         "date": "2021-08-18T17:34:29.100Z",
         "latitude": "34.131",
-        "longitude": "135° 7.9'E",
+        "longitude": "135.079",
         "depth": "7",
         "magnitude": "0.5",
         "name": "紀伊水道"
@@ -570,14 +570,14 @@
     {
         "date": "2021-08-18T17:37:45.500Z",
         "latitude": "37.229",
-        "longitude": "142° 0.4'E",
+        "longitude": "142.004",
         "depth": "30",
         "magnitude": "1.4",
         "name": "福島県沖"
     },
     {
         "date": "2021-08-18T17:37:45.900Z",
-        "latitude": "34° 9.9'N",
+        "latitude": "34.099",
         "longitude": "135.232",
         "depth": "6",
         "magnitude": "0.0",
@@ -625,7 +625,7 @@
     },
     {
         "date": "2021-08-18T17:44:59.400Z",
-        "latitude": "35° 5.4'N",
+        "latitude": "35.054",
         "longitude": "137.171",
         "depth": "38",
         "magnitude": "1.0",
@@ -649,7 +649,7 @@
     },
     {
         "date": "2021-08-18T17:49:52.600Z",
-        "latitude": "40° 2.6'N",
+        "latitude": "40.026",
         "longitude": "140.319",
         "depth": "7",
         "magnitude": "0.9",
@@ -665,8 +665,8 @@
     },
     {
         "date": "2021-08-18T17:54:11.400Z",
-        "latitude": "43° 3.6'N",
-        "longitude": "146° 9.3'E",
+        "latitude": "43.036",
+        "longitude": "146.093",
         "depth": "36",
         "magnitude": "2.0",
         "name": "根室半島南東沖"
@@ -682,7 +682,7 @@
     {
         "date": "2021-08-18T18:04:23.200Z",
         "latitude": "35.370",
-        "longitude": "140° 2.8'E",
+        "longitude": "140.028",
         "depth": "61",
         "magnitude": "0.2",
         "name": "東京湾"
@@ -713,7 +713,7 @@
     },
     {
         "date": "2021-08-18T18:20:20.100Z",
-        "latitude": "35° 9.8'N",
+        "latitude": "35.098",
         "longitude": "132.445",
         "depth": "8",
         "magnitude": "0.2",
@@ -737,7 +737,7 @@
     },
     {
         "date": "2021-08-18T18:25:21.400Z",
-        "latitude": "25° 0.7'N",
+        "latitude": "25.007",
         "longitude": "125.348",
         "depth": "61",
         "magnitude": "1.6",
@@ -769,7 +769,7 @@
     },
     {
         "date": "2021-08-18T18:28:40.100Z",
-        "latitude": "36° 5.6'N",
+        "latitude": "36.056",
         "longitude": "139.525",
         "depth": "47",
         "magnitude": "0.3",
@@ -785,8 +785,8 @@
     },
     {
         "date": "2021-08-18T18:32:18.000Z",
-        "latitude": "35° 3.3'N",
-        "longitude": "133° 2.4'E",
+        "latitude": "35.033",
+        "longitude": "133.024",
         "depth": "7",
         "magnitude": "0.0",
         "name": "広島県北部"
@@ -810,7 +810,7 @@
     {
         "date": "2021-08-18T18:35:48.400Z",
         "latitude": "36.187",
-        "longitude": "138° 1.5'E",
+        "longitude": "138.015",
         "depth": "4",
         "magnitude": "0.2",
         "name": "長野県中部"
@@ -818,7 +818,7 @@
     {
         "date": "2021-08-18T18:36:50.100Z",
         "latitude": "42.440",
-        "longitude": "144° 0.7'E",
+        "longitude": "144.007",
         "depth": "47",
         "magnitude": "0.9",
         "name": "釧路沖"
@@ -834,7 +834,7 @@
     {
         "date": "2021-08-18T18:38:33.600Z",
         "latitude": "42.522",
-        "longitude": "144° 0.1'E",
+        "longitude": "144.001",
         "depth": "108",
         "magnitude": "1.3",
         "name": "釧路沖"
@@ -881,7 +881,7 @@
     },
     {
         "date": "2021-08-18T18:45:18.800Z",
-        "latitude": "42° 7.3'N",
+        "latitude": "42.073",
         "longitude": "140.264",
         "depth": "5",
         "magnitude": "0.6",
@@ -913,7 +913,7 @@
     },
     {
         "date": "2021-08-18T18:56:41.700Z",
-        "latitude": "36° 7.7'N",
+        "latitude": "36.077",
         "longitude": "139.597",
         "depth": "68",
         "magnitude": "0.5",
@@ -921,7 +921,7 @@
     },
     {
         "date": "2021-08-18T18:57:08.300Z",
-        "latitude": "42° 6.8'N",
+        "latitude": "42.068",
         "longitude": "140.255",
         "depth": "5",
         "magnitude": "0.6",
@@ -929,7 +929,7 @@
     },
     {
         "date": "2021-08-18T18:57:11.000Z",
-        "latitude": "42° 6.4'N",
+        "latitude": "42.064",
         "longitude": "140.269",
         "depth": "4",
         "magnitude": "0.5",
@@ -969,7 +969,7 @@
     },
     {
         "date": "2021-08-18T19:07:02.200Z",
-        "latitude": "42° 6.8'N",
+        "latitude": "42.068",
         "longitude": "140.250",
         "depth": "5",
         "magnitude": "0.5",
@@ -993,7 +993,7 @@
     },
     {
         "date": "2021-08-18T19:19:40.400Z",
-        "latitude": "39° 3.8'N",
+        "latitude": "39.038",
         "longitude": "140.516",
         "depth": "9",
         "magnitude": "1.1",
@@ -1009,7 +1009,7 @@
     },
     {
         "date": "2021-08-18T19:28:50.900Z",
-        "latitude": "34° 5.5'N",
+        "latitude": "34.055",
         "longitude": "135.127",
         "depth": "5",
         "magnitude": "-0.1",
@@ -1034,7 +1034,7 @@
     {
         "date": "2021-08-18T19:29:33.200Z",
         "latitude": "35.385",
-        "longitude": "135° 2.2'E",
+        "longitude": "135.022",
         "depth": "10",
         "magnitude": "0.6",
         "name": "京都府北部"
@@ -1129,7 +1129,7 @@
     },
     {
         "date": "2021-08-18T19:57:21.800Z",
-        "latitude": "33° 4.9'N",
+        "latitude": "33.049",
         "longitude": "130.325",
         "depth": "14",
         "magnitude": "0.3",
@@ -1138,15 +1138,15 @@
     {
         "date": "2021-08-18T19:58:09.000Z",
         "latitude": "38.199",
-        "longitude": "142° 8.5'E",
+        "longitude": "142.085",
         "depth": "34",
         "magnitude": "1.2",
         "name": "宮城県沖"
     },
     {
         "date": "2021-08-18T19:58:48.200Z",
-        "latitude": "34° 5.3'N",
-        "longitude": "135° 5.8'E",
+        "latitude": "34.053",
+        "longitude": "135.058",
         "depth": "8",
         "magnitude": "0.2",
         "name": "紀伊水道"
@@ -1233,7 +1233,7 @@
     },
     {
         "date": "2021-08-18T20:24:01.500Z",
-        "latitude": "37° 3.1'N",
+        "latitude": "37.031",
         "longitude": "141.552",
         "depth": "30",
         "magnitude": "0.9",
@@ -1258,7 +1258,7 @@
     {
         "date": "2021-08-18T20:26:35.900Z",
         "latitude": "31.521",
-        "longitude": "129° 3.6'E",
+        "longitude": "129.036",
         "depth": "16",
         "magnitude": "1.5",
         "name": "薩摩半島西方沖"
@@ -1313,8 +1313,8 @@
     },
     {
         "date": "2021-08-18T20:42:50.900Z",
-        "latitude": "34° 7.3'N",
-        "longitude": "135° 8.5'E",
+        "latitude": "34.073",
+        "longitude": "135.085",
         "depth": "6",
         "magnitude": "0.6",
         "name": "紀伊水道"
@@ -1345,7 +1345,7 @@
     },
     {
         "date": "2021-08-18T20:49:52.000Z",
-        "latitude": "42° 7.4'N",
+        "latitude": "42.074",
         "longitude": "140.265",
         "depth": "5",
         "magnitude": "1.5",
@@ -1361,7 +1361,7 @@
     },
     {
         "date": "2021-08-18T20:58:05.000Z",
-        "latitude": "34° 1.1'N",
+        "latitude": "34.011",
         "longitude": "135.124",
         "depth": "7",
         "magnitude": "0.4",
@@ -1377,7 +1377,7 @@
     },
     {
         "date": "2021-08-18T21:14:37.400Z",
-        "latitude": "34° 1.7'N",
+        "latitude": "34.017",
         "longitude": "135.151",
         "depth": "5",
         "magnitude": "0.9",
@@ -1385,7 +1385,7 @@
     },
     {
         "date": "2021-08-18T21:17:07.500Z",
-        "latitude": "39° 3.6'N",
+        "latitude": "39.036",
         "longitude": "140.516",
         "depth": "8",
         "magnitude": "0.6",
@@ -1426,7 +1426,7 @@
     {
         "date": "2021-08-18T21:22:18.900Z",
         "latitude": "32.554",
-        "longitude": "131° 1.1'E",
+        "longitude": "131.011",
         "depth": "6",
         "magnitude": "1.5",
         "name": "熊本県阿蘇地方"
@@ -1466,7 +1466,7 @@
     {
         "date": "2021-08-18T21:35:07.000Z",
         "latitude": "36.473",
-        "longitude": "138° 8.9'E",
+        "longitude": "138.089",
         "depth": "9",
         "magnitude": "0.5",
         "name": "長野県北部"
@@ -1481,7 +1481,7 @@
     },
     {
         "date": "2021-08-18T21:36:58.400Z",
-        "latitude": "37° 9.7'N",
+        "latitude": "37.097",
         "longitude": "138.572",
         "depth": "11",
         "magnitude": "1.4",
@@ -1505,7 +1505,7 @@
     },
     {
         "date": "2021-08-18T21:45:55.100Z",
-        "latitude": "42° 6.4'N",
+        "latitude": "42.064",
         "longitude": "142.438",
         "depth": "58",
         "magnitude": "0.8",
@@ -1545,7 +1545,7 @@
     },
     {
         "date": "2021-08-18T22:05:00.500Z",
-        "latitude": "42° 7.5'N",
+        "latitude": "42.075",
         "longitude": "140.262",
         "depth": "6",
         "magnitude": "1.1",
@@ -1569,7 +1569,7 @@
     },
     {
         "date": "2021-08-18T22:11:21.600Z",
-        "latitude": "36° 5.3'N",
+        "latitude": "36.053",
         "longitude": "137.191",
         "depth": "10",
         "magnitude": "0.2",
@@ -1578,15 +1578,15 @@
     {
         "date": "2021-08-18T22:14:13.500Z",
         "latitude": "27.183",
-        "longitude": "141° 0.0'E",
+        "longitude": "141.000",
         "depth": "336",
         "magnitude": "4.8",
         "name": "小笠原諸島西方沖"
     },
     {
         "date": "2021-08-18T22:15:51.500Z",
-        "latitude": "35° 3.4'N",
-        "longitude": "133° 2.6'E",
+        "latitude": "35.034",
+        "longitude": "133.026",
         "depth": "6",
         "magnitude": "3.5",
         "name": "広島県北部"
@@ -1601,8 +1601,8 @@
     },
     {
         "date": "2021-08-18T22:18:01.600Z",
-        "latitude": "35° 4.1'N",
-        "longitude": "133° 2.9'E",
+        "latitude": "35.041",
+        "longitude": "133.029",
         "depth": "9",
         "magnitude": "0.8",
         "name": "広島県北部"
@@ -1610,7 +1610,7 @@
     {
         "date": "2021-08-18T22:23:07.900Z",
         "latitude": "36.571",
-        "longitude": "142° 4.7'E",
+        "longitude": "142.047",
         "depth": "10",
         "magnitude": "1.3",
         "name": "福島県沖"
@@ -1634,15 +1634,15 @@
     {
         "date": "2021-08-18T22:28:47.000Z",
         "latitude": "37.159",
-        "longitude": "142° 9.7'E",
+        "longitude": "142.097",
         "depth": "23",
         "magnitude": "1.9",
         "name": "福島県沖"
     },
     {
         "date": "2021-08-18T22:29:14.100Z",
-        "latitude": "35° 3.6'N",
-        "longitude": "133° 2.7'E",
+        "latitude": "35.036",
+        "longitude": "133.027",
         "depth": "7",
         "magnitude": "0.6",
         "name": "広島県北部"
@@ -1665,8 +1665,8 @@
     },
     {
         "date": "2021-08-18T22:32:58.100Z",
-        "latitude": "35° 3.1'N",
-        "longitude": "133° 3.7'E",
+        "latitude": "35.031",
+        "longitude": "133.037",
         "depth": "12",
         "magnitude": "0.1",
         "name": "広島県北部"
@@ -1681,7 +1681,7 @@
     },
     {
         "date": "2021-08-18T22:38:32.100Z",
-        "latitude": "39° 2.5'N",
+        "latitude": "39.025",
         "longitude": "142.256",
         "depth": "21",
         "magnitude": "1.1",
@@ -1705,23 +1705,23 @@
     },
     {
         "date": "2021-08-18T22:41:34.200Z",
-        "latitude": "35° 3.4'N",
-        "longitude": "133° 2.6'E",
+        "latitude": "35.034",
+        "longitude": "133.026",
         "depth": "6",
         "magnitude": "0.5",
         "name": "広島県北部"
     },
     {
         "date": "2021-08-18T22:45:43.200Z",
-        "latitude": "35° 3.5'N",
-        "longitude": "133° 2.4'E",
+        "latitude": "35.035",
+        "longitude": "133.024",
         "depth": "7",
         "magnitude": "0.7",
         "name": "広島県北部"
     },
     {
         "date": "2021-08-18T22:49:43.700Z",
-        "latitude": "38° 1.5'N",
+        "latitude": "38.015",
         "longitude": "142.225",
         "depth": "28",
         "magnitude": "1.1",
@@ -1729,7 +1729,7 @@
     },
     {
         "date": "2021-08-18T22:49:59.100Z",
-        "latitude": "38° 2.3'N",
+        "latitude": "38.023",
         "longitude": "142.477",
         "depth": "20",
         "magnitude": "1.9",
@@ -1753,7 +1753,7 @@
     },
     {
         "date": "2021-08-18T22:56:19.300Z",
-        "latitude": "27° 9.2'N",
+        "latitude": "27.092",
         "longitude": "126.446",
         "depth": "14",
         "magnitude": "2.0",
@@ -1761,7 +1761,7 @@
     },
     {
         "date": "2021-08-18T23:05:26.100Z",
-        "latitude": "35° 3.5'N",
+        "latitude": "35.035",
         "longitude": "135.103",
         "depth": "13",
         "magnitude": "0.8",
@@ -1786,7 +1786,7 @@
     {
         "date": "2021-08-18T23:16:28.000Z",
         "latitude": "34.207",
-        "longitude": "132° 0.8'E",
+        "longitude": "132.008",
         "depth": "15",
         "magnitude": "0.8",
         "name": "山口県東部"
@@ -1801,8 +1801,8 @@
     },
     {
         "date": "2021-08-18T23:17:25.500Z",
-        "latitude": "35° 3.3'N",
-        "longitude": "133° 2.8'E",
+        "latitude": "35.033",
+        "longitude": "133.028",
         "depth": "7",
         "magnitude": "1.6",
         "name": "広島県北部"
@@ -1810,7 +1810,7 @@
     {
         "date": "2021-08-18T23:18:20.300Z",
         "latitude": "36.110",
-        "longitude": "140° 4.3'E",
+        "longitude": "140.043",
         "depth": "67",
         "magnitude": "2.1",
         "name": "茨城県南部"
@@ -1826,7 +1826,7 @@
     {
         "date": "2021-08-18T23:29:05.700Z",
         "latitude": "42.482",
-        "longitude": "142° 5.5'E",
+        "longitude": "142.055",
         "depth": "133",
         "magnitude": "1.3",
         "name": "胆振地方中東部"
@@ -1841,8 +1841,8 @@
     },
     {
         "date": "2021-08-18T23:32:10.000Z",
-        "latitude": "35° 3.5'N",
-        "longitude": "133° 2.6'E",
+        "latitude": "35.035",
+        "longitude": "133.026",
         "depth": "7",
         "magnitude": "0.7",
         "name": "広島県北部"
@@ -1882,7 +1882,7 @@
     {
         "date": "2021-08-18T23:39:41.200Z",
         "latitude": "40.106",
-        "longitude": "141° 6.9'E",
+        "longitude": "141.069",
         "depth": "13",
         "magnitude": "0.4",
         "name": "岩手県内陸北部"
@@ -1929,7 +1929,7 @@
     },
     {
         "date": "2021-08-18T23:50:45.600Z",
-        "latitude": "24° 6.0'N",
+        "latitude": "24.060",
         "longitude": "122.528",
         "depth": "40",
         "magnitude": "1.8",
@@ -1938,14 +1938,14 @@
     {
         "date": "2021-08-18T23:56:56.800Z",
         "latitude": "38.153",
-        "longitude": "142° 3.7'E",
+        "longitude": "142.037",
         "depth": "40",
         "magnitude": "0.9",
         "name": "宮城県沖"
     },
     {
         "date": "2021-08-18T23:57:39.500Z",
-        "latitude": "35° 1.1'N",
+        "latitude": "35.011",
         "longitude": "132.450",
         "depth": "12",
         "magnitude": "0.6",
@@ -1970,7 +1970,7 @@
     {
         "date": "2021-08-19T00:02:20.000Z",
         "latitude": "34.438",
-        "longitude": "136° 6.3'E",
+        "longitude": "136.063",
         "depth": "8",
         "magnitude": "1.0",
         "name": "三重県中部"
@@ -1993,8 +1993,8 @@
     },
     {
         "date": "2021-08-19T00:11:14.200Z",
-        "latitude": "35° 3.6'N",
-        "longitude": "133° 2.7'E",
+        "latitude": "35.036",
+        "longitude": "133.027",
         "depth": "7",
         "magnitude": "0.9",
         "name": "広島県北部"
@@ -2009,7 +2009,7 @@
     },
     {
         "date": "2021-08-19T00:14:27.200Z",
-        "latitude": "36° 3.4'N",
+        "latitude": "36.034",
         "longitude": "137.357",
         "depth": "8",
         "magnitude": "0.3",
@@ -2026,7 +2026,7 @@
     {
         "date": "2021-08-19T00:26:41.700Z",
         "latitude": "37.509",
-        "longitude": "142° 5.3'E",
+        "longitude": "142.053",
         "depth": "40",
         "magnitude": "1.8",
         "name": "宮城県沖"
@@ -2082,14 +2082,14 @@
     {
         "date": "2021-08-19T00:44:49.400Z",
         "latitude": "35.597",
-        "longitude": "141° 6.1'E",
+        "longitude": "141.061",
         "depth": "23",
         "magnitude": "2.9",
         "name": "茨城県沖"
     },
     {
         "date": "2021-08-19T00:44:54.300Z",
-        "latitude": "37° 1.0'N",
+        "latitude": "37.010",
         "longitude": "140.318",
         "depth": "8",
         "magnitude": "0.5",
@@ -2105,7 +2105,7 @@
     },
     {
         "date": "2021-08-19T00:52:13.200Z",
-        "latitude": "40° 5.5'N",
+        "latitude": "40.055",
         "longitude": "141.507",
         "depth": "41",
         "magnitude": "1.0",
@@ -2113,7 +2113,7 @@
     },
     {
         "date": "2021-08-19T01:09:00.300Z",
-        "latitude": "35° 3.5'N",
+        "latitude": "35.035",
         "longitude": "139.586",
         "depth": "48",
         "magnitude": "1.4",
@@ -2121,7 +2121,7 @@
     },
     {
         "date": "2021-08-19T01:09:02.200Z",
-        "latitude": "34° 2.6'N",
+        "latitude": "34.026",
         "longitude": "135.195",
         "depth": "6",
         "magnitude": "0.4",
@@ -2130,7 +2130,7 @@
     {
         "date": "2021-08-19T01:09:33.500Z",
         "latitude": "38.104",
-        "longitude": "142° 1.4'E",
+        "longitude": "142.014",
         "depth": "25",
         "magnitude": "1.9",
         "name": "宮城県沖"
@@ -2161,7 +2161,7 @@
     },
     {
         "date": "2021-08-19T01:19:09.700Z",
-        "latitude": "40° 1.7'N",
+        "latitude": "40.017",
         "longitude": "140.319",
         "depth": "10",
         "magnitude": "0.2",
@@ -2194,7 +2194,7 @@
     {
         "date": "2021-08-19T01:22:57.000Z",
         "latitude": "36.193",
-        "longitude": "141° 5.9'E",
+        "longitude": "141.059",
         "depth": "36",
         "magnitude": "1.1",
         "name": "茨城県沖"
@@ -2202,7 +2202,7 @@
     {
         "date": "2021-08-19T01:24:23.300Z",
         "latitude": "39.460",
-        "longitude": "143° 4.6'E",
+        "longitude": "143.046",
         "depth": "15",
         "magnitude": "1.1",
         "name": "三陸沖"
@@ -2225,7 +2225,7 @@
     },
     {
         "date": "2021-08-19T01:32:48.700Z",
-        "latitude": "34° 1.8'N",
+        "latitude": "34.018",
         "longitude": "135.143",
         "depth": "8",
         "magnitude": "0.5",
@@ -2234,7 +2234,7 @@
     {
         "date": "2021-08-19T01:33:21.800Z",
         "latitude": "36.585",
-        "longitude": "142° 3.5'E",
+        "longitude": "142.035",
         "depth": "16",
         "magnitude": "1.3",
         "name": "福島県沖"
@@ -2345,7 +2345,7 @@
     },
     {
         "date": "2021-08-19T02:02:51.900Z",
-        "latitude": "38° 7.9'N",
+        "latitude": "38.079",
         "longitude": "138.300",
         "depth": "18",
         "magnitude": "1.2",
@@ -2369,8 +2369,8 @@
     },
     {
         "date": "2021-08-19T02:10:31.900Z",
-        "latitude": "41° 0.0'N",
-        "longitude": "143° 7.7'E",
+        "latitude": "41.000",
+        "longitude": "143.077",
         "depth": "22",
         "magnitude": "2.6",
         "name": "青森県東方沖"
@@ -2442,7 +2442,7 @@
     {
         "date": "2021-08-19T02:26:28.300Z",
         "latitude": "35.391",
-        "longitude": "137° 1.4'E",
+        "longitude": "137.014",
         "depth": "10",
         "magnitude": "0.3",
         "name": "岐阜県美濃中西部"
@@ -2458,7 +2458,7 @@
     {
         "date": "2021-08-19T02:37:52.000Z",
         "latitude": "32.260",
-        "longitude": "132° 3.0'E",
+        "longitude": "132.030",
         "depth": "30",
         "magnitude": "0.9",
         "name": "日向灘"
@@ -2466,7 +2466,7 @@
     {
         "date": "2021-08-19T02:37:53.400Z",
         "latitude": "33.154",
-        "longitude": "137° 4.6'E",
+        "longitude": "137.046",
         "depth": "17",
         "magnitude": null,
         "name": "三重県南東沖"
@@ -2481,7 +2481,7 @@
     },
     {
         "date": "2021-08-19T02:42:27.800Z",
-        "latitude": "42° 6.0'N",
+        "latitude": "42.060",
         "longitude": "142.293",
         "depth": "43",
         "magnitude": "0.8",
@@ -2506,15 +2506,15 @@
     {
         "date": "2021-08-19T02:48:41.000Z",
         "latitude": "34.441",
-        "longitude": "136° 6.2'E",
+        "longitude": "136.062",
         "depth": "8",
         "magnitude": "-0.2",
         "name": "三重県中部"
     },
     {
         "date": "2021-08-19T02:52:12.900Z",
-        "latitude": "33° 5.5'N",
-        "longitude": "132° 9.6'E",
+        "latitude": "33.055",
+        "longitude": "132.096",
         "depth": "52",
         "magnitude": "1.6",
         "name": "豊後水道"
@@ -2570,7 +2570,7 @@
     {
         "date": "2021-08-19T03:08:32.100Z",
         "latitude": "34.426",
-        "longitude": "132° 2.1'E",
+        "longitude": "132.021",
         "depth": "10",
         "magnitude": "0.7",
         "name": "島根県西部"
@@ -2626,7 +2626,7 @@
     {
         "date": "2021-08-19T03:17:06.300Z",
         "latitude": "31.554",
-        "longitude": "131° 1.6'E",
+        "longitude": "131.016",
         "depth": "10",
         "magnitude": "-0.2",
         "name": "宮崎県南部山沿い"
@@ -2634,7 +2634,7 @@
     {
         "date": "2021-08-19T03:18:49.600Z",
         "latitude": "37.169",
-        "longitude": "138° 2.8'E",
+        "longitude": "138.028",
         "depth": "23",
         "magnitude": "1.2",
         "name": "新潟県上中越沖"
@@ -2657,7 +2657,7 @@
     },
     {
         "date": "2021-08-19T03:19:44.500Z",
-        "latitude": "35° 2.1'N",
+        "latitude": "35.021",
         "longitude": "135.547",
         "depth": "10",
         "magnitude": "0.7",
@@ -2690,7 +2690,7 @@
     {
         "date": "2021-08-19T03:23:41.600Z",
         "latitude": "32.408",
-        "longitude": "130° 3.1'E",
+        "longitude": "130.031",
         "depth": "14",
         "magnitude": "0.4",
         "name": "橘湾"
@@ -2698,7 +2698,7 @@
     {
         "date": "2021-08-19T03:28:37.300Z",
         "latitude": "37.235",
-        "longitude": "142° 0.3'E",
+        "longitude": "142.003",
         "depth": "32",
         "magnitude": "1.5",
         "name": "福島県沖"
@@ -2761,7 +2761,7 @@
     },
     {
         "date": "2021-08-19T03:48:48.200Z",
-        "latitude": "23° 5.4'N",
+        "latitude": "23.054",
         "longitude": "121.224",
         "depth": "14",
         "magnitude": null,
@@ -2793,7 +2793,7 @@
     },
     {
         "date": "2021-08-19T03:54:15.400Z",
-        "latitude": "37° 1.6'N",
+        "latitude": "37.016",
         "longitude": "140.350",
         "depth": "7",
         "magnitude": "0.5",
@@ -2802,15 +2802,15 @@
     {
         "date": "2021-08-19T03:59:26.900Z",
         "latitude": "29.399",
-        "longitude": "141° 6.3'E",
+        "longitude": "141.063",
         "depth": "46",
         "magnitude": "4.2",
         "name": "鳥島近海"
     },
     {
         "date": "2021-08-19T04:00:50.800Z",
-        "latitude": "38° 9.1'N",
-        "longitude": "144° 1.6'E",
+        "latitude": "38.091",
+        "longitude": "144.016",
         "depth": "23",
         "magnitude": "1.9",
         "name": "三陸沖"
@@ -2833,7 +2833,7 @@
     },
     {
         "date": "2021-08-19T04:07:09.700Z",
-        "latitude": "36° 0.3'N",
+        "latitude": "36.003",
         "longitude": "137.331",
         "depth": "9",
         "magnitude": "0.1",
@@ -2857,8 +2857,8 @@
     },
     {
         "date": "2021-08-19T04:17:28.900Z",
-        "latitude": "35° 3.5'N",
-        "longitude": "133° 2.6'E",
+        "latitude": "35.035",
+        "longitude": "133.026",
         "depth": "6",
         "magnitude": "0.3",
         "name": "広島県北部"
@@ -2881,7 +2881,7 @@
     },
     {
         "date": "2021-08-19T04:21:46.100Z",
-        "latitude": "37° 5.0'N",
+        "latitude": "37.050",
         "longitude": "140.397",
         "depth": "9",
         "magnitude": "0.6",
@@ -2953,8 +2953,8 @@
     },
     {
         "date": "2021-08-19T04:46:16.600Z",
-        "latitude": "35° 3.6'N",
-        "longitude": "133° 2.7'E",
+        "latitude": "35.036",
+        "longitude": "133.027",
         "depth": "7",
         "magnitude": "0.5",
         "name": "広島県北部"
@@ -2978,7 +2978,7 @@
     {
         "date": "2021-08-19T04:56:44.100Z",
         "latitude": "37.194",
-        "longitude": "142° 4.1'E",
+        "longitude": "142.041",
         "depth": "29",
         "magnitude": "1.2",
         "name": "福島県沖"
@@ -2986,7 +2986,7 @@
     {
         "date": "2021-08-19T04:58:28.500Z",
         "latitude": "35.349",
-        "longitude": "140° 0.0'E",
+        "longitude": "140.000",
         "depth": "8",
         "magnitude": "1.1",
         "name": "東京湾"
@@ -3026,7 +3026,7 @@
     {
         "date": "2021-08-19T05:08:39.500Z",
         "latitude": "26.292",
-        "longitude": "128° 2.1'E",
+        "longitude": "128.021",
         "depth": "46",
         "magnitude": "1.5",
         "name": "沖縄本島近海"
@@ -3042,7 +3042,7 @@
     {
         "date": "2021-08-19T05:13:18.100Z",
         "latitude": "26.103",
-        "longitude": "129° 8.2'E",
+        "longitude": "129.082",
         "depth": "52",
         "magnitude": "1.7",
         "name": "沖縄本島近海"
@@ -3106,14 +3106,14 @@
     {
         "date": "2021-08-19T05:25:06.400Z",
         "latitude": "34.541",
-        "longitude": "140° 1.2'E",
+        "longitude": "140.012",
         "depth": "65",
         "magnitude": "1.6",
         "name": "千葉県南東沖"
     },
     {
         "date": "2021-08-19T05:29:03.700Z",
-        "latitude": "33° 7.4'N",
+        "latitude": "33.074",
         "longitude": "130.275",
         "depth": "10",
         "magnitude": "1.3",
@@ -3130,7 +3130,7 @@
     {
         "date": "2021-08-19T05:30:00.700Z",
         "latitude": "45.363",
-        "longitude": "153° 5.3'E",
+        "longitude": "153.053",
         "depth": "30",
         "magnitude": "5.0",
         "name": "千島列島"
@@ -3185,8 +3185,8 @@
     },
     {
         "date": "2021-08-19T06:04:07.600Z",
-        "latitude": "35° 3.3'N",
-        "longitude": "133° 2.4'E",
+        "latitude": "35.033",
+        "longitude": "133.024",
         "depth": "6",
         "magnitude": "0.5",
         "name": "広島県北部"
@@ -3241,7 +3241,7 @@
     },
     {
         "date": "2021-08-19T06:18:19.500Z",
-        "latitude": "37° 5.0'N",
+        "latitude": "37.050",
         "longitude": "142.175",
         "depth": "4",
         "magnitude": "2.2",
@@ -3249,7 +3249,7 @@
     },
     {
         "date": "2021-08-19T06:20:35.800Z",
-        "latitude": "36° 4.9'N",
+        "latitude": "36.049",
         "longitude": "137.193",
         "depth": "11",
         "magnitude": "0.2",
@@ -3257,7 +3257,7 @@
     },
     {
         "date": "2021-08-19T06:21:15.600Z",
-        "latitude": "40° 8.3'N",
+        "latitude": "40.083",
         "longitude": "141.433",
         "depth": "5",
         "magnitude": "0.3",
@@ -3265,7 +3265,7 @@
     },
     {
         "date": "2021-08-19T06:24:15.700Z",
-        "latitude": "38° 2.8'N",
+        "latitude": "38.028",
         "longitude": "144.261",
         "depth": "17",
         "magnitude": "0.7",
@@ -3273,7 +3273,7 @@
     },
     {
         "date": "2021-08-19T06:25:21.700Z",
-        "latitude": "33° 7.5'N",
+        "latitude": "33.075",
         "longitude": "130.275",
         "depth": "9",
         "magnitude": "0.7",
@@ -3281,8 +3281,8 @@
     },
     {
         "date": "2021-08-19T06:30:09.700Z",
-        "latitude": "35° 3.5'N",
-        "longitude": "133° 2.8'E",
+        "latitude": "35.035",
+        "longitude": "133.028",
         "depth": "6",
         "magnitude": "0.1",
         "name": "広島県北部"
@@ -3305,15 +3305,15 @@
     },
     {
         "date": "2021-08-19T06:32:56.900Z",
-        "latitude": "35° 3.5'N",
-        "longitude": "133° 2.4'E",
+        "latitude": "35.035",
+        "longitude": "133.024",
         "depth": "6",
         "magnitude": "0.2",
         "name": "広島県北部"
     },
     {
         "date": "2021-08-19T06:38:26.700Z",
-        "latitude": "40° 7.8'N",
+        "latitude": "40.078",
         "longitude": "141.428",
         "depth": "8",
         "magnitude": "0.2",
@@ -3329,7 +3329,7 @@
     },
     {
         "date": "2021-08-19T06:42:20.100Z",
-        "latitude": "34° 2.9'N",
+        "latitude": "34.029",
         "longitude": "141.445",
         "depth": "19",
         "magnitude": "2.0",
@@ -3337,7 +3337,7 @@
     },
     {
         "date": "2021-08-19T06:42:37.700Z",
-        "latitude": "37° 5.2'N",
+        "latitude": "37.052",
         "longitude": "142.172",
         "depth": "4",
         "magnitude": "1.5",
@@ -3409,7 +3409,7 @@
     },
     {
         "date": "2021-08-19T06:56:27.300Z",
-        "latitude": "40° 8.0'N",
+        "latitude": "40.080",
         "longitude": "141.433",
         "depth": "6",
         "magnitude": "0.0",
@@ -3425,7 +3425,7 @@
     },
     {
         "date": "2021-08-19T07:00:44.600Z",
-        "latitude": "42° 7.2'N",
+        "latitude": "42.072",
         "longitude": "140.266",
         "depth": "5",
         "magnitude": "1.5",
@@ -3433,7 +3433,7 @@
     },
     {
         "date": "2021-08-19T07:03:58.500Z",
-        "latitude": "38° 4.7'N",
+        "latitude": "38.047",
         "longitude": "142.593",
         "depth": "3",
         "magnitude": "1.2",
@@ -3466,7 +3466,7 @@
     {
         "date": "2021-08-19T07:11:18.200Z",
         "latitude": "37.136",
-        "longitude": "142° 8.5'E",
+        "longitude": "142.085",
         "depth": "17",
         "magnitude": "1.2",
         "name": "福島県沖"
@@ -3489,7 +3489,7 @@
     },
     {
         "date": "2021-08-19T07:17:54.000Z",
-        "latitude": "37° 5.4'N",
+        "latitude": "37.054",
         "longitude": "142.177",
         "depth": "5",
         "magnitude": "1.4",
@@ -3545,7 +3545,7 @@
     },
     {
         "date": "2021-08-19T07:35:15.200Z",
-        "latitude": "37° 4.9'N",
+        "latitude": "37.049",
         "longitude": "142.182",
         "depth": "4",
         "magnitude": "1.5",
@@ -3553,15 +3553,15 @@
     },
     {
         "date": "2021-08-19T07:35:55.300Z",
-        "latitude": "34° 1.8'N",
-        "longitude": "136° 9.1'E",
+        "latitude": "34.018",
+        "longitude": "136.091",
         "depth": "21",
         "magnitude": "0.5",
         "name": "三重県南部"
     },
     {
         "date": "2021-08-19T07:43:05.500Z",
-        "latitude": "38° 2.8'N",
+        "latitude": "38.028",
         "longitude": "141.238",
         "depth": "77",
         "magnitude": "0.9",
@@ -3594,7 +3594,7 @@
     {
         "date": "2021-08-19T07:51:00.300Z",
         "latitude": "34.486",
-        "longitude": "132° 7.4'E",
+        "longitude": "132.074",
         "depth": "10",
         "magnitude": "1.6",
         "name": "島根県西部"
@@ -3617,8 +3617,8 @@
     },
     {
         "date": "2021-08-19T07:58:59.100Z",
-        "latitude": "35° 3.7'N",
-        "longitude": "133° 2.6'E",
+        "latitude": "35.037",
+        "longitude": "133.026",
         "depth": "6",
         "magnitude": "0.2",
         "name": "広島県北部"
@@ -3634,7 +3634,7 @@
     {
         "date": "2021-08-19T08:02:39.000Z",
         "latitude": "36.506",
-        "longitude": "138° 9.8'E",
+        "longitude": "138.098",
         "depth": "42",
         "magnitude": "0.7",
         "name": "長野県北部"
@@ -3649,7 +3649,7 @@
     },
     {
         "date": "2021-08-19T08:03:40.600Z",
-        "latitude": "37° 3.2'N",
+        "latitude": "37.032",
         "longitude": "141.165",
         "depth": "19",
         "magnitude": "2.5",
@@ -3689,7 +3689,7 @@
     },
     {
         "date": "2021-08-19T08:09:13.200Z",
-        "latitude": "35° 8.6'N",
+        "latitude": "35.086",
         "longitude": "135.390",
         "depth": "13",
         "magnitude": "-0.1",
@@ -3698,7 +3698,7 @@
     {
         "date": "2021-08-19T08:12:55.200Z",
         "latitude": "24.477",
-        "longitude": "125° 9.9'E",
+        "longitude": "125.099",
         "depth": "48",
         "magnitude": "1.1",
         "name": "宮古島近海"
@@ -3722,7 +3722,7 @@
     {
         "date": "2021-08-19T08:17:32.400Z",
         "latitude": "35.450",
-        "longitude": "138° 7.4'E",
+        "longitude": "138.074",
         "depth": "22",
         "magnitude": "0.7",
         "name": "長野県南部"
@@ -3730,14 +3730,14 @@
     {
         "date": "2021-08-19T08:36:17.800Z",
         "latitude": "35.388",
-        "longitude": "140° 3.7'E",
+        "longitude": "140.037",
         "depth": "69",
         "magnitude": "1.7",
         "name": "千葉県北西部"
     },
     {
         "date": "2021-08-19T08:37:29.300Z",
-        "latitude": "38° 2.8'N",
+        "latitude": "38.028",
         "longitude": "144.476",
         "depth": "35",
         "magnitude": "1.9",
@@ -3746,7 +3746,7 @@
     {
         "date": "2021-08-19T08:38:52.400Z",
         "latitude": "33.590",
-        "longitude": "135° 5.5'E",
+        "longitude": "135.055",
         "depth": "10",
         "magnitude": "2.5",
         "name": "紀伊水道"
@@ -3754,7 +3754,7 @@
     {
         "date": "2021-08-19T08:41:16.200Z",
         "latitude": "40.167",
-        "longitude": "142° 9.0'E",
+        "longitude": "142.090",
         "depth": "25",
         "magnitude": "1.4",
         "name": "岩手県沖"
@@ -3770,7 +3770,7 @@
     {
         "date": "2021-08-19T08:49:26.500Z",
         "latitude": "42.399",
-        "longitude": "142° 0.2'E",
+        "longitude": "142.002",
         "depth": "39",
         "magnitude": "0.5",
         "name": "胆振地方中東部"
@@ -3785,7 +3785,7 @@
     },
     {
         "date": "2021-08-19T09:00:57.800Z",
-        "latitude": "28° 6.7'N",
+        "latitude": "28.067",
         "longitude": "129.366",
         "depth": "24",
         "magnitude": "0.7",
@@ -3793,7 +3793,7 @@
     },
     {
         "date": "2021-08-19T09:06:54.500Z",
-        "latitude": "37° 1.9'N",
+        "latitude": "37.019",
         "longitude": "140.356",
         "depth": "7",
         "magnitude": "0.3",
@@ -3809,8 +3809,8 @@
     },
     {
         "date": "2021-08-19T09:08:17.600Z",
-        "latitude": "41° 1.9'N",
-        "longitude": "143° 7.5'E",
+        "latitude": "41.019",
+        "longitude": "143.075",
         "depth": "40",
         "magnitude": "0.8",
         "name": "青森県東方沖"
@@ -3881,8 +3881,8 @@
     },
     {
         "date": "2021-08-19T09:24:46.500Z",
-        "latitude": "39° 6.6'N",
-        "longitude": "142° 8.6'E",
+        "latitude": "39.066",
+        "longitude": "142.086",
         "depth": "46",
         "magnitude": "1.0",
         "name": "岩手県沖"
@@ -3922,14 +3922,14 @@
     {
         "date": "2021-08-19T09:35:11.600Z",
         "latitude": "33.594",
-        "longitude": "135° 5.9'E",
+        "longitude": "135.059",
         "depth": "9",
         "magnitude": "0.3",
         "name": "紀伊水道"
     },
     {
         "date": "2021-08-19T09:36:14.000Z",
-        "latitude": "34° 3.1'N",
+        "latitude": "34.031",
         "longitude": "135.198",
         "depth": "3",
         "magnitude": "0.2",
@@ -3946,7 +3946,7 @@
     {
         "date": "2021-08-19T09:40:55.300Z",
         "latitude": "37.572",
-        "longitude": "144° 3.8'E",
+        "longitude": "144.038",
         "depth": "30",
         "magnitude": "2.1",
         "name": "三陸沖"
@@ -3961,7 +3961,7 @@
     },
     {
         "date": "2021-08-19T09:48:15.600Z",
-        "latitude": "37° 4.9'N",
+        "latitude": "37.049",
         "longitude": "142.179",
         "depth": "3",
         "magnitude": "1.9",
@@ -3978,7 +3978,7 @@
     {
         "date": "2021-08-19T09:48:29.100Z",
         "latitude": "31.564",
-        "longitude": "131° 2.3'E",
+        "longitude": "131.023",
         "depth": "10",
         "magnitude": "0.5",
         "name": "宮崎県南部山沿い"
@@ -3993,7 +3993,7 @@
     },
     {
         "date": "2021-08-19T09:51:34.300Z",
-        "latitude": "35° 5.8'N",
+        "latitude": "35.058",
         "longitude": "135.391",
         "depth": "14",
         "magnitude": "0.4",
@@ -4033,7 +4033,7 @@
     },
     {
         "date": "2021-08-19T10:13:05.500Z",
-        "latitude": "36° 7.3'N",
+        "latitude": "36.073",
         "longitude": "137.217",
         "depth": "10",
         "magnitude": "0.0",
@@ -4073,7 +4073,7 @@
     },
     {
         "date": "2021-08-19T10:25:33.000Z",
-        "latitude": "33° 1.5'N",
+        "latitude": "33.015",
         "longitude": "130.315",
         "depth": "8",
         "magnitude": "0.6",
@@ -4081,7 +4081,7 @@
     },
     {
         "date": "2021-08-19T10:25:39.000Z",
-        "latitude": "33° 1.8'N",
+        "latitude": "33.018",
         "longitude": "130.314",
         "depth": "8",
         "magnitude": "0.6",
@@ -4097,7 +4097,7 @@
     },
     {
         "date": "2021-08-19T10:30:51.300Z",
-        "latitude": "38° 5.2'N",
+        "latitude": "38.052",
         "longitude": "142.390",
         "depth": "21",
         "magnitude": "1.4",
@@ -4113,8 +4113,8 @@
     },
     {
         "date": "2021-08-19T10:35:45.500Z",
-        "latitude": "34° 0.0'N",
-        "longitude": "135° 6.3'E",
+        "latitude": "34.000",
+        "longitude": "135.063",
         "depth": "11",
         "magnitude": "0.2",
         "name": "紀伊水道"
@@ -4130,7 +4130,7 @@
     {
         "date": "2021-08-19T10:41:24.200Z",
         "latitude": "36.530",
-        "longitude": "141° 3.1'E",
+        "longitude": "141.031",
         "depth": "50",
         "magnitude": "1.3",
         "name": "福島県沖"
@@ -4146,14 +4146,14 @@
     {
         "date": "2021-08-19T10:42:46.100Z",
         "latitude": "37.240",
-        "longitude": "142° 4.6'E",
+        "longitude": "142.046",
         "depth": "28",
         "magnitude": "1.2",
         "name": "福島県沖"
     },
     {
         "date": "2021-08-19T10:43:18.100Z",
-        "latitude": "37° 6.0'N",
+        "latitude": "37.060",
         "longitude": "142.184",
         "depth": "3",
         "magnitude": null,
@@ -4169,7 +4169,7 @@
     },
     {
         "date": "2021-08-19T10:47:16.400Z",
-        "latitude": "33° 4.3'N",
+        "latitude": "33.043",
         "longitude": "130.297",
         "depth": "13",
         "magnitude": "0.5",
@@ -4201,7 +4201,7 @@
     },
     {
         "date": "2021-08-19T10:57:04.100Z",
-        "latitude": "37° 5.2'N",
+        "latitude": "37.052",
         "longitude": "142.174",
         "depth": "5",
         "magnitude": "2.8",
@@ -4281,7 +4281,7 @@
     },
     {
         "date": "2021-08-19T11:10:15.900Z",
-        "latitude": "35° 4.0'N",
+        "latitude": "35.040",
         "longitude": "137.576",
         "depth": "15",
         "magnitude": "0.3",
@@ -4297,24 +4297,24 @@
     },
     {
         "date": "2021-08-19T11:16:18.900Z",
-        "latitude": "29° 0.2'N",
-        "longitude": "130° 4.9'E",
+        "latitude": "29.002",
+        "longitude": "130.049",
         "depth": "43",
         "magnitude": "2.2",
         "name": "奄美大島北東沖"
     },
     {
         "date": "2021-08-19T11:20:25.300Z",
-        "latitude": "31° 3.2'N",
-        "longitude": "131° 0.4'E",
+        "latitude": "31.032",
+        "longitude": "131.004",
         "depth": "45",
         "magnitude": "0.8",
         "name": "大隅半島東方沖"
     },
     {
         "date": "2021-08-19T11:20:51.800Z",
-        "latitude": "31° 3.5'N",
-        "longitude": "131° 0.6'E",
+        "latitude": "31.035",
+        "longitude": "131.006",
         "depth": "45",
         "magnitude": "0.8",
         "name": "大隅半島東方沖"
@@ -4329,7 +4329,7 @@
     },
     {
         "date": "2021-08-19T11:24:53.100Z",
-        "latitude": "33° 1.7'N",
+        "latitude": "33.017",
         "longitude": "130.313",
         "depth": "8",
         "magnitude": "0.3",
@@ -4361,15 +4361,15 @@
     },
     {
         "date": "2021-08-19T11:35:51.000Z",
-        "latitude": "36° 9.8'N",
-        "longitude": "140° 2.5'E",
+        "latitude": "36.098",
+        "longitude": "140.025",
         "depth": "67",
         "magnitude": "0.5",
         "name": "茨城県南部"
     },
     {
         "date": "2021-08-19T11:37:23.000Z",
-        "latitude": "27° 0.7'N",
+        "latitude": "27.007",
         "longitude": "126.571",
         "depth": "20",
         "magnitude": "1.4",
@@ -4450,7 +4450,7 @@
     {
         "date": "2021-08-19T12:11:28.400Z",
         "latitude": "35.496",
-        "longitude": "138° 3.4'E",
+        "longitude": "138.034",
         "depth": "10",
         "magnitude": "0.2",
         "name": "長野県南部"
@@ -4545,15 +4545,15 @@
     },
     {
         "date": "2021-08-19T12:35:26.400Z",
-        "latitude": "35° 3.6'N",
-        "longitude": "133° 2.7'E",
+        "latitude": "35.036",
+        "longitude": "133.027",
         "depth": "7",
         "magnitude": "0.3",
         "name": "広島県北部"
     },
     {
         "date": "2021-08-19T12:38:34.800Z",
-        "latitude": "36° 5.1'N",
+        "latitude": "36.051",
         "longitude": "137.188",
         "depth": "11",
         "magnitude": "0.2",
@@ -4561,7 +4561,7 @@
     },
     {
         "date": "2021-08-19T12:40:28.000Z",
-        "latitude": "40° 9.4'N",
+        "latitude": "40.094",
         "longitude": "141.105",
         "depth": "11",
         "magnitude": "0.3",
@@ -4593,7 +4593,7 @@
     },
     {
         "date": "2021-08-19T12:54:23.300Z",
-        "latitude": "40° 3.1'N",
+        "latitude": "40.031",
         "longitude": "142.550",
         "depth": "22",
         "magnitude": "1.1",
@@ -4649,15 +4649,15 @@
     },
     {
         "date": "2021-08-19T13:06:44.000Z",
-        "latitude": "33° 5.8'N",
-        "longitude": "132° 8.0'E",
+        "latitude": "33.058",
+        "longitude": "132.080",
         "depth": "45",
         "magnitude": "1.2",
         "name": "豊後水道"
     },
     {
         "date": "2021-08-19T13:07:41.800Z",
-        "latitude": "32° 9.8'N",
+        "latitude": "32.098",
         "longitude": "130.324",
         "depth": "6",
         "magnitude": "0.4",
@@ -4665,7 +4665,7 @@
     },
     {
         "date": "2021-08-19T13:11:06.200Z",
-        "latitude": "37° 0.1'N",
+        "latitude": "37.001",
         "longitude": "140.391",
         "depth": "9",
         "magnitude": "0.3",
@@ -4674,7 +4674,7 @@
     {
         "date": "2021-08-19T13:13:11.500Z",
         "latitude": "43.590",
-        "longitude": "142° 5.9'E",
+        "longitude": "142.059",
         "depth": "5",
         "magnitude": "0.8",
         "name": "空知地方北部"
@@ -4697,7 +4697,7 @@
     },
     {
         "date": "2021-08-19T13:18:08.300Z",
-        "latitude": "36° 0.7'N",
+        "latitude": "36.007",
         "longitude": "139.481",
         "depth": "57",
         "magnitude": "0.8",
@@ -4706,7 +4706,7 @@
     {
         "date": "2021-08-19T13:19:26.800Z",
         "latitude": "43.587",
-        "longitude": "142° 5.8'E",
+        "longitude": "142.058",
         "depth": "3",
         "magnitude": "0.8",
         "name": "空知地方北部"
@@ -4714,7 +4714,7 @@
     {
         "date": "2021-08-19T13:22:07.200Z",
         "latitude": "35.542",
-        "longitude": "138° 3.8'E",
+        "longitude": "138.038",
         "depth": "10",
         "magnitude": "-0.4",
         "name": "長野県南部"
@@ -4737,7 +4737,7 @@
     },
     {
         "date": "2021-08-19T13:29:12.800Z",
-        "latitude": "26° 9.4'N",
+        "latitude": "26.094",
         "longitude": "127.302",
         "depth": "20",
         "magnitude": "1.1",
@@ -4786,14 +4786,14 @@
     {
         "date": "2021-08-19T13:46:37.800Z",
         "latitude": "42.220",
-        "longitude": "143° 6.8'E",
+        "longitude": "143.068",
         "depth": "19",
         "magnitude": "0.3",
         "name": "十勝地方南部"
     },
     {
         "date": "2021-08-19T13:56:57.900Z",
-        "latitude": "35° 0.6'N",
+        "latitude": "35.006",
         "longitude": "132.564",
         "depth": "7",
         "magnitude": "0.8",
@@ -4809,7 +4809,7 @@
     },
     {
         "date": "2021-08-19T14:06:11.100Z",
-        "latitude": "40° 8.3'N",
+        "latitude": "40.083",
         "longitude": "141.116",
         "depth": "7",
         "magnitude": "0.2",
@@ -4817,7 +4817,7 @@
     },
     {
         "date": "2021-08-19T14:07:38.900Z",
-        "latitude": "39° 9.6'N",
+        "latitude": "39.096",
         "longitude": "142.180",
         "depth": "34",
         "magnitude": "0.9",
@@ -4825,8 +4825,8 @@
     },
     {
         "date": "2021-08-19T14:08:25.800Z",
-        "latitude": "40° 2.8'N",
-        "longitude": "142° 5.0'E",
+        "latitude": "40.028",
+        "longitude": "142.050",
         "depth": "38",
         "magnitude": "0.7",
         "name": "岩手県沖"
@@ -4841,8 +4841,8 @@
     },
     {
         "date": "2021-08-19T14:09:54.400Z",
-        "latitude": "25° 7.2'N",
-        "longitude": "125° 3.4'E",
+        "latitude": "25.072",
+        "longitude": "125.034",
         "depth": "0",
         "magnitude": "1.1",
         "name": "宮古島近海"
@@ -4850,15 +4850,15 @@
     {
         "date": "2021-08-19T14:10:21.000Z",
         "latitude": "25.237",
-        "longitude": "123° 2.7'E",
+        "longitude": "123.027",
         "depth": "141",
         "magnitude": null,
         "name": "石垣島北西沖"
     },
     {
         "date": "2021-08-19T14:11:46.700Z",
-        "latitude": "35° 3.4'N",
-        "longitude": "133° 2.4'E",
+        "latitude": "35.034",
+        "longitude": "133.024",
         "depth": "6",
         "magnitude": "0.9",
         "name": "広島県北部"
@@ -4897,7 +4897,7 @@
     },
     {
         "date": "2021-08-19T14:30:12.800Z",
-        "latitude": "34° 5.1'N",
+        "latitude": "34.051",
         "longitude": "135.112",
         "depth": "5",
         "magnitude": "0.6",
@@ -4969,7 +4969,7 @@
     },
     {
         "date": "2021-08-19T14:40:56.100Z",
-        "latitude": "33° 5.9'N",
+        "latitude": "33.059",
         "longitude": "130.341",
         "depth": "8",
         "magnitude": "0.1",
@@ -4993,8 +4993,8 @@
     },
     {
         "date": "2021-08-19T14:45:26.400Z",
-        "latitude": "36° 0.8'N",
-        "longitude": "140° 4.1'E",
+        "latitude": "36.008",
+        "longitude": "140.041",
         "depth": "61",
         "magnitude": "0.4",
         "name": "茨城県南部"
@@ -5017,7 +5017,7 @@
     },
     {
         "date": "2021-08-19T14:49:46.000Z",
-        "latitude": "35° 4.2'N",
+        "latitude": "35.042",
         "longitude": "135.377",
         "depth": "14",
         "magnitude": "0.6",
@@ -5025,8 +5025,8 @@
     },
     {
         "date": "2021-08-19T14:55:33.000Z",
-        "latitude": "35° 3.6'N",
-        "longitude": "133° 2.7'E",
+        "latitude": "35.036",
+        "longitude": "133.027",
         "depth": "7",
         "magnitude": "-0.1",
         "name": "広島県北部"
