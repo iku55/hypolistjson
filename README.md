@@ -1,5 +1,7 @@
 # hypolistjson
-気象庁の震源リストをJSONに変換
+気象庁の震源リストをJSONに変換  
+パブリックドメインで利用可能です。  
+このリポジトリのリンクを書いてくれたら喜びます。
 ## リンク
 https://raw.githubusercontent.com/iku55/hypolistjson/main/data/[日付].json  
 日付の例: 20210918
