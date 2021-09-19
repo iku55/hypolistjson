@@ -42,8 +42,8 @@ const genJson = () => {
         // 成形
         var json = {
             date: new Date(('0000'+columns.year.trim()).slice(-4)+'-'+('00'+columns.month.trim()).slice(-2)+'-'+('00'+columns.day.trim()).slice(-2)+'T'+columns.hour.trim()+':'+columns.minute.trim()+':'+('0000'+columns.second.trim()).slice(-4)+'+09:00'),
-            latitude: columns.latitude.replace(/(\d+)°(\d+).(\d+)'N/, '$1.$2$3'),
-            longitude: columns.longitude.replace(/(\d+)°(\d+).(\d+)'E/, '$1.$2$3'),
+            latitude: columns.latitude.replace(/\s/g,'0').replace(/(\d+)°(\d+).(\d+)'N/, '$1.$2$3'),
+            longitude: columns.longitude.replace(/\s/g,'0').replace(/(\d+)°(\d+).(\d+)'E/, '$1.$2$3'),
             depth: columns.depth.trim(),
             magnitude: (columns.magnitude.trim() == '-')?null:columns.magnitude.trim(),
             name: columns.name.trim()
