@@ -6,8 +6,8 @@ const {formatToTimeZone} = require('date-fns-timezone');
 
 var today = new Date();
 var targetDay = formatToTimeZone(today, 'YYYY', {timeZone: 'Asia/Tokyo'})+
-                ("00"+(parseInt(formatToTimeZone(today, 'MM', {timeZone: 'Asia/Tokyo'}))-1)).slice(-2)+
-                ('00'+formatToTimeZone(today, 'DD', {timeZone: 'Asia/Tokyo'})).slice(-2);
+                ("00"+formatToTimeZone(today, 'MM', {timeZone: 'Asia/Tokyo'})).slice(-2)+
+                ('00'+(parseInt(formatToTimeZone(today, 'DD', {timeZone: 'Asia/Tokyo'}))-2)).slice(-2);
 
 // データ取得
 var options = {
@@ -16,6 +16,7 @@ var options = {
 }
 var rows = null;
 request(options, (error, response, body) => {
+    updateLastChecked(formatToTimeZone(today, 'YYYY-MM-DD HH:mm:ss', {timeZone: 'Asia/Tokyo'}));
     if (error) console.error(error);
     if (response.statusCode == 404) {
         console.error('404 error');
@@ -41,7 +42,7 @@ const genJson = () => {
 
         // 成形
         var json = {
-            date: new Date(('0000'+columns.year.trim()).slice(-4)+'-'+('00'+columns.month.trim()).slice(-2)+'-'+('00'+columns.day.trim()).slice(-2)+'T'+columns.hour.trim()+':'+columns.minute.trim()+':'+('0000'+columns.second.trim()).slice(-4)+'+09:00'),
+            time: formatToTimeZone(new Date(('0000'+columns.year.trim()).slice(-4)+'-'+('00'+columns.month.trim()).slice(-2)+'-'+('00'+columns.day.trim()).slice(-2)+'T'+columns.hour.trim()+':'+columns.minute.trim()+':'+('0000'+columns.second.trim()).slice(-4)+'+09:00'), 'YYYY-MM-DD HH:mm:ss', {timeZone: 'Asia/Tokyo'}),
             latitude: columns.latitude.replace(/\s/g,'0').replace(/(\d+)°(\d+).(\d+)'N/, '$1.$2$3'),
             longitude: columns.longitude.replace(/\s/g,'0').replace(/(\d+)°(\d+).(\d+)'E/, '$1.$2$3'),
             depth: columns.depth.trim(),
@@ -52,4 +53,21 @@ const genJson = () => {
     }
     fs.writeFileSync('data/'+targetDay+'.json', JSON.stringify(output, null, "    "));
     console.log('Writed to data/'+targetDay+'.json');
+    updateDayLastChecked(formatToTimeZone(today, 'YYYY-MM-DD HH:mm:ss', {timeZone: 'Asia/Tokyo'}));
+}
+
+// times.json生成
+// 日ごとのlastChecked
+const updateDayLastChecked = (last) => {
+    var json = JSON.parse(fs.readFileSync('data/times.json'));
+    json[targetDay] = {
+        lastChecked: last
+    };
+    fs.writeFileSync('data/times.json', JSON.stringify(json, null, "    "));
+}
+// lastChecked
+const updateLastChecked = (last) => {
+    var json = JSON.parse(fs.readFileSync('data/times.json'));
+    json["lastChecked"] = last;
+    fs.writeFileSync('data/times.json', JSON.stringify(json, null, "    "));
 }
