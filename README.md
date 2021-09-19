@@ -10,12 +10,12 @@ https://raw.githubusercontent.com/iku55/hypolistjson/main/data/[日付].json
 ```
 [
   {
-    "time": "2021-08-18T00:03:31.100Z", #時間(日本時間)
-    "latitude": "28.212", #緯度(南緯)
-    "longitude": "129.331", #経度(東経)
-    "depth": "25", #深さ
-    "magnitude": "0.7", #マグニチュード
-    "name": "奄美大島近海" #震央地名
+    "time": "2021-09-17T00:00:38.0+09:00", #時間(日本時間)
+    "latitude": "35.274", #緯度(南緯)
+    "longitude": "138.569", #経度(東経)
+    "depth": "24", #深さ
+    "magnitude": "0.8", #マグニチュード
+    "name": "山梨県東部・富士五湖" #震央地名
   },
   ...
 ]
