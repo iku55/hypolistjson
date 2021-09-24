@@ -7,7 +7,7 @@ const {formatToTimeZone} = require('date-fns-timezone');
 var today = new Date();
 var targetDay = formatToTimeZone(today, 'YYYY', {timeZone: 'Asia/Tokyo'})+
                 ("00"+formatToTimeZone(today, 'MM', {timeZone: 'Asia/Tokyo'})).slice(-2)+
-                ('00'+(parseInt(formatToTimeZone(today, 'DD', {timeZone: 'Asia/Tokyo'}))-2)).slice(-2);
+                ('00'+(parseInt(formatToTimeZone(today, 'DD', {timeZone: 'Asia/Tokyo'}))-1)).slice(-2);
 
 // データ取得
 var options = {
