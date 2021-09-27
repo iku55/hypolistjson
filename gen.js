@@ -5,9 +5,11 @@ const fs = require('fs');
 const {formatToTimeZone} = require('date-fns-timezone');
 
 var today = new Date();
-var targetDay = formatToTimeZone(today, 'YYYY', {timeZone: 'Asia/Tokyo'})+
-                ("00"+formatToTimeZone(today, 'MM', {timeZone: 'Asia/Tokyo'})).slice(-2)+
-                ('00'+(parseInt(formatToTimeZone(today, 'DD', {timeZone: 'Asia/Tokyo'}))-1)).slice(-2);
+var targetDate = new Date();
+targetDate.setDate(targetDate.getDate() - 1);
+var targetDay = formatToTimeZone(targetDate, 'YYYY', {timeZone: 'Asia/Tokyo'})+
+                ("00"+formatToTimeZone(targetDate, 'MM', {timeZone: 'Asia/Tokyo'})).slice(-2)+
+                ('00'+parseInt(formatToTimeZone(targetDate, 'DD', {timeZone: 'Asia/Tokyo'}))).slice(-2);
 
 // データ取得
 var options = {
