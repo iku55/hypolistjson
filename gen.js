@@ -74,7 +74,6 @@ const updateLastChecked = (last) => {
 }
 
 const DMStoDMM = (match) => {
-    console.log(match);
     var D = parseInt(match[1]);
     var M = parseInt(match[2]);
     var S = parseInt(match[3]);
