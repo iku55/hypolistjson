@@ -40,8 +40,6 @@ const genJson = () => {
     var output = [];
 
     for (row of rows) {
-        var columns = getColumns(row);
-
         console.log(columns.latitude);
         // 成形
         var json = {
