@@ -1,4352 +1,4352 @@
 [
     {
         "time": "2021-09-17T00:00:38.0+09:00",
-        "latitude": "35.274",
-        "longitude": "138.569",
+        "latitude": 35.45111111111111,
+        "longitude": 138.93583333333333,
         "depth": "24",
         "magnitude": "0.8",
         "name": "山梨県東部・富士五湖"
     },
     {
         "time": "2021-09-17T00:02:50.5+09:00",
-        "latitude": "41.551",
-        "longitude": "139.195",
+        "latitude": 41.91694444444444,
+        "longitude": 139.31805555555556,
         "depth": "15",
         "magnitude": "1.9",
         "name": "北海道南西沖"
     },
     {
         "time": "2021-09-17T00:04:13.9+09:00",
-        "latitude": "42.496",
-        "longitude": "141.580",
+        "latitude": 42.818333333333335,
+        "longitude": 141.96666666666667,
         "depth": "0",
         "magnitude": null,
         "name": "胆振地方中東部"
     },
     {
         "time": "2021-09-17T00:07:29.4+09:00",
-        "latitude": "37.298",
-        "longitude": "137.179",
+        "latitude": 37.48555555555556,
+        "longitude": 137.28583333333333,
         "depth": "13",
         "magnitude": "0.0",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T00:07:34.7+09:00",
-        "latitude": "37.302",
-        "longitude": "137.123",
+        "latitude": 37.50055555555556,
+        "longitude": 137.20083333333332,
         "depth": "9",
         "magnitude": "0.7",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T00:08:33.0+09:00",
-        "latitude": "43.275",
-        "longitude": "146.072",
+        "latitude": 43.45138888888889,
+        "longitude": 146.11722222222224,
         "depth": "49",
         "magnitude": "1.1",
         "name": "根室半島南東沖"
     },
     {
         "time": "2021-09-17T00:10:42.7+09:00",
-        "latitude": "34.435",
-        "longitude": "135.579",
+        "latitude": 34.71805555555556,
+        "longitude": 135.9525,
         "depth": "12",
         "magnitude": "0.3",
         "name": "奈良県"
     },
     {
         "time": "2021-09-17T00:13:40.4+09:00",
-        "latitude": "38.076",
-        "longitude": "142.412",
+        "latitude": 38.11833333333333,
+        "longitude": 142.6838888888889,
         "depth": "14",
         "magnitude": null,
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T00:29:04.3+09:00",
-        "latitude": "33.473",
-        "longitude": "135.212",
+        "latitude": 33.784166666666664,
+        "longitude": 135.35055555555556,
         "depth": "11",
         "magnitude": "0.5",
         "name": "和歌山県北部"
     },
     {
         "time": "2021-09-17T00:32:21.2+09:00",
-        "latitude": "34.033",
-        "longitude": "135.042",
+        "latitude": 34.05083333333333,
+        "longitude": 135.06722222222223,
         "depth": "7",
         "magnitude": "0.5",
         "name": "紀伊水道"
     },
     {
         "time": "2021-09-17T00:35:46.5+09:00",
-        "latitude": "37.463",
-        "longitude": "141.480",
+        "latitude": 37.7675,
+        "longitude": 141.8,
         "depth": "44",
         "magnitude": "2.4",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T00:35:57.5+09:00",
-        "latitude": "37.302",
-        "longitude": "137.175",
+        "latitude": 37.50055555555556,
+        "longitude": 137.28472222222223,
         "depth": "11",
         "magnitude": "0.8",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T00:36:32.3+09:00",
-        "latitude": "37.306",
-        "longitude": "137.189",
+        "latitude": 37.501666666666665,
+        "longitude": 137.3025,
         "depth": "13",
         "magnitude": "0.9",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T00:37:46.1+09:00",
-        "latitude": "42.294",
-        "longitude": "143.014",
+        "latitude": 42.48444444444444,
+        "longitude": 143.01777777777778,
         "depth": "55",
         "magnitude": "1.1",
         "name": "十勝地方南部"
     },
     {
         "time": "2021-09-17T00:38:31.3+09:00",
-        "latitude": "36.172",
-        "longitude": "142.415",
+        "latitude": 36.28388888888889,
+        "longitude": 142.68472222222223,
         "depth": "16",
         "magnitude": "2.7",
         "name": "関東東方沖"
     },
     {
         "time": "2021-09-17T00:38:33.5+09:00",
-        "latitude": "37.314",
-        "longitude": "137.178",
+        "latitude": 37.51777777777777,
+        "longitude": 137.28555555555556,
         "depth": "13",
         "magnitude": "0.6",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T00:46:51.6+09:00",
-        "latitude": "37.434",
-        "longitude": "141.347",
+        "latitude": 37.717777777777776,
+        "longitude": 141.5686111111111,
         "depth": "51",
         "magnitude": "1.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T00:47:34.6+09:00",
-        "latitude": "38.350",
-        "longitude": "142.125",
+        "latitude": 38.583333333333336,
+        "longitude": 142.20138888888889,
         "depth": "37",
         "magnitude": "1.0",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T00:55:16.7+09:00",
-        "latitude": "39.039",
-        "longitude": "140.555",
+        "latitude": 39.052499999999995,
+        "longitude": 140.91805555555555,
         "depth": "9",
         "magnitude": "0.6",
         "name": "岩手県内陸南部"
     },
     {
         "time": "2021-09-17T00:59:44.1+09:00",
-        "latitude": "37.250",
-        "longitude": "141.511",
+        "latitude": 37.416666666666664,
+        "longitude": 141.85027777777776,
         "depth": "41",
         "magnitude": "1.7",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T01:02:15.2+09:00",
-        "latitude": "36.288",
-        "longitude": "138.021",
+        "latitude": 36.46888888888889,
+        "longitude": 138.0336111111111,
         "depth": "4",
         "magnitude": "-0.6",
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T01:05:38.1+09:00",
-        "latitude": "38.205",
-        "longitude": "141.455",
+        "latitude": 38.334722222222226,
+        "longitude": 141.7513888888889,
         "depth": "47",
         "magnitude": "1.2",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T01:07:31.4+09:00",
-        "latitude": "33.518",
-        "longitude": "134.577",
+        "latitude": 33.852222222222224,
+        "longitude": 134.95194444444442,
         "depth": "10",
         "magnitude": "0.5",
         "name": "紀伊水道"
     },
     {
         "time": "2021-09-17T01:08:50.9+09:00",
-        "latitude": "43.301",
-        "longitude": "144.096",
+        "latitude": 43.500277777777775,
+        "longitude": 144.15166666666667,
         "depth": "6",
         "magnitude": "0.5",
         "name": "釧路地方中南部"
     },
     {
         "time": "2021-09-17T01:09:51.6+09:00",
-        "latitude": "37.383",
-        "longitude": "141.358",
+        "latitude": 37.634166666666665,
+        "longitude": 141.58555555555557,
         "depth": "55",
         "magnitude": "0.7",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T01:10:46.5+09:00",
-        "latitude": "35.030",
-        "longitude": "135.120",
+        "latitude": 35.05,
+        "longitude": 135.2,
         "depth": "13",
         "magnitude": "0.8",
         "name": "兵庫県南東部"
     },
     {
         "time": "2021-09-17T01:12:03.1+09:00",
-        "latitude": "33.050",
-        "longitude": "140.129",
+        "latitude": 33.083333333333336,
+        "longitude": 140.2025,
         "depth": "123",
         "magnitude": "2.6",
         "name": "八丈島東方沖"
     },
     {
         "time": "2021-09-17T01:14:07.3+09:00",
-        "latitude": "39.591",
-        "longitude": "145.237",
+        "latitude": 39.98361111111111,
+        "longitude": 145.38527777777776,
         "depth": "41",
         "magnitude": "1.5",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T01:19:21.7+09:00",
-        "latitude": "38.343",
-        "longitude": "138.331",
+        "latitude": 38.5675,
+        "longitude": 138.55027777777778,
         "depth": "16",
         "magnitude": "1.0",
         "name": "佐渡付近"
     },
     {
         "time": "2021-09-17T01:25:34.7+09:00",
-        "latitude": "35.372",
-        "longitude": "138.176",
+        "latitude": 35.617222222222225,
+        "longitude": 138.285,
         "depth": "15",
         "magnitude": "-0.1",
         "name": "山梨県中・西部"
     },
     {
         "time": "2021-09-17T01:26:01.6+09:00",
-        "latitude": "37.299",
-        "longitude": "137.148",
+        "latitude": 37.48583333333333,
+        "longitude": 137.23555555555555,
         "depth": "13",
         "magnitude": "0.3",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T01:26:36.3+09:00",
-        "latitude": "37.304",
-        "longitude": "137.152",
+        "latitude": 37.50111111111111,
+        "longitude": 137.25055555555556,
         "depth": "14",
         "magnitude": "0.5",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T01:28:35.9+09:00",
-        "latitude": "37.091",
-        "longitude": "141.068",
+        "latitude": 37.150277777777774,
+        "longitude": 141.10222222222222,
         "depth": "62",
         "magnitude": "0.7",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T01:30:11.0+09:00",
-        "latitude": "31.093",
-        "longitude": "130.167",
+        "latitude": 31.15083333333333,
+        "longitude": 130.2686111111111,
         "depth": "156",
         "magnitude": "1.7",
         "name": "薩摩半島西方沖"
     },
     {
         "time": "2021-09-17T01:31:57.3+09:00",
-        "latitude": "32.274",
-        "longitude": "131.480",
+        "latitude": 32.45111111111111,
+        "longitude": 131.8,
         "depth": "17",
         "magnitude": "1.1",
         "name": "日向灘"
     },
     {
         "time": "2021-09-17T01:32:39.9+09:00",
-        "latitude": "36.395",
-        "longitude": "137.554",
+        "latitude": 36.65138888888889,
+        "longitude": 137.91777777777776,
         "depth": "10",
         "magnitude": "-0.1",
         "name": "長野県北部"
     },
     {
         "time": "2021-09-17T01:33:36.3+09:00",
-        "latitude": "42.550",
-        "longitude": "143.195",
+        "latitude": 42.916666666666664,
+        "longitude": 143.31805555555556,
         "depth": "121",
         "magnitude": "0.7",
         "name": "十勝地方中部"
     },
     {
         "time": "2021-09-17T01:35:18.2+09:00",
-        "latitude": "24.208",
-        "longitude": "123.011",
+        "latitude": 24.335555555555555,
+        "longitude": 123.01694444444445,
         "depth": "21",
         "magnitude": "1.5",
         "name": "与那国島近海"
     },
     {
         "time": "2021-09-17T01:38:19.4+09:00",
-        "latitude": "37.371",
-        "longitude": "139.345",
+        "latitude": 37.61694444444444,
+        "longitude": 139.56805555555556,
         "depth": "14",
         "magnitude": "0.0",
         "name": "福島県会津"
     },
     {
         "time": "2021-09-17T01:38:30.7+09:00",
-        "latitude": "36.400",
-        "longitude": "139.325",
+        "latitude": 36.666666666666664,
+        "longitude": 139.53472222222223,
         "depth": "144",
         "magnitude": "1.6",
         "name": "栃木県南部"
     },
     {
         "time": "2021-09-17T01:44:50.0+09:00",
-        "latitude": "36.134",
-        "longitude": "137.399",
+        "latitude": 36.217777777777776,
+        "longitude": 137.6525,
         "depth": "4",
         "magnitude": "0.0",
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T01:48:09.8+09:00",
-        "latitude": "34.595",
-        "longitude": "134.273",
+        "latitude": 34.984722222222224,
+        "longitude": 134.45083333333332,
         "depth": "15",
         "magnitude": "0.5",
         "name": "兵庫県南西部"
     },
     {
         "time": "2021-09-17T01:48:34.9+09:00",
-        "latitude": "36.401",
-        "longitude": "139.207",
+        "latitude": 36.66694444444444,
+        "longitude": 139.33527777777778,
         "depth": "5",
         "magnitude": "0.2",
         "name": "群馬県北部"
     },
     {
         "time": "2021-09-17T01:48:50.8+09:00",
-        "latitude": "37.015",
-        "longitude": "140.367",
+        "latitude": 37.018055555555556,
+        "longitude": 140.60194444444443,
         "depth": "7",
         "magnitude": "-0.1",
         "name": "福島県中通り"
     },
     {
         "time": "2021-09-17T01:49:01.2+09:00",
-        "latitude": "37.306",
-        "longitude": "137.179",
+        "latitude": 37.501666666666665,
+        "longitude": 137.28583333333333,
         "depth": "12",
         "magnitude": "1.4",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T01:50:09.1+09:00",
-        "latitude": "34.466",
-        "longitude": "137.436",
+        "latitude": 34.76833333333333,
+        "longitude": 137.71833333333333,
         "depth": "20",
         "magnitude": "0.2",
         "name": "静岡県西部"
     },
     {
         "time": "2021-09-17T01:52:51.3+09:00",
-        "latitude": "36.137",
-        "longitude": "137.400",
+        "latitude": 36.218611111111116,
+        "longitude": 137.66666666666666,
         "depth": "5",
         "magnitude": "0.3",
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T01:53:46.1+09:00",
-        "latitude": "33.529",
-        "longitude": "134.589",
+        "latitude": 33.869166666666665,
+        "longitude": 134.96916666666667,
         "depth": "10",
         "magnitude": "1.2",
         "name": "紀伊水道"
     },
     {
         "time": "2021-09-17T01:54:35.0+09:00",
-        "latitude": "37.413",
-        "longitude": "141.407",
+        "latitude": 37.68416666666666,
+        "longitude": 141.6686111111111,
         "depth": "56",
         "magnitude": "0.9",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T01:55:40.4+09:00",
-        "latitude": "37.391",
-        "longitude": "141.338",
+        "latitude": 37.650277777777774,
+        "longitude": 141.55222222222224,
         "depth": "51",
         "magnitude": "1.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T01:58:33.6+09:00",
-        "latitude": "36.542",
-        "longitude": "137.397",
+        "latitude": 36.900555555555556,
+        "longitude": 137.65194444444444,
         "depth": "6",
         "magnitude": "0.2",
         "name": "富山県東部"
     },
     {
         "time": "2021-09-17T01:59:28.3+09:00",
-        "latitude": "24.512",
-        "longitude": "123.573",
+        "latitude": 24.850555555555555,
+        "longitude": 123.95083333333334,
         "depth": "0",
         "magnitude": "1.6",
         "name": "石垣島近海"
     },
     {
         "time": "2021-09-17T01:59:57.3+09:00",
-        "latitude": "36.134",
-        "longitude": "137.412",
+        "latitude": 36.217777777777776,
+        "longitude": 137.6838888888889,
         "depth": "7",
         "magnitude": "0.1",
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T02:02:10.7+09:00",
-        "latitude": "35.194",
-        "longitude": "139.044",
+        "latitude": 35.31777777777778,
+        "longitude": 139.06777777777776,
         "depth": "16",
         "magnitude": "1.0",
         "name": "神奈川県西部"
     },
     {
         "time": "2021-09-17T02:02:52.5+09:00",
-        "latitude": "36.342",
-        "longitude": "139.293",
+        "latitude": 36.56722222222223,
+        "longitude": 139.48416666666665,
         "depth": "6",
         "magnitude": "0.8",
         "name": "栃木県南部"
     },
     {
         "time": "2021-09-17T02:04:03.6+09:00",
-        "latitude": "35.405",
-        "longitude": "137.058",
+        "latitude": 35.668055555555554,
+        "longitude": 137.08555555555557,
         "depth": "10",
         "magnitude": "0.1",
         "name": "岐阜県美濃中西部"
     },
     {
         "time": "2021-09-17T02:05:13.6+09:00",
-        "latitude": "37.262",
-        "longitude": "137.160",
+        "latitude": 37.43388888888889,
+        "longitude": 137.26666666666668,
         "depth": "17",
         "magnitude": "0.6",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T02:07:11.6+09:00",
-        "latitude": "39.041",
-        "longitude": "140.554",
+        "latitude": 39.066944444444445,
+        "longitude": 140.91777777777776,
         "depth": "8",
         "magnitude": "0.3",
         "name": "岩手県内陸南部"
     },
     {
         "time": "2021-09-17T02:07:39.7+09:00",
-        "latitude": "37.314",
-        "longitude": "137.143",
+        "latitude": 37.51777777777777,
+        "longitude": 137.23416666666665,
         "depth": "16",
         "magnitude": "0.3",
         "name": "能登半島沖"
     },
     {
         "time": "2021-09-17T02:08:06.7+09:00",
-        "latitude": "35.036",
-        "longitude": "133.022",
+        "latitude": 35.05166666666666,
+        "longitude": 133.0338888888889,
         "depth": "6",
         "magnitude": "0.0",
         "name": "広島県北部"
     },
     {
         "time": "2021-09-17T02:09:22.6+09:00",
-        "latitude": "34.141",
-        "longitude": "135.107",
+        "latitude": 34.23361111111111,
+        "longitude": 135.1686111111111,
         "depth": "4",
         "magnitude": "0.5",
         "name": "和歌山県北部"
     },
     {
         "time": "2021-09-17T02:10:18.0+09:00",
-        "latitude": "39.280",
-        "longitude": "143.149",
+        "latitude": 39.46666666666667,
+        "longitude": 143.23583333333332,
         "depth": "5",
         "magnitude": "2.3",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T02:10:28.2+09:00",
-        "latitude": "37.421",
-        "longitude": "141.396",
+        "latitude": 37.70027777777778,
+        "longitude": 141.65166666666667,
         "depth": "54",
         "magnitude": "1.3",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T02:11:37.5+09:00",
-        "latitude": "37.311",
-        "longitude": "137.142",
+        "latitude": 37.51694444444444,
+        "longitude": 137.23388888888888,
         "depth": "13",
         "magnitude": "0.7",
         "name": "能登半島沖"
     },
     {
         "time": "2021-09-17T02:18:36.8+09:00",
-        "latitude": "37.297",
-        "longitude": "137.131",
+        "latitude": 37.48527777777778,
+        "longitude": 137.21694444444444,
         "depth": "10",
         "magnitude": "0.1",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T02:18:48.5+09:00",
-        "latitude": "36.426",
-        "longitude": "142.139",
+        "latitude": 36.70166666666667,
+        "longitude": 142.21916666666667,
         "depth": "15",
         "magnitude": "2.9",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T02:22:44.9+09:00",
-        "latitude": "34.059",
-        "longitude": "135.240",
+        "latitude": 34.08583333333333,
+        "longitude": 135.4,
         "depth": "6",
         "magnitude": "0.1",
         "name": "和歌山県北部"
     },
     {
         "time": "2021-09-17T02:24:21.2+09:00",
-        "latitude": "34.061",
-        "longitude": "135.247",
+        "latitude": 34.10027777777778,
+        "longitude": 135.40194444444444,
         "depth": "4",
         "magnitude": "-0.4",
         "name": "和歌山県北部"
     },
     {
         "time": "2021-09-17T02:25:02.3+09:00",
-        "latitude": "43.547",
-        "longitude": "142.106",
+        "latitude": 43.901944444444446,
+        "longitude": 142.16833333333332,
         "depth": "0",
         "magnitude": "-0.6",
         "name": "上川地方中部"
     },
     {
         "time": "2021-09-17T02:28:58.3+09:00",
-        "latitude": "43.302",
-        "longitude": "144.096",
+        "latitude": 43.50055555555556,
+        "longitude": 144.15166666666667,
         "depth": "8",
         "magnitude": "0.8",
         "name": "釧路地方中南部"
     },
     {
         "time": "2021-09-17T02:29:54.5+09:00",
-        "latitude": "37.314",
-        "longitude": "137.154",
+        "latitude": 37.51777777777777,
+        "longitude": 137.2511111111111,
         "depth": "13",
         "magnitude": "0.1",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T02:30:08.8+09:00",
-        "latitude": "37.305",
-        "longitude": "137.152",
+        "latitude": 37.50138888888889,
+        "longitude": 137.25055555555556,
         "depth": "14",
         "magnitude": "0.9",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T02:31:42.1+09:00",
-        "latitude": "34.100",
-        "longitude": "141.276",
+        "latitude": 34.166666666666664,
+        "longitude": 141.45166666666665,
         "depth": "25",
         "magnitude": "1.4",
         "name": "関東東方沖"
     },
     {
         "time": "2021-09-17T02:33:41.4+09:00",
-        "latitude": "36.131",
-        "longitude": "137.400",
+        "latitude": 36.216944444444444,
+        "longitude": 137.66666666666666,
         "depth": "4",
         "magnitude": "0.5",
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T02:43:48.9+09:00",
-        "latitude": "35.149",
-        "longitude": "132.547",
+        "latitude": 35.23583333333333,
+        "longitude": 132.90194444444444,
         "depth": "4",
         "magnitude": "-0.1",
         "name": "島根県東部"
     },
     {
         "time": "2021-09-17T02:45:05.9+09:00",
-        "latitude": "36.130",
-        "longitude": "138.007",
+        "latitude": 36.21666666666667,
+        "longitude": 138.00194444444443,
         "depth": "13",
         "magnitude": "-0.5",
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T02:50:50.3+09:00",
-        "latitude": "38.263",
-        "longitude": "141.290",
+        "latitude": 38.43416666666666,
+        "longitude": 141.48333333333332,
         "depth": "13",
         "magnitude": "0.5",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T02:51:01.3+09:00",
-        "latitude": "43.232",
-        "longitude": "142.481",
+        "latitude": 43.38388888888889,
+        "longitude": 142.80027777777778,
         "depth": "6",
         "magnitude": "0.0",
         "name": "十勝地方北部"
     },
     {
         "time": "2021-09-17T02:54:13.1+09:00",
-        "latitude": "31.162",
-        "longitude": "130.228",
+        "latitude": 31.26722222222222,
+        "longitude": 130.3688888888889,
         "depth": "161",
         "magnitude": "3.3",
         "name": "鹿児島県薩摩地方"
     },
     {
         "time": "2021-09-17T02:56:03.5+09:00",
-        "latitude": "36.186",
-        "longitude": "139.215",
+        "latitude": 36.30166666666666,
+        "longitude": 139.3513888888889,
         "depth": "132",
         "magnitude": "1.1",
         "name": "群馬県南部"
     },
     {
         "time": "2021-09-17T02:56:53.4+09:00",
-        "latitude": "37.305",
-        "longitude": "137.143",
+        "latitude": 37.50138888888889,
+        "longitude": 137.23416666666665,
         "depth": "13",
         "magnitude": "0.8",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T02:57:23.9+09:00",
-        "latitude": "35.093",
-        "longitude": "135.462",
+        "latitude": 35.15083333333333,
+        "longitude": 135.76722222222224,
         "depth": "12",
         "magnitude": "-0.1",
         "name": "京都府南部"
     },
     {
         "time": "2021-09-17T02:57:53.0+09:00",
-        "latitude": "43.300",
-        "longitude": "144.096",
+        "latitude": 43.5,
+        "longitude": 144.15166666666667,
         "depth": "7",
         "magnitude": "0.7",
         "name": "釧路地方中南部"
     },
     {
         "time": "2021-09-17T02:58:27.2+09:00",
-        "latitude": "37.069",
-        "longitude": "142.123",
+        "latitude": 37.1025,
+        "longitude": 142.20083333333332,
         "depth": "12",
         "magnitude": "1.6",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T02:59:38.9+09:00",
-        "latitude": "43.213",
-        "longitude": "143.033",
+        "latitude": 43.350833333333334,
+        "longitude": 143.05083333333334,
         "depth": "3",
         "magnitude": "0.7",
         "name": "十勝地方北部"
     },
     {
         "time": "2021-09-17T03:08:12.1+09:00",
-        "latitude": "34.061",
-        "longitude": "135.065",
+        "latitude": 34.10027777777778,
+        "longitude": 135.1013888888889,
         "depth": "7",
         "magnitude": "0.9",
         "name": "紀伊水道"
     },
     {
         "time": "2021-09-17T03:09:20.9+09:00",
-        "latitude": "32.509",
-        "longitude": "130.459",
+        "latitude": 32.83583333333333,
+        "longitude": 130.7525,
         "depth": "12",
         "magnitude": "0.3",
         "name": "熊本県熊本地方"
     },
     {
         "time": "2021-09-17T03:18:03.7+09:00",
-        "latitude": "37.307",
-        "longitude": "137.146",
+        "latitude": 37.50194444444445,
+        "longitude": 137.23499999999999,
         "depth": "13",
         "magnitude": "1.5",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T03:18:41.8+09:00",
-        "latitude": "37.421",
-        "longitude": "141.342",
+        "latitude": 37.70027777777778,
+        "longitude": 141.56722222222223,
         "depth": "53",
         "magnitude": "1.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T03:19:44.4+09:00",
-        "latitude": "32.351",
-        "longitude": "131.098",
+        "latitude": 32.58361111111111,
+        "longitude": 131.15222222222224,
         "depth": "13",
         "magnitude": "2.0",
         "name": "宮崎県北部山沿い"
     },
     {
         "time": "2021-09-17T03:21:34.6+09:00",
-        "latitude": "37.200",
-        "longitude": "141.588",
+        "latitude": 37.333333333333336,
+        "longitude": 141.9688888888889,
         "depth": "30",
         "magnitude": "1.5",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T03:22:02.1+09:00",
-        "latitude": "38.525",
-        "longitude": "142.272",
+        "latitude": 38.86805555555556,
+        "longitude": 142.45055555555555,
         "depth": "32",
         "magnitude": "1.4",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T03:23:32.2+09:00",
-        "latitude": "24.531",
-        "longitude": "125.045",
+        "latitude": 24.88361111111111,
+        "longitude": 125.06805555555555,
         "depth": "58",
         "magnitude": "1.6",
         "name": "宮古島近海"
     },
     {
         "time": "2021-09-17T03:28:05.8+09:00",
-        "latitude": "37.274",
-        "longitude": "137.092",
+        "latitude": 37.45111111111111,
+        "longitude": 137.15055555555557,
         "depth": "11",
         "magnitude": "0.1",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T03:29:15.5+09:00",
-        "latitude": "35.069",
-        "longitude": "132.324",
+        "latitude": 35.1025,
+        "longitude": 132.53444444444443,
         "depth": "9",
         "magnitude": "0.3",
         "name": "島根県西部"
     },
     {
         "time": "2021-09-17T03:29:15.6+09:00",
-        "latitude": "37.205",
-        "longitude": "141.580",
+        "latitude": 37.334722222222226,
+        "longitude": 141.96666666666667,
         "depth": "32",
         "magnitude": "1.1",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T03:30:51.2+09:00",
-        "latitude": "38.517",
-        "longitude": "142.272",
+        "latitude": 38.85194444444445,
+        "longitude": 142.45055555555555,
         "depth": "34",
         "magnitude": "2.2",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T03:31:24.5+09:00",
-        "latitude": "37.302",
-        "longitude": "137.175",
+        "latitude": 37.50055555555556,
+        "longitude": 137.28472222222223,
         "depth": "12",
         "magnitude": "0.9",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T03:32:24.4+09:00",
-        "latitude": "33.365",
-        "longitude": "130.390",
+        "latitude": 33.60138888888889,
+        "longitude": 130.65,
         "depth": "13",
         "magnitude": "0.4",
         "name": "福岡県筑豊地方"
     },
     {
         "time": "2021-09-17T03:33:00.6+09:00",
-        "latitude": "37.302",
-        "longitude": "137.172",
+        "latitude": 37.50055555555556,
+        "longitude": 137.2838888888889,
         "depth": "11",
         "magnitude": "0.4",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T03:33:31.9+09:00",
-        "latitude": "36.149",
-        "longitude": "142.104",
+        "latitude": 36.23583333333333,
+        "longitude": 142.16777777777776,
         "depth": "3",
         "magnitude": "1.6",
         "name": "茨城県沖"
     },
     {
         "time": "2021-09-17T03:37:47.8+09:00",
-        "latitude": "37.456",
-        "longitude": "142.230",
+        "latitude": 37.751666666666665,
+        "longitude": 142.38333333333333,
         "depth": "27",
         "magnitude": "1.2",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T03:38:56.6+09:00",
-        "latitude": "38.517",
-        "longitude": "142.273",
+        "latitude": 38.85194444444445,
+        "longitude": 142.45083333333332,
         "depth": "35",
         "magnitude": "2.4",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T03:39:52.7+09:00",
-        "latitude": "36.507",
-        "longitude": "140.142",
+        "latitude": 36.83527777777778,
+        "longitude": 140.23388888888888,
         "depth": "110",
         "magnitude": "1.4",
         "name": "栃木県南部"
     },
     {
         "time": "2021-09-17T03:40:17.6+09:00",
-        "latitude": "33.244",
-        "longitude": "132.381",
+        "latitude": 33.401111111111106,
+        "longitude": 132.6336111111111,
         "depth": "39",
         "magnitude": "0.8",
         "name": "愛媛県南予"
     },
     {
         "time": "2021-09-17T03:44:08.6+09:00",
-        "latitude": "37.025",
-        "longitude": "139.206",
+        "latitude": 37.03472222222222,
+        "longitude": 139.335,
         "depth": "7",
         "magnitude": "0.4",
         "name": "福島県会津"
     },
     {
         "time": "2021-09-17T03:47:50.5+09:00",
-        "latitude": "37.311",
-        "longitude": "137.149",
+        "latitude": 37.51694444444444,
+        "longitude": 137.23583333333332,
         "depth": "16",
         "magnitude": "0.4",
         "name": "能登半島沖"
     },
     {
         "time": "2021-09-17T03:50:24.4+09:00",
-        "latitude": "27.270",
-        "longitude": "128.433",
+        "latitude": 27.45,
+        "longitude": 128.7175,
         "depth": "38",
         "magnitude": "1.1",
         "name": "沖縄本島近海"
     },
     {
         "time": "2021-09-17T03:53:03.4+09:00",
-        "latitude": "35.555",
-        "longitude": "139.227",
+        "latitude": 35.918055555555554,
+        "longitude": 139.3686111111111,
         "depth": "145",
         "magnitude": "1.4",
         "name": "埼玉県南部"
     },
     {
         "time": "2021-09-17T03:59:49.0+09:00",
-        "latitude": "36.032",
-        "longitude": "137.337",
+        "latitude": 36.050555555555555,
+        "longitude": 137.55194444444444,
         "depth": "6",
         "magnitude": "1.6",
         "name": "岐阜県飛騨地方"
     },
     {
         "time": "2021-09-17T04:02:22.6+09:00",
-        "latitude": "34.526",
-        "longitude": "134.232",
+        "latitude": 34.86833333333333,
+        "longitude": 134.3838888888889,
         "depth": "13",
         "magnitude": "0.5",
         "name": "兵庫県南西部"
     },
     {
         "time": "2021-09-17T04:05:24.4+09:00",
-        "latitude": "43.319",
-        "longitude": "144.089",
+        "latitude": 43.51916666666666,
+        "longitude": 144.13583333333332,
         "depth": "7",
         "magnitude": "0.0",
         "name": "網走地方"
     },
     {
         "time": "2021-09-17T04:07:03.8+09:00",
-        "latitude": "39.221",
-        "longitude": "144.328",
+        "latitude": 39.36694444444444,
+        "longitude": 144.53555555555556,
         "depth": "27",
         "magnitude": "1.6",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T04:12:27.9+09:00",
-        "latitude": "36.522",
-        "longitude": "140.326",
+        "latitude": 36.867222222222225,
+        "longitude": 140.535,
         "depth": "6",
         "magnitude": "0.1",
         "name": "福島県中通り"
     },
     {
         "time": "2021-09-17T04:14:05.3+09:00",
-        "latitude": "26.308",
-        "longitude": "127.426",
+        "latitude": 26.502222222222223,
+        "longitude": 127.70166666666667,
         "depth": "37",
         "magnitude": "1.9",
         "name": "沖縄本島近海"
     },
     {
         "time": "2021-09-17T04:15:14.7+09:00",
-        "latitude": "44.039",
-        "longitude": "147.529",
+        "latitude": 44.052499999999995,
+        "longitude": 147.86916666666667,
         "depth": "120",
         "magnitude": "2.7",
         "name": "択捉島南東沖"
     },
     {
         "time": "2021-09-17T04:19:00.3+09:00",
-        "latitude": "26.309",
-        "longitude": "127.423",
+        "latitude": 26.5025,
+        "longitude": 127.70083333333334,
         "depth": "37",
         "magnitude": "1.0",
         "name": "沖縄本島近海"
     },
     {
         "time": "2021-09-17T04:21:43.7+09:00",
-        "latitude": "37.021",
-        "longitude": "140.396",
+        "latitude": 37.03361111111111,
+        "longitude": 140.65166666666667,
         "depth": "13",
         "magnitude": "0.9",
         "name": "福島県浜通り"
     },
     {
         "time": "2021-09-17T04:23:40.2+09:00",
-        "latitude": "37.305",
-        "longitude": "137.140",
+        "latitude": 37.50138888888889,
+        "longitude": 137.23333333333332,
         "depth": "12",
         "magnitude": "0.3",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T04:26:23.9+09:00",
-        "latitude": "37.287",
-        "longitude": "137.192",
+        "latitude": 37.468611111111116,
+        "longitude": 137.31722222222223,
         "depth": "9",
         "magnitude": "0.5",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T04:31:53.3+09:00",
-        "latitude": "36.563",
-        "longitude": "139.411",
+        "latitude": 36.93416666666666,
+        "longitude": 139.6836111111111,
         "depth": "7",
         "magnitude": "-0.1",
         "name": "栃木県北部"
     },
     {
         "time": "2021-09-17T04:34:23.1+09:00",
-        "latitude": "36.567",
-        "longitude": "139.399",
+        "latitude": 36.93527777777778,
+        "longitude": 139.6525,
         "depth": "3",
         "magnitude": "-0.9",
         "name": "栃木県北部"
     },
     {
         "time": "2021-09-17T04:35:59.3+09:00",
-        "latitude": "37.035",
-        "longitude": "141.239",
+        "latitude": 37.05138888888889,
+        "longitude": 141.38583333333332,
         "depth": "9",
         "magnitude": "1.5",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T04:38:30.2+09:00",
-        "latitude": "37.088",
-        "longitude": "141.036",
+        "latitude": 37.135555555555555,
+        "longitude": 141.05166666666668,
         "depth": "51",
         "magnitude": "1.1",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T04:38:46.3+09:00",
-        "latitude": "38.355",
-        "longitude": "144.219",
+        "latitude": 38.584722222222226,
+        "longitude": 144.3525,
         "depth": "19",
         "magnitude": "1.3",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T04:39:24.1+09:00",
-        "latitude": "44.361",
-        "longitude": "144.545",
+        "latitude": 44.60027777777778,
+        "longitude": 144.9013888888889,
         "depth": "16",
         "magnitude": "1.8",
         "name": "網走沖"
     },
     {
         "time": "2021-09-17T04:40:42.9+09:00",
-        "latitude": "37.304",
-        "longitude": "137.173",
+        "latitude": 37.50111111111111,
+        "longitude": 137.28416666666666,
         "depth": "12",
         "magnitude": "3.0",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T04:42:05.8+09:00",
-        "latitude": "37.304",
-        "longitude": "137.174",
+        "latitude": 37.50111111111111,
+        "longitude": 137.28444444444443,
         "depth": "11",
         "magnitude": "0.9",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T04:42:53.5+09:00",
-        "latitude": "37.408",
-        "longitude": "141.368",
+        "latitude": 37.66888888888889,
+        "longitude": 141.60222222222222,
         "depth": "54",
         "magnitude": "1.1",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T04:47:19.9+09:00",
-        "latitude": "37.300",
-        "longitude": "137.146",
+        "latitude": 37.5,
+        "longitude": 137.23499999999999,
         "depth": "12",
         "magnitude": "0.2",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T04:49:45.2+09:00",
-        "latitude": "35.226",
-        "longitude": "136.529",
+        "latitude": 35.36833333333333,
+        "longitude": 136.86916666666667,
         "depth": "316",
         "magnitude": "2.5",
         "name": "愛知県西部"
     },
     {
         "time": "2021-09-17T04:50:44.8+09:00",
-        "latitude": "37.305",
-        "longitude": "137.125",
+        "latitude": 37.50138888888889,
+        "longitude": 137.20138888888889,
         "depth": "12",
         "magnitude": "0.7",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T04:52:21.3+09:00",
-        "latitude": "36.197",
-        "longitude": "141.290",
+        "latitude": 36.31861111111112,
+        "longitude": 141.48333333333332,
         "depth": "29",
         "magnitude": "1.5",
         "name": "茨城県沖"
     },
     {
         "time": "2021-09-17T04:53:17.3+09:00",
-        "latitude": "37.303",
-        "longitude": "137.150",
+        "latitude": 37.50083333333333,
+        "longitude": 137.25,
         "depth": "13",
         "magnitude": "0.7",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T05:02:10.2+09:00",
-        "latitude": "37.376",
-        "longitude": "141.347",
+        "latitude": 37.61833333333333,
+        "longitude": 141.5686111111111,
         "depth": "53",
         "magnitude": "1.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T05:04:02.6+09:00",
-        "latitude": "36.348",
-        "longitude": "141.438",
+        "latitude": 36.56888888888889,
+        "longitude": 141.7188888888889,
         "depth": "18",
         "magnitude": "1.7",
         "name": "茨城県沖"
     },
     {
         "time": "2021-09-17T05:04:10.0+09:00",
-        "latitude": "37.365",
-        "longitude": "141.341",
+        "latitude": 37.60138888888889,
+        "longitude": 141.56694444444443,
         "depth": "54",
         "magnitude": "1.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T05:04:57.2+09:00",
-        "latitude": "37.314",
-        "longitude": "137.135",
+        "latitude": 37.51777777777777,
+        "longitude": 137.21805555555557,
         "depth": "12",
         "magnitude": "0.6",
         "name": "能登半島沖"
     },
     {
         "time": "2021-09-17T05:08:47.9+09:00",
-        "latitude": "31.283",
-        "longitude": "130.341",
+        "latitude": 31.467499999999998,
+        "longitude": 130.56694444444443,
         "depth": "7",
         "magnitude": "1.0",
         "name": "鹿児島湾"
     },
     {
         "time": "2021-09-17T05:11:22.5+09:00",
-        "latitude": "36.096",
-        "longitude": "138.010",
+        "latitude": 36.151666666666664,
+        "longitude": 138.01666666666668,
         "depth": "10",
         "magnitude": "0.5",
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T05:15:11.0+09:00",
-        "latitude": "34.590",
-        "longitude": "138.101",
+        "latitude": 34.983333333333334,
+        "longitude": 138.16694444444443,
         "depth": "25",
         "magnitude": "3.3",
         "name": "静岡県中部"
     },
     {
         "time": "2021-09-17T05:19:18.7+09:00",
-        "latitude": "34.086",
-        "longitude": "135.425",
+        "latitude": 34.135,
+        "longitude": 135.70138888888889,
         "depth": "59",
         "magnitude": "1.6",
         "name": "奈良県"
     },
     {
         "time": "2021-09-17T05:19:34.4+09:00",
-        "latitude": "33.418",
-        "longitude": "140.419",
+        "latitude": 33.68555555555555,
+        "longitude": 140.68583333333333,
         "depth": "44",
         "magnitude": "1.6",
         "name": "八丈島東方沖"
     },
     {
         "time": "2021-09-17T05:21:17.4+09:00",
-        "latitude": "37.311",
-        "longitude": "137.159",
+        "latitude": 37.51694444444444,
+        "longitude": 137.2525,
         "depth": "14",
         "magnitude": "0.4",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T05:25:31.8+09:00",
-        "latitude": "34.581",
-        "longitude": "138.110",
+        "latitude": 34.966944444444444,
+        "longitude": 138.18333333333334,
         "depth": "28",
         "magnitude": "0.7",
         "name": "静岡県中部"
     },
     {
         "time": "2021-09-17T05:26:19.4+09:00",
-        "latitude": "37.368",
-        "longitude": "141.394",
+        "latitude": 37.602222222222224,
+        "longitude": 141.6511111111111,
         "depth": "25",
         "magnitude": "1.1",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T05:26:48.3+09:00",
-        "latitude": "32.305",
-        "longitude": "130.435",
+        "latitude": 32.50138888888889,
+        "longitude": 130.71805555555557,
         "depth": "12",
         "magnitude": "0.8",
         "name": "熊本県熊本地方"
     },
     {
         "time": "2021-09-17T05:31:18.3+09:00",
-        "latitude": "37.308",
-        "longitude": "137.175",
+        "latitude": 37.50222222222222,
+        "longitude": 137.28472222222223,
         "depth": "12",
         "magnitude": "0.2",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T05:32:19.1+09:00",
-        "latitude": "37.298",
-        "longitude": "137.135",
+        "latitude": 37.48555555555556,
+        "longitude": 137.21805555555557,
         "depth": "12",
         "magnitude": "1.0",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T05:32:29.2+09:00",
-        "latitude": "34.584",
-        "longitude": "138.107",
+        "latitude": 34.967777777777776,
+        "longitude": 138.1686111111111,
         "depth": "29",
         "magnitude": "0.1",
         "name": "静岡県中部"
     },
     {
         "time": "2021-09-17T05:35:57.9+09:00",
-        "latitude": "30.308",
-        "longitude": "130.229",
+        "latitude": 30.502222222222223,
+        "longitude": 130.36916666666667,
         "depth": "11",
         "magnitude": "2.3",
         "name": "種子島近海"
     },
     {
         "time": "2021-09-17T05:36:06.8+09:00",
-        "latitude": "39.151",
-        "longitude": "142.175",
+        "latitude": 39.250277777777775,
+        "longitude": 142.28472222222223,
         "depth": "25",
         "magnitude": "0.6",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T05:39:54.7+09:00",
-        "latitude": "34.588",
-        "longitude": "138.102",
+        "latitude": 34.96888888888889,
+        "longitude": 138.16722222222222,
         "depth": "25",
         "magnitude": "1.7",
         "name": "静岡県中部"
     },
     {
         "time": "2021-09-17T05:46:49.9+09:00",
-        "latitude": "34.483",
-        "longitude": "132.082",
+        "latitude": 34.80083333333333,
+        "longitude": 132.1338888888889,
         "depth": "13",
         "magnitude": "0.9",
         "name": "島根県西部"
     },
     {
         "time": "2021-09-17T05:48:36.4+09:00",
-        "latitude": "37.208",
-        "longitude": "141.427",
+        "latitude": 37.33555555555556,
+        "longitude": 141.70194444444442,
         "depth": "43",
         "magnitude": "1.1",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T05:54:34.1+09:00",
-        "latitude": "37.309",
-        "longitude": "137.124",
+        "latitude": 37.5025,
+        "longitude": 137.2011111111111,
         "depth": "11",
         "magnitude": "0.1",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T05:58:05.9+09:00",
-        "latitude": "41.109",
-        "longitude": "142.174",
+        "latitude": 41.16916666666666,
+        "longitude": 142.28444444444443,
         "depth": "51",
         "magnitude": "1.8",
         "name": "青森県東方沖"
     },
     {
         "time": "2021-09-17T05:58:31.2+09:00",
-        "latitude": "37.312",
-        "longitude": "137.185",
+        "latitude": 37.51722222222222,
+        "longitude": 137.3013888888889,
         "depth": "12",
         "magnitude": "1.2",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T06:01:45.8+09:00",
-        "latitude": "37.361",
-        "longitude": "141.341",
+        "latitude": 37.60027777777778,
+        "longitude": 141.56694444444443,
         "depth": "54",
         "magnitude": "1.1",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T06:07:13.2+09:00",
-        "latitude": "35.383",
-        "longitude": "136.484",
+        "latitude": 35.634166666666665,
+        "longitude": 136.8011111111111,
         "depth": "15",
         "magnitude": "0.3",
         "name": "岐阜県美濃中西部"
     },
     {
         "time": "2021-09-17T06:07:22.2+09:00",
-        "latitude": "38.455",
-        "longitude": "141.445",
+        "latitude": 38.75138888888889,
+        "longitude": 141.73472222222222,
         "depth": "53",
         "magnitude": "0.9",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T06:09:45.4+09:00",
-        "latitude": "35.134",
-        "longitude": "137.219",
+        "latitude": 35.217777777777776,
+        "longitude": 137.3525,
         "depth": "43",
         "magnitude": "1.3",
         "name": "愛知県西部"
     },
     {
         "time": "2021-09-17T06:28:50.9+09:00",
-        "latitude": "37.234",
-        "longitude": "141.552",
+        "latitude": 37.38444444444444,
+        "longitude": 141.91722222222222,
         "depth": "34",
         "magnitude": "1.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T06:32:39.6+09:00",
-        "latitude": "39.274",
-        "longitude": "142.312",
+        "latitude": 39.45111111111111,
+        "longitude": 142.51722222222224,
         "depth": "28",
         "magnitude": "1.6",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T06:37:08.2+09:00",
-        "latitude": "35.033",
-        "longitude": "133.026",
+        "latitude": 35.05083333333333,
+        "longitude": 133.035,
         "depth": "7",
         "magnitude": "1.4",
         "name": "広島県北部"
     },
     {
         "time": "2021-09-17T06:37:11.3+09:00",
-        "latitude": "33.044",
-        "longitude": "132.045",
+        "latitude": 33.06777777777778,
+        "longitude": 132.06805555555556,
         "depth": "9",
         "magnitude": "1.5",
         "name": "豊後水道"
     },
     {
         "time": "2021-09-17T06:39:00.7+09:00",
-        "latitude": "38.335",
-        "longitude": "142.022",
+        "latitude": 38.55138888888889,
+        "longitude": 142.0338888888889,
         "depth": "49",
         "magnitude": "0.9",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T06:41:05.0+09:00",
-        "latitude": "37.305",
-        "longitude": "137.146",
+        "latitude": 37.50138888888889,
+        "longitude": 137.23499999999999,
         "depth": "13",
         "magnitude": "0.7",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T06:42:10.0+09:00",
-        "latitude": "40.444",
-        "longitude": "141.356",
+        "latitude": 40.73444444444444,
+        "longitude": 141.585,
         "depth": "73",
         "magnitude": "3.3",
         "name": "青森県東方沖"
     },
     {
         "time": "2021-09-17T06:43:23.8+09:00",
-        "latitude": "37.316",
-        "longitude": "137.149",
+        "latitude": 37.51833333333333,
+        "longitude": 137.23583333333332,
         "depth": "13",
         "magnitude": "0.0",
         "name": "能登半島沖"
     },
     {
         "time": "2021-09-17T06:44:09.2+09:00",
-        "latitude": "39.467",
-        "longitude": "142.554",
+        "latitude": 39.76861111111111,
+        "longitude": 142.91777777777776,
         "depth": "24",
         "magnitude": "1.7",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T06:49:37.3+09:00",
-        "latitude": "39.027",
-        "longitude": "140.511",
+        "latitude": 39.03527777777778,
+        "longitude": 140.85027777777776,
         "depth": "8",
         "magnitude": "0.7",
         "name": "岩手県内陸南部"
     },
     {
         "time": "2021-09-17T06:50:47.1+09:00",
-        "latitude": "32.475",
-        "longitude": "130.382",
+        "latitude": 32.78472222222222,
+        "longitude": 130.6338888888889,
         "depth": "12",
         "magnitude": "1.1",
         "name": "熊本県熊本地方"
     },
     {
         "time": "2021-09-17T06:51:18.4+09:00",
-        "latitude": "32.374",
-        "longitude": "130.434",
+        "latitude": 32.617777777777775,
+        "longitude": 130.71777777777777,
         "depth": "8",
         "magnitude": "0.7",
         "name": "熊本県熊本地方"
     },
     {
         "time": "2021-09-17T06:52:01.5+09:00",
-        "latitude": "38.050",
-        "longitude": "142.410",
+        "latitude": 38.083333333333336,
+        "longitude": 142.68333333333334,
         "depth": "18",
         "magnitude": "1.1",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T06:54:21.7+09:00",
-        "latitude": "37.300",
-        "longitude": "137.130",
+        "latitude": 37.5,
+        "longitude": 137.21666666666667,
         "depth": "13",
         "magnitude": "1.3",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T06:54:44.9+09:00",
-        "latitude": "33.274",
-        "longitude": "138.258",
+        "latitude": 33.45111111111111,
+        "longitude": 138.4188888888889,
         "depth": "296",
         "magnitude": "3.5",
         "name": "東海道南方沖"
     },
     {
         "time": "2021-09-17T06:56:10.4+09:00",
-        "latitude": "37.449",
-        "longitude": "141.347",
+        "latitude": 37.73583333333333,
+        "longitude": 141.5686111111111,
         "depth": "54",
         "magnitude": "2.3",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T06:56:52.1+09:00",
-        "latitude": "34.220",
-        "longitude": "138.073",
+        "latitude": 34.36666666666667,
+        "longitude": 138.1175,
         "depth": "39",
         "magnitude": null,
         "name": "遠州灘"
     },
     {
         "time": "2021-09-17T07:02:33.4+09:00",
-        "latitude": "33.441",
-        "longitude": "135.319",
+        "latitude": 33.73361111111111,
+        "longitude": 135.51916666666668,
         "depth": "14",
         "magnitude": "0.9",
         "name": "和歌山県南部"
     },
     {
         "time": "2021-09-17T07:08:04.2+09:00",
-        "latitude": "37.107",
-        "longitude": "142.097",
+        "latitude": 37.16861111111111,
+        "longitude": 142.15194444444444,
         "depth": "22",
         "magnitude": "1.4",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T07:09:12.1+09:00",
-        "latitude": "37.245",
-        "longitude": "141.556",
+        "latitude": 37.40138888888889,
+        "longitude": 141.91833333333332,
         "depth": "37",
         "magnitude": "1.3",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T07:11:31.9+09:00",
-        "latitude": "43.468",
-        "longitude": "144.418",
+        "latitude": 43.76888888888889,
+        "longitude": 144.68555555555557,
         "depth": "7",
         "magnitude": "1.6",
         "name": "網走地方"
     },
     {
         "time": "2021-09-17T07:14:31.1+09:00",
-        "latitude": "39.585",
-        "longitude": "140.329",
+        "latitude": 39.96805555555556,
+        "longitude": 140.53583333333333,
         "depth": "7",
         "magnitude": "0.2",
         "name": "秋田県内陸北部"
     },
     {
         "time": "2021-09-17T07:19:35.2+09:00",
-        "latitude": "34.549",
-        "longitude": "136.015",
+        "latitude": 34.902499999999996,
+        "longitude": 136.01805555555558,
         "depth": "11",
         "magnitude": "0.6",
         "name": "滋賀県南部"
     },
     {
         "time": "2021-09-17T07:22:31.9+09:00",
-        "latitude": "41.281",
-        "longitude": "142.245",
+        "latitude": 41.466944444444444,
+        "longitude": 142.4013888888889,
         "depth": "35",
         "magnitude": "0.8",
         "name": "青森県東方沖"
     },
     {
         "time": "2021-09-17T07:31:08.1+09:00",
-        "latitude": "34.478",
-        "longitude": "137.576",
+        "latitude": 34.785555555555554,
+        "longitude": 137.95166666666665,
         "depth": "31",
         "magnitude": "2.5",
         "name": "静岡県西部"
     },
     {
         "time": "2021-09-17T07:34:00.4+09:00",
-        "latitude": "35.518",
-        "longitude": "137.393",
+        "latitude": 35.852222222222224,
+        "longitude": 137.65083333333334,
         "depth": "11",
         "magnitude": "1.0",
         "name": "長野県南部"
     },
     {
         "time": "2021-09-17T07:44:16.0+09:00",
-        "latitude": "35.518",
-        "longitude": "137.399",
+        "latitude": 35.852222222222224,
+        "longitude": 137.6525,
         "depth": "15",
         "magnitude": "0.7",
         "name": "長野県南部"
     },
     {
         "time": "2021-09-17T07:45:59.6+09:00",
-        "latitude": "33.044",
-        "longitude": "132.046",
+        "latitude": 33.06777777777778,
+        "longitude": 132.06833333333333,
         "depth": "9",
         "magnitude": "1.9",
         "name": "豊後水道"
     },
     {
         "time": "2021-09-17T07:47:03.4+09:00",
-        "latitude": "34.585",
-        "longitude": "135.237",
+        "latitude": 34.96805555555556,
+        "longitude": 135.38527777777776,
         "depth": "10",
         "magnitude": "0.4",
         "name": "大阪府北部"
     },
     {
         "time": "2021-09-17T07:48:43.6+09:00",
-        "latitude": "39.286",
-        "longitude": "141.256",
+        "latitude": 39.468333333333334,
+        "longitude": 141.41833333333332,
         "depth": "72",
         "magnitude": "0.5",
         "name": "岩手県内陸南部"
     },
     {
         "time": "2021-09-17T07:48:47.5+09:00",
-        "latitude": "32.376",
-        "longitude": "130.433",
+        "latitude": 32.61833333333333,
+        "longitude": 130.7175,
         "depth": "7",
         "magnitude": "0.9",
         "name": "熊本県熊本地方"
     },
     {
         "time": "2021-09-17T07:49:11.2+09:00",
-        "latitude": "36.288",
-        "longitude": "139.483",
+        "latitude": 36.46888888888889,
+        "longitude": 139.80083333333334,
         "depth": "115",
         "magnitude": "1.1",
         "name": "栃木県南部"
     },
     {
         "time": "2021-09-17T07:49:23.5+09:00",
-        "latitude": "39.162",
-        "longitude": "142.289",
+        "latitude": 39.26722222222222,
+        "longitude": 142.46916666666667,
         "depth": "28",
         "magnitude": "1.5",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T07:49:31.2+09:00",
-        "latitude": "36.125",
-        "longitude": "137.416",
+        "latitude": 36.20138888888889,
+        "longitude": 137.685,
         "depth": "8",
         "magnitude": "0.4",
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T07:49:46.2+09:00",
-        "latitude": "37.300",
-        "longitude": "137.177",
+        "latitude": 37.5,
+        "longitude": 137.28527777777776,
         "depth": "12",
         "magnitude": "1.5",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T07:51:07.3+09:00",
-        "latitude": "38.235",
-        "longitude": "142.058",
+        "latitude": 38.38472222222222,
+        "longitude": 142.08555555555557,
         "depth": "29",
         "magnitude": "1.1",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T07:51:47.0+09:00",
-        "latitude": "39.555",
-        "longitude": "142.228",
+        "latitude": 39.918055555555554,
+        "longitude": 142.3688888888889,
         "depth": "34",
         "magnitude": "0.9",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T07:53:16.9+09:00",
-        "latitude": "37.430",
-        "longitude": "141.365",
+        "latitude": 37.71666666666667,
+        "longitude": 141.6013888888889,
         "depth": "53",
         "magnitude": "1.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T07:57:45.1+09:00",
-        "latitude": "34.125",
-        "longitude": "135.188",
+        "latitude": 34.20138888888889,
+        "longitude": 135.30222222222224,
         "depth": "5",
         "magnitude": "0.6",
         "name": "和歌山県北部"
     },
     {
         "time": "2021-09-17T07:58:54.5+09:00",
-        "latitude": "39.318",
-        "longitude": "140.168",
+        "latitude": 39.51888888888889,
+        "longitude": 140.2688888888889,
         "depth": "7",
         "magnitude": "0.6",
         "name": "秋田県内陸南部"
     },
     {
         "time": "2021-09-17T08:02:17.3+09:00",
-        "latitude": "37.309",
-        "longitude": "137.135",
+        "latitude": 37.5025,
+        "longitude": 137.21805555555557,
         "depth": "12",
         "magnitude": "1.3",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T08:03:05.3+09:00",
-        "latitude": "43.405",
-        "longitude": "144.449",
+        "latitude": 43.668055555555554,
+        "longitude": 144.73583333333332,
         "depth": "0",
         "magnitude": "1.1",
         "name": "根室地方北部"
     },
     {
         "time": "2021-09-17T08:03:14.3+09:00",
-        "latitude": "34.580",
-        "longitude": "138.104",
+        "latitude": 34.96666666666667,
+        "longitude": 138.16777777777776,
         "depth": "27",
         "magnitude": "0.3",
         "name": "静岡県中部"
     },
     {
         "time": "2021-09-17T08:06:18.9+09:00",
-        "latitude": "39.381",
-        "longitude": "142.072",
+        "latitude": 39.63361111111111,
+        "longitude": 142.11722222222224,
         "depth": "46",
         "magnitude": "0.5",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T08:08:27.9+09:00",
-        "latitude": "37.302",
-        "longitude": "137.175",
+        "latitude": 37.50055555555556,
+        "longitude": 137.28472222222223,
         "depth": "11",
         "magnitude": "1.1",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T08:10:10.3+09:00",
-        "latitude": "37.313",
-        "longitude": "142.012",
+        "latitude": 37.5175,
+        "longitude": 142.01722222222224,
         "depth": "37",
         "magnitude": "1.3",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T08:20:19.9+09:00",
-        "latitude": "35.303",
-        "longitude": "139.397",
+        "latitude": 35.50083333333333,
+        "longitude": 139.65194444444444,
         "depth": "28",
         "magnitude": null,
         "name": "神奈川県東部"
     },
     {
         "time": "2021-09-17T08:20:25.3+09:00",
-        "latitude": "35.318",
-        "longitude": "139.401",
+        "latitude": 35.51888888888889,
+        "longitude": 139.66694444444443,
         "depth": "28",
         "magnitude": "0.7",
         "name": "神奈川県東部"
     },
     {
         "time": "2021-09-17T08:24:29.3+09:00",
-        "latitude": "36.488",
-        "longitude": "140.322",
+        "latitude": 36.80222222222222,
+        "longitude": 140.5338888888889,
         "depth": "7",
         "magnitude": "0.2",
         "name": "茨城県北部"
     },
     {
         "time": "2021-09-17T08:29:16.4+09:00",
-        "latitude": "42.378",
-        "longitude": "144.296",
+        "latitude": 42.61888888888889,
+        "longitude": 144.48499999999999,
         "depth": "54",
         "magnitude": "1.9",
         "name": "釧路沖"
     },
     {
         "time": "2021-09-17T08:34:53.0+09:00",
-        "latitude": "33.513",
-        "longitude": "134.577",
+        "latitude": 33.850833333333334,
+        "longitude": 134.95194444444442,
         "depth": "9",
         "magnitude": "1.0",
         "name": "紀伊水道"
     },
     {
         "time": "2021-09-17T08:37:47.6+09:00",
-        "latitude": "34.579",
-        "longitude": "138.108",
+        "latitude": 34.9525,
+        "longitude": 138.1688888888889,
         "depth": "28",
         "magnitude": "0.3",
         "name": "静岡県中部"
     },
     {
         "time": "2021-09-17T08:38:48.3+09:00",
-        "latitude": "37.306",
-        "longitude": "137.146",
+        "latitude": 37.501666666666665,
+        "longitude": 137.23499999999999,
         "depth": "13",
         "magnitude": "1.3",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T08:41:46.5+09:00",
-        "latitude": "37.311",
-        "longitude": "137.141",
+        "latitude": 37.51694444444444,
+        "longitude": 137.2336111111111,
         "depth": "14",
         "magnitude": "1.6",
         "name": "能登半島沖"
     },
     {
         "time": "2021-09-17T08:46:36.4+09:00",
-        "latitude": "30.500",
-        "longitude": "131.139",
+        "latitude": 30.833333333333332,
+        "longitude": 131.21916666666667,
         "depth": "33",
         "magnitude": "1.4",
         "name": "大隅半島東方沖"
     },
     {
         "time": "2021-09-17T08:48:27.6+09:00",
-        "latitude": "36.452",
-        "longitude": "140.341",
+        "latitude": 36.75055555555556,
+        "longitude": 140.56694444444443,
         "depth": "8",
         "magnitude": "0.6",
         "name": "茨城県北部"
     },
     {
         "time": "2021-09-17T08:51:30.5+09:00",
-        "latitude": "36.172",
-        "longitude": "137.385",
+        "latitude": 36.28388888888889,
+        "longitude": 137.63472222222222,
         "depth": "9",
         "magnitude": "0.4",
         "name": "岐阜県飛騨地方"
     },
     {
         "time": "2021-09-17T08:53:54.8+09:00",
-        "latitude": "36.150",
-        "longitude": "139.437",
+        "latitude": 36.25,
+        "longitude": 139.7186111111111,
         "depth": "64",
         "magnitude": "0.6",
         "name": "栃木県南部"
     },
     {
         "time": "2021-09-17T08:56:15.5+09:00",
-        "latitude": "25.585",
-        "longitude": "128.362",
+        "latitude": 25.968055555555555,
+        "longitude": 128.60055555555556,
         "depth": "41",
         "magnitude": "3.0",
         "name": "沖縄本島近海"
     },
     {
         "time": "2021-09-17T09:03:09.1+09:00",
-        "latitude": "36.339",
-        "longitude": "140.400",
+        "latitude": 36.552499999999995,
+        "longitude": 140.66666666666666,
         "depth": "55",
         "magnitude": "1.9",
         "name": "茨城県沖"
     },
     {
         "time": "2021-09-17T09:03:15.3+09:00",
-        "latitude": "36.468",
-        "longitude": "142.020",
+        "latitude": 36.76888888888889,
+        "longitude": 142.03333333333333,
         "depth": "15",
         "magnitude": "1.4",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T09:05:08.6+09:00",
-        "latitude": "37.080",
-        "longitude": "142.134",
+        "latitude": 37.13333333333333,
+        "longitude": 142.21777777777777,
         "depth": "17",
         "magnitude": "1.1",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T09:05:16.9+09:00",
-        "latitude": "37.301",
-        "longitude": "137.150",
+        "latitude": 37.500277777777775,
+        "longitude": 137.25,
         "depth": "13",
         "magnitude": "1.0",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T09:10:19.2+09:00",
-        "latitude": "28.172",
-        "longitude": "129.263",
+        "latitude": 28.28388888888889,
+        "longitude": 129.43416666666667,
         "depth": "26",
         "magnitude": "2.3",
         "name": "奄美大島近海"
     },
     {
         "time": "2021-09-17T09:12:56.3+09:00",
-        "latitude": "37.561",
-        "longitude": "141.520",
+        "latitude": 37.933611111111105,
+        "longitude": 141.86666666666667,
         "depth": "42",
         "magnitude": "1.6",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T09:13:57.0+09:00",
-        "latitude": "37.195",
-        "longitude": "141.246",
+        "latitude": 37.31805555555556,
+        "longitude": 141.40166666666667,
         "depth": "23",
         "magnitude": "1.1",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T09:14:19.3+09:00",
-        "latitude": "28.154",
-        "longitude": "129.291",
+        "latitude": 28.25111111111111,
+        "longitude": 129.4836111111111,
         "depth": "26",
         "magnitude": "0.8",
         "name": "奄美大島近海"
     },
     {
         "time": "2021-09-17T09:15:17.2+09:00",
-        "latitude": "37.373",
-        "longitude": "141.320",
+        "latitude": 37.6175,
+        "longitude": 141.53333333333333,
         "depth": "54",
         "magnitude": "1.2",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T09:23:01.0+09:00",
-        "latitude": "37.367",
-        "longitude": "141.294",
+        "latitude": 37.60194444444445,
+        "longitude": 141.48444444444442,
         "depth": "51",
         "magnitude": "1.4",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T09:28:14.2+09:00",
-        "latitude": "31.087",
-        "longitude": "131.206",
+        "latitude": 31.135277777777777,
+        "longitude": 131.335,
         "depth": "29",
         "magnitude": "2.7",
         "name": "大隅半島東方沖"
     },
     {
         "time": "2021-09-17T09:28:50.0+09:00",
-        "latitude": "34.038",
-        "longitude": "135.051",
+        "latitude": 34.05222222222222,
+        "longitude": 135.0836111111111,
         "depth": "9",
         "magnitude": "0.4",
         "name": "紀伊水道"
     },
     {
         "time": "2021-09-17T09:44:16.9+09:00",
-        "latitude": "37.303",
-        "longitude": "137.186",
+        "latitude": 37.50083333333333,
+        "longitude": 137.30166666666668,
         "depth": "13",
         "magnitude": "0.8",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T09:50:19.1+09:00",
-        "latitude": "33.045",
-        "longitude": "132.039",
+        "latitude": 33.06805555555556,
+        "longitude": 132.0525,
         "depth": "10",
         "magnitude": "0.9",
         "name": "豊後水道"
     },
     {
         "time": "2021-09-17T09:52:39.6+09:00",
-        "latitude": "42.572",
-        "longitude": "145.257",
+        "latitude": 42.95055555555556,
+        "longitude": 145.4186111111111,
         "depth": "45",
         "magnitude": "2.0",
         "name": "釧路沖"
     },
     {
         "time": "2021-09-17T09:53:14.6+09:00",
-        "latitude": "36.428",
-        "longitude": "142.162",
+        "latitude": 36.702222222222225,
+        "longitude": 142.26722222222224,
         "depth": "13",
         "magnitude": "2.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T09:54:43.9+09:00",
-        "latitude": "36.119",
-        "longitude": "137.410",
+        "latitude": 36.18583333333333,
+        "longitude": 137.68333333333334,
         "depth": "2",
         "magnitude": "1.0",
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T09:54:48.3+09:00",
-        "latitude": "36.124",
-        "longitude": "137.413",
+        "latitude": 36.20111111111111,
+        "longitude": 137.68416666666667,
         "depth": "5",
         "magnitude": null,
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T09:55:00.9+09:00",
-        "latitude": "36.117",
-        "longitude": "137.412",
+        "latitude": 36.18527777777778,
+        "longitude": 137.6838888888889,
         "depth": "4",
         "magnitude": "0.7",
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T10:04:01.8+09:00",
-        "latitude": "42.413",
-        "longitude": "144.456",
+        "latitude": 42.68416666666666,
+        "longitude": 144.75166666666667,
         "depth": "42",
         "magnitude": "1.5",
         "name": "釧路沖"
     },
     {
         "time": "2021-09-17T10:09:02.7+09:00",
-        "latitude": "36.424",
-        "longitude": "142.137",
+        "latitude": 36.70111111111111,
+        "longitude": 142.2186111111111,
         "depth": "13",
         "magnitude": "1.8",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T10:09:53.3+09:00",
-        "latitude": "36.215",
-        "longitude": "140.379",
+        "latitude": 36.35138888888889,
+        "longitude": 140.61916666666667,
         "depth": "86",
         "magnitude": "1.3",
         "name": "茨城県沖"
     },
     {
         "time": "2021-09-17T10:15:53.3+09:00",
-        "latitude": "35.161",
-        "longitude": "133.161",
+        "latitude": 35.26694444444444,
+        "longitude": 133.26694444444445,
         "depth": "30",
         "magnitude": "0.5",
         "name": "島根県東部"
     },
     {
         "time": "2021-09-17T10:16:14.6+09:00",
-        "latitude": "35.152",
-        "longitude": "133.163",
+        "latitude": 35.25055555555556,
+        "longitude": 133.2675,
         "depth": "30",
         "magnitude": "0.9",
         "name": "鳥取県西部"
     },
     {
         "time": "2021-09-17T10:18:29.3+09:00",
-        "latitude": "34.093",
-        "longitude": "135.103",
+        "latitude": 34.15083333333333,
+        "longitude": 135.1675,
         "depth": "6",
         "magnitude": "0.2",
         "name": "紀伊水道"
     },
     {
         "time": "2021-09-17T10:20:05.0+09:00",
-        "latitude": "36.400",
-        "longitude": "139.205",
+        "latitude": 36.666666666666664,
+        "longitude": 139.33472222222224,
         "depth": "9",
         "magnitude": "0.8",
         "name": "群馬県北部"
     },
     {
         "time": "2021-09-17T10:21:56.6+09:00",
-        "latitude": "39.278",
-        "longitude": "142.057",
+        "latitude": 39.452222222222225,
+        "longitude": 142.08527777777778,
         "depth": "27",
         "magnitude": "2.1",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T10:22:37.7+09:00",
-        "latitude": "34.574",
-        "longitude": "138.107",
+        "latitude": 34.95111111111111,
+        "longitude": 138.1686111111111,
         "depth": "28",
         "magnitude": "0.2",
         "name": "静岡県中部"
     },
     {
         "time": "2021-09-17T10:33:15.0+09:00",
-        "latitude": "34.123",
-        "longitude": "141.270",
+        "latitude": 34.200833333333335,
+        "longitude": 141.45,
         "depth": "25",
         "magnitude": "1.6",
         "name": "関東東方沖"
     },
     {
         "time": "2021-09-17T10:39:46.1+09:00",
-        "latitude": "25.155",
-        "longitude": "128.213",
+        "latitude": 25.25138888888889,
+        "longitude": 128.35083333333333,
         "depth": "28",
         "magnitude": "2.1",
         "name": "沖縄本島近海"
     },
     {
         "time": "2021-09-17T10:43:48.0+09:00",
-        "latitude": "31.144",
-        "longitude": "130.236",
+        "latitude": 31.234444444444446,
+        "longitude": 130.385,
         "depth": "159",
         "magnitude": "2.2",
         "name": "薩摩半島西方沖"
     },
     {
         "time": "2021-09-17T10:44:57.2+09:00",
-        "latitude": "35.354",
-        "longitude": "137.099",
+        "latitude": 35.58444444444444,
+        "longitude": 137.1525,
         "depth": "17",
         "magnitude": "0.1",
         "name": "岐阜県美濃東部"
     },
     {
         "time": "2021-09-17T10:55:35.1+09:00",
-        "latitude": "36.595",
-        "longitude": "139.250",
+        "latitude": 36.984722222222224,
+        "longitude": 139.41666666666666,
         "depth": "6",
         "magnitude": "0.9",
         "name": "福島県会津"
     },
     {
         "time": "2021-09-17T10:56:00.6+09:00",
-        "latitude": "34.516",
-        "longitude": "135.309",
+        "latitude": 34.85166666666667,
+        "longitude": 135.5025,
         "depth": "13",
         "magnitude": "1.0",
         "name": "大阪府北部"
     },
     {
         "time": "2021-09-17T10:56:02.2+09:00",
-        "latitude": "32.239",
-        "longitude": "131.136",
+        "latitude": 32.38583333333333,
+        "longitude": 131.21833333333333,
         "depth": "11",
         "magnitude": "0.3",
         "name": "宮崎県北部山沿い"
     },
     {
         "time": "2021-09-17T10:56:24.5+09:00",
-        "latitude": "35.519",
-        "longitude": "137.394",
+        "latitude": 35.8525,
+        "longitude": 137.6511111111111,
         "depth": "13",
         "magnitude": "0.8",
         "name": "長野県南部"
     },
     {
         "time": "2021-09-17T10:56:51.8+09:00",
-        "latitude": "39.273",
-        "longitude": "142.313",
+        "latitude": 39.450833333333335,
+        "longitude": 142.5175,
         "depth": "29",
         "magnitude": "2.1",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T10:58:26.7+09:00",
-        "latitude": "37.494",
-        "longitude": "142.198",
+        "latitude": 37.81777777777778,
+        "longitude": 142.3188888888889,
         "depth": "32",
         "magnitude": "1.4",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T11:00:32.7+09:00",
-        "latitude": "37.308",
-        "longitude": "137.149",
+        "latitude": 37.50222222222222,
+        "longitude": 137.23583333333332,
         "depth": "14",
         "magnitude": "0.7",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T11:03:46.3+09:00",
-        "latitude": "37.401",
-        "longitude": "141.352",
+        "latitude": 37.66694444444444,
+        "longitude": 141.5838888888889,
         "depth": "51",
         "magnitude": "1.2",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T11:06:45.6+09:00",
-        "latitude": "33.574",
-        "longitude": "135.127",
+        "latitude": 33.95111111111111,
+        "longitude": 135.20194444444442,
         "depth": "8",
         "magnitude": "0.6",
         "name": "和歌山県北部"
     },
     {
         "time": "2021-09-17T11:07:17.0+09:00",
-        "latitude": "34.579",
-        "longitude": "138.109",
+        "latitude": 34.9525,
+        "longitude": 138.16916666666665,
         "depth": "28",
         "magnitude": "0.7",
         "name": "静岡県中部"
     },
     {
         "time": "2021-09-17T11:11:22.2+09:00",
-        "latitude": "27.545",
-        "longitude": "128.578",
+        "latitude": 27.90138888888889,
+        "longitude": 128.95222222222222,
         "depth": "46",
         "magnitude": "1.2",
         "name": "奄美大島近海"
     },
     {
         "time": "2021-09-17T11:13:26.1+09:00",
-        "latitude": "38.083",
-        "longitude": "141.400",
+        "latitude": 38.134166666666665,
+        "longitude": 141.66666666666666,
         "depth": "54",
         "magnitude": "0.9",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T11:18:52.8+09:00",
-        "latitude": "36.115",
-        "longitude": "137.566",
+        "latitude": 36.18472222222222,
+        "longitude": 137.935,
         "depth": "9",
         "magnitude": "-0.2",
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T11:20:57.3+09:00",
-        "latitude": "36.350",
-        "longitude": "140.233",
+        "latitude": 36.583333333333336,
+        "longitude": 140.38416666666666,
         "depth": "64",
         "magnitude": "1.4",
         "name": "茨城県北部"
     },
     {
         "time": "2021-09-17T11:25:09.9+09:00",
-        "latitude": "43.318",
-        "longitude": "144.088",
+        "latitude": 43.51888888888889,
+        "longitude": 144.13555555555556,
         "depth": "8",
         "magnitude": "0.7",
         "name": "網走地方"
     },
     {
         "time": "2021-09-17T11:27:03.1+09:00",
-        "latitude": "33.514",
-        "longitude": "135.124",
+        "latitude": 33.85111111111111,
+        "longitude": 135.2011111111111,
         "depth": "13",
         "magnitude": "0.4",
         "name": "和歌山県北部"
     },
     {
         "time": "2021-09-17T11:31:30.7+09:00",
-        "latitude": "34.126",
-        "longitude": "135.189",
+        "latitude": 34.20166666666667,
+        "longitude": 135.3025,
         "depth": "4",
         "magnitude": "1.0",
         "name": "和歌山県北部"
     },
     {
         "time": "2021-09-17T11:31:53.3+09:00",
-        "latitude": "43.314",
-        "longitude": "144.081",
+        "latitude": 43.51777777777777,
+        "longitude": 144.1336111111111,
         "depth": "6",
         "magnitude": "1.5",
         "name": "網走地方"
     },
     {
         "time": "2021-09-17T11:33:48.4+09:00",
-        "latitude": "43.363",
-        "longitude": "143.124",
+        "latitude": 43.600833333333334,
+        "longitude": 143.2011111111111,
         "depth": "185",
         "magnitude": "2.3",
         "name": "北見地方"
     },
     {
         "time": "2021-09-17T11:35:07.4+09:00",
-        "latitude": "33.563",
-        "longitude": "141.426",
+        "latitude": 33.93416666666666,
+        "longitude": 141.70166666666665,
         "depth": "9",
         "magnitude": "3.3",
         "name": "関東東方沖"
     },
     {
         "time": "2021-09-17T11:36:18.0+09:00",
-        "latitude": "37.317",
-        "longitude": "137.154",
+        "latitude": 37.51861111111111,
+        "longitude": 137.2511111111111,
         "depth": "13",
         "magnitude": "1.1",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T11:47:52.5+09:00",
-        "latitude": "34.114",
-        "longitude": "131.287",
+        "latitude": 34.18444444444444,
+        "longitude": 131.4686111111111,
         "depth": "13",
         "magnitude": "0.8",
         "name": "山口県中部"
     },
     {
         "time": "2021-09-17T11:48:15.2+09:00",
-        "latitude": "39.145",
-        "longitude": "142.243",
+        "latitude": 39.234722222222224,
+        "longitude": 142.40083333333334,
         "depth": "28",
         "magnitude": "1.1",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T11:49:58.9+09:00",
-        "latitude": "37.213",
-        "longitude": "141.575",
+        "latitude": 37.350833333333334,
+        "longitude": 141.95138888888889,
         "depth": "30",
         "magnitude": "1.1",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T11:52:30.4+09:00",
-        "latitude": "33.553",
-        "longitude": "134.323",
+        "latitude": 33.9175,
+        "longitude": 134.53416666666666,
         "depth": "10",
         "magnitude": "0.6",
         "name": "徳島県南部"
     },
     {
         "time": "2021-09-17T11:55:12.3+09:00",
-        "latitude": "37.300",
-        "longitude": "137.121",
+        "latitude": 37.5,
+        "longitude": 137.20027777777776,
         "depth": "9",
         "magnitude": "0.8",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T11:56:57.9+09:00",
-        "latitude": "43.311",
-        "longitude": "144.402",
+        "latitude": 43.51694444444444,
+        "longitude": 144.66722222222222,
         "depth": "147",
         "magnitude": "3.4",
         "name": "釧路地方中南部"
     },
     {
         "time": "2021-09-17T12:00:11.5+09:00",
-        "latitude": "36.369",
-        "longitude": "137.423",
+        "latitude": 36.6025,
+        "longitude": 137.70083333333332,
         "depth": "0",
         "magnitude": "0.8",
         "name": "富山県東部"
     },
     {
         "time": "2021-09-17T12:01:55.1+09:00",
-        "latitude": "36.378",
-        "longitude": "139.240",
+        "latitude": 36.61888888888889,
+        "longitude": 139.4,
         "depth": "6",
         "magnitude": "-0.1",
         "name": "栃木県北部"
     },
     {
         "time": "2021-09-17T12:06:40.0+09:00",
-        "latitude": "37.293",
-        "longitude": "137.129",
+        "latitude": 37.48416666666667,
+        "longitude": 137.2025,
         "depth": "12",
         "magnitude": "0.1",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T12:06:55.5+09:00",
-        "latitude": "37.301",
-        "longitude": "137.179",
+        "latitude": 37.500277777777775,
+        "longitude": 137.28583333333333,
         "depth": "12",
         "magnitude": "0.8",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T12:07:09.5+09:00",
-        "latitude": "35.415",
-        "longitude": "140.539",
+        "latitude": 35.68472222222222,
+        "longitude": 140.88583333333332,
         "depth": "11",
         "magnitude": "1.1",
         "name": "千葉県東方沖"
     },
     {
         "time": "2021-09-17T12:11:36.7+09:00",
-        "latitude": "37.197",
-        "longitude": "142.039",
+        "latitude": 37.31861111111112,
+        "longitude": 142.0525,
         "depth": "26",
         "magnitude": "1.2",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T12:12:19.0+09:00",
-        "latitude": "35.271",
-        "longitude": "136.203",
+        "latitude": 35.45027777777778,
+        "longitude": 136.33416666666668,
         "depth": "13",
         "magnitude": "0.4",
         "name": "滋賀県北部"
     },
     {
         "time": "2021-09-17T12:14:20.6+09:00",
-        "latitude": "37.067",
-        "longitude": "142.131",
+        "latitude": 37.10194444444445,
+        "longitude": 142.21694444444444,
         "depth": "20",
         "magnitude": "1.4",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T12:16:10.7+09:00",
-        "latitude": "37.470",
-        "longitude": "141.308",
+        "latitude": 37.78333333333333,
+        "longitude": 141.50222222222223,
         "depth": "49",
         "magnitude": "4.4",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T12:21:49.0+09:00",
-        "latitude": "36.203",
-        "longitude": "137.371",
+        "latitude": 36.33416666666667,
+        "longitude": 137.61694444444444,
         "depth": "4",
         "magnitude": "-0.1",
         "name": "岐阜県飛騨地方"
     },
     {
         "time": "2021-09-17T12:23:35.0+09:00",
-        "latitude": "37.235",
-        "longitude": "141.429",
+        "latitude": 37.38472222222222,
+        "longitude": 141.7025,
         "depth": "45",
         "magnitude": "0.9",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T12:23:47.6+09:00",
-        "latitude": "36.209",
-        "longitude": "137.373",
+        "latitude": 36.33583333333333,
+        "longitude": 137.6175,
         "depth": "2",
         "magnitude": "-0.1",
         "name": "岐阜県飛騨地方"
     },
     {
         "time": "2021-09-17T12:24:06.3+09:00",
-        "latitude": "33.442",
-        "longitude": "135.314",
+        "latitude": 33.73388888888889,
+        "longitude": 135.51777777777778,
         "depth": "14",
         "magnitude": "0.3",
         "name": "和歌山県南部"
     },
     {
         "time": "2021-09-17T12:27:10.2+09:00",
-        "latitude": "32.164",
-        "longitude": "130.597",
+        "latitude": 32.26777777777777,
+        "longitude": 130.98527777777775,
         "depth": "8",
         "magnitude": "2.0",
         "name": "熊本県球磨地方"
     },
     {
         "time": "2021-09-17T12:35:20.9+09:00",
-        "latitude": "36.542",
-        "longitude": "137.006",
+        "latitude": 36.900555555555556,
+        "longitude": 137.00166666666667,
         "depth": "12",
         "magnitude": "0.6",
         "name": "富山県西部"
     },
     {
         "time": "2021-09-17T12:37:01.8+09:00",
-        "latitude": "37.047",
-        "longitude": "141.242",
+        "latitude": 37.06861111111112,
+        "longitude": 141.40055555555557,
         "depth": "10",
         "magnitude": "1.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T12:42:54.4+09:00",
-        "latitude": "33.283",
-        "longitude": "132.185",
+        "latitude": 33.4675,
+        "longitude": 132.3013888888889,
         "depth": "46",
         "magnitude": "0.5",
         "name": "愛媛県南予"
     },
     {
         "time": "2021-09-17T12:47:17.2+09:00",
-        "latitude": "37.474",
-        "longitude": "141.308",
+        "latitude": 37.78444444444444,
+        "longitude": 141.50222222222223,
         "depth": "48",
         "magnitude": "1.4",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T12:47:17.6+09:00",
-        "latitude": "38.147",
-        "longitude": "140.370",
+        "latitude": 38.23527777777778,
+        "longitude": 140.61666666666667,
         "depth": "9",
         "magnitude": "0.9",
         "name": "宮城県南部"
     },
     {
         "time": "2021-09-17T12:48:05.2+09:00",
-        "latitude": "37.586",
-        "longitude": "142.346",
+        "latitude": 37.968333333333334,
+        "longitude": 142.56833333333333,
         "depth": "38",
         "magnitude": "0.9",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T12:52:25.9+09:00",
-        "latitude": "31.150",
-        "longitude": "130.375",
+        "latitude": 31.25,
+        "longitude": 130.61805555555557,
         "depth": "11",
         "magnitude": "1.4",
         "name": "鹿児島県薩摩地方"
     },
     {
         "time": "2021-09-17T12:56:34.6+09:00",
-        "latitude": "44.321",
-        "longitude": "141.400",
+        "latitude": 44.53361111111111,
+        "longitude": 141.66666666666666,
         "depth": "0",
         "magnitude": "0.8",
         "name": "北海道北西沖"
     },
     {
         "time": "2021-09-17T12:57:47.6+09:00",
-        "latitude": "28.070",
-        "longitude": "128.073",
+        "latitude": 28.116666666666667,
+        "longitude": 128.1175,
         "depth": "16",
         "magnitude": "1.8",
         "name": "奄美大島北西沖"
     },
     {
         "time": "2021-09-17T12:59:01.9+09:00",
-        "latitude": "37.308",
-        "longitude": "137.186",
+        "latitude": 37.50222222222222,
+        "longitude": 137.30166666666668,
         "depth": "13",
         "magnitude": "1.1",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T12:59:39.3+09:00",
-        "latitude": "38.358",
-        "longitude": "144.236",
+        "latitude": 38.58555555555556,
+        "longitude": 144.385,
         "depth": "24",
         "magnitude": "0.9",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T13:00:05.2+09:00",
-        "latitude": "39.398",
-        "longitude": "140.340",
+        "latitude": 39.65222222222222,
+        "longitude": 140.56666666666666,
         "depth": "2",
         "magnitude": "-0.3",
         "name": "秋田県内陸南部"
     },
     {
         "time": "2021-09-17T13:04:12.2+09:00",
-        "latitude": "42.051",
-        "longitude": "142.548",
+        "latitude": 42.08361111111111,
+        "longitude": 142.90222222222224,
         "depth": "37",
         "magnitude": "1.1",
         "name": "浦河沖"
     },
     {
         "time": "2021-09-17T13:08:27.3+09:00",
-        "latitude": "37.478",
-        "longitude": "141.315",
+        "latitude": 37.785555555555554,
+        "longitude": 141.51805555555558,
         "depth": "49",
         "magnitude": "1.2",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T13:09:39.3+09:00",
-        "latitude": "37.307",
-        "longitude": "137.152",
+        "latitude": 37.50194444444445,
+        "longitude": 137.25055555555556,
         "depth": "13",
         "magnitude": "1.0",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T13:12:27.7+09:00",
-        "latitude": "37.161",
-        "longitude": "142.147",
+        "latitude": 37.26694444444444,
+        "longitude": 142.23527777777775,
         "depth": "17",
         "magnitude": "1.2",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T13:13:47.9+09:00",
-        "latitude": "36.545",
-        "longitude": "139.469",
+        "latitude": 36.90138888888889,
+        "longitude": 139.76916666666668,
         "depth": "4",
         "magnitude": "-0.1",
         "name": "栃木県北部"
     },
     {
         "time": "2021-09-17T13:15:12.0+09:00",
-        "latitude": "37.178",
-        "longitude": "142.109",
+        "latitude": 37.285555555555554,
+        "longitude": 142.16916666666665,
         "depth": "18",
         "magnitude": "1.3",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T13:16:39.8+09:00",
-        "latitude": "35.330",
-        "longitude": "138.551",
+        "latitude": 35.55,
+        "longitude": 138.91694444444443,
         "depth": "23",
         "magnitude": "0.8",
         "name": "山梨県東部・富士五湖"
     },
     {
         "time": "2021-09-17T13:18:03.0+09:00",
-        "latitude": "38.234",
-        "longitude": "144.510",
+        "latitude": 38.38444444444444,
+        "longitude": 144.85,
         "depth": "26",
         "magnitude": "2.0",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T13:19:59.3+09:00",
-        "latitude": "37.474",
-        "longitude": "141.308",
+        "latitude": 37.78444444444444,
+        "longitude": 141.50222222222223,
         "depth": "48",
         "magnitude": "1.3",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T13:21:45.1+09:00",
-        "latitude": "39.223",
-        "longitude": "144.496",
+        "latitude": 39.3675,
+        "longitude": 144.81833333333333,
         "depth": "22",
         "magnitude": "1.8",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T13:27:11.3+09:00",
-        "latitude": "37.052",
-        "longitude": "141.187",
+        "latitude": 37.08388888888889,
+        "longitude": 141.30194444444444,
         "depth": "8",
         "magnitude": "1.2",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T13:29:05.2+09:00",
-        "latitude": "42.222",
-        "longitude": "143.045",
+        "latitude": 42.367222222222225,
+        "longitude": 143.06805555555556,
         "depth": "44",
         "magnitude": "1.5",
         "name": "十勝地方南部"
     },
     {
         "time": "2021-09-17T13:29:08.2+09:00",
-        "latitude": "37.303",
-        "longitude": "137.182",
+        "latitude": 37.50083333333333,
+        "longitude": 137.30055555555558,
         "depth": "12",
         "magnitude": "1.0",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T13:29:42.4+09:00",
-        "latitude": "36.394",
-        "longitude": "139.196",
+        "latitude": 36.651111111111106,
+        "longitude": 139.31833333333333,
         "depth": "6",
         "magnitude": "0.6",
         "name": "群馬県北部"
     },
     {
         "time": "2021-09-17T13:29:49.3+09:00",
-        "latitude": "38.367",
-        "longitude": "144.222",
+        "latitude": 38.60194444444445,
+        "longitude": 144.36722222222224,
         "depth": "22",
         "magnitude": "0.8",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T13:36:11.7+09:00",
-        "latitude": "40.000",
-        "longitude": "140.323",
+        "latitude": 40,
+        "longitude": 140.53416666666666,
         "depth": "9",
         "magnitude": "1.0",
         "name": "秋田県内陸北部"
     },
     {
         "time": "2021-09-17T13:36:36.0+09:00",
-        "latitude": "40.338",
-        "longitude": "140.225",
+        "latitude": 40.55222222222222,
+        "longitude": 140.36805555555557,
         "depth": "10",
         "magnitude": "1.5",
         "name": "青森県津軽南部"
     },
     {
         "time": "2021-09-17T13:38:01.9+09:00",
-        "latitude": "35.571",
-        "longitude": "140.473",
+        "latitude": 35.95027777777778,
+        "longitude": 140.78416666666666,
         "depth": "83",
         "magnitude": "1.1",
         "name": "茨城県沖"
     },
     {
         "time": "2021-09-17T13:45:13.9+09:00",
-        "latitude": "42.443",
-        "longitude": "143.223",
+        "latitude": 42.73416666666667,
+        "longitude": 143.3675,
         "depth": "101",
         "magnitude": "1.0",
         "name": "十勝地方中部"
     },
     {
         "time": "2021-09-17T13:47:28.0+09:00",
-        "latitude": "32.202",
-        "longitude": "130.284",
+        "latitude": 32.33388888888889,
+        "longitude": 130.46777777777777,
         "depth": "11",
         "magnitude": "0.7",
         "name": "熊本県天草・芦北地方"
     },
     {
         "time": "2021-09-17T13:48:34.2+09:00",
-        "latitude": "31.038",
-        "longitude": "131.007",
+        "latitude": 31.052222222222223,
+        "longitude": 131.00194444444443,
         "depth": "7",
         "magnitude": "1.1",
         "name": "大隅半島東方沖"
     },
     {
         "time": "2021-09-17T13:49:30.9+09:00",
-        "latitude": "30.257",
-        "longitude": "139.014",
+        "latitude": 30.41861111111111,
+        "longitude": 139.01777777777778,
         "depth": "438",
         "magnitude": "3.8",
         "name": "鳥島近海"
     },
     {
         "time": "2021-09-17T13:52:06.4+09:00",
-        "latitude": "25.014",
-        "longitude": "123.252",
+        "latitude": 25.017777777777777,
+        "longitude": 123.41722222222222,
         "depth": "115",
         "magnitude": "1.8",
         "name": "石垣島北西沖"
     },
     {
         "time": "2021-09-17T14:00:23.1+09:00",
-        "latitude": "35.265",
-        "longitude": "136.202",
+        "latitude": 35.43472222222222,
+        "longitude": 136.3338888888889,
         "depth": "13",
         "magnitude": "0.8",
         "name": "滋賀県北部"
     },
     {
         "time": "2021-09-17T14:11:50.9+09:00",
-        "latitude": "38.548",
-        "longitude": "140.485",
+        "latitude": 38.90222222222222,
+        "longitude": 140.8013888888889,
         "depth": "4",
         "magnitude": "0.3",
         "name": "宮城県北部"
     },
     {
         "time": "2021-09-17T14:12:53.5+09:00",
-        "latitude": "36.115",
-        "longitude": "140.089",
+        "latitude": 36.18472222222222,
+        "longitude": 140.13583333333332,
         "depth": "55",
         "magnitude": "0.4",
         "name": "茨城県南部"
     },
     {
         "time": "2021-09-17T14:13:45.2+09:00",
-        "latitude": "34.586",
-        "longitude": "132.197",
+        "latitude": 34.968333333333334,
+        "longitude": 132.3186111111111,
         "depth": "9",
         "magnitude": "-0.1",
         "name": "島根県西部"
     },
     {
         "time": "2021-09-17T14:15:15.3+09:00",
-        "latitude": "37.302",
-        "longitude": "137.181",
+        "latitude": 37.50055555555556,
+        "longitude": 137.30027777777778,
         "depth": "13",
         "magnitude": "0.8",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T14:17:22.1+09:00",
-        "latitude": "36.508",
-        "longitude": "139.410",
+        "latitude": 36.83555555555556,
+        "longitude": 139.68333333333334,
         "depth": "5",
         "magnitude": "0.1",
         "name": "栃木県北部"
     },
     {
         "time": "2021-09-17T14:18:47.9+09:00",
-        "latitude": "42.340",
-        "longitude": "143.052",
+        "latitude": 42.56666666666667,
+        "longitude": 143.0838888888889,
         "depth": "41",
         "magnitude": "0.3",
         "name": "十勝地方南部"
     },
     {
         "time": "2021-09-17T14:20:09.6+09:00",
-        "latitude": "34.086",
-        "longitude": "135.066",
+        "latitude": 34.135,
+        "longitude": 135.10166666666666,
         "depth": "6",
         "magnitude": "0.8",
         "name": "紀伊水道"
     },
     {
         "time": "2021-09-17T14:26:16.2+09:00",
-        "latitude": "39.167",
-        "longitude": "142.538",
+        "latitude": 39.26861111111111,
+        "longitude": 142.88555555555556,
         "depth": "5",
         "magnitude": "2.0",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T14:28:47.8+09:00",
-        "latitude": "30.251",
-        "longitude": "131.299",
+        "latitude": 30.416944444444447,
+        "longitude": 131.48583333333332,
         "depth": "41",
         "magnitude": "2.1",
         "name": "種子島南東沖"
     },
     {
         "time": "2021-09-17T14:33:27.9+09:00",
-        "latitude": "40.180",
-        "longitude": "140.177",
+        "latitude": 40.3,
+        "longitude": 140.28527777777776,
         "depth": "165",
         "magnitude": "2.0",
         "name": "秋田県沿岸北部"
     },
     {
         "time": "2021-09-17T14:37:00.1+09:00",
-        "latitude": "34.074",
-        "longitude": "142.231",
+        "latitude": 34.117777777777775,
+        "longitude": 142.3836111111111,
         "depth": "26",
         "magnitude": "1.9",
         "name": "関東東方沖"
     },
     {
         "time": "2021-09-17T14:37:00.2+09:00",
-        "latitude": "35.404",
-        "longitude": "140.085",
+        "latitude": 35.66777777777777,
+        "longitude": 140.13472222222222,
         "depth": "67",
         "magnitude": "1.6",
         "name": "千葉県北西部"
     },
     {
         "time": "2021-09-17T14:41:35.0+09:00",
-        "latitude": "34.449",
-        "longitude": "140.364",
+        "latitude": 34.73583333333333,
+        "longitude": 140.6011111111111,
         "depth": "42",
         "magnitude": "0.8",
         "name": "千葉県南東沖"
     },
     {
         "time": "2021-09-17T14:42:11.9+09:00",
-        "latitude": "42.396",
-        "longitude": "141.587",
+        "latitude": 42.651666666666664,
+        "longitude": 141.9686111111111,
         "depth": "36",
         "magnitude": "1.8",
         "name": "胆振地方中東部"
     },
     {
         "time": "2021-09-17T14:42:52.1+09:00",
-        "latitude": "34.008",
-        "longitude": "132.173",
+        "latitude": 34.00222222222222,
+        "longitude": 132.28416666666666,
         "depth": "14",
         "magnitude": "0.7",
         "name": "安芸灘"
     },
     {
         "time": "2021-09-17T14:46:09.8+09:00",
-        "latitude": "41.596",
-        "longitude": "139.207",
+        "latitude": 41.985,
+        "longitude": 139.33527777777778,
         "depth": "11",
         "magnitude": "1.3",
         "name": "北海道南西沖"
     },
     {
         "time": "2021-09-17T14:49:55.4+09:00",
-        "latitude": "37.428",
-        "longitude": "141.427",
+        "latitude": 37.702222222222225,
+        "longitude": 141.70194444444442,
         "depth": "52",
         "magnitude": "1.8",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T14:49:58.2+09:00",
-        "latitude": "36.154",
-        "longitude": "141.119",
+        "latitude": 36.25111111111111,
+        "longitude": 141.18583333333333,
         "depth": "29",
         "magnitude": "1.3",
         "name": "茨城県沖"
     },
     {
         "time": "2021-09-17T14:50:58.4+09:00",
-        "latitude": "35.572",
-        "longitude": "137.142",
+        "latitude": 35.95055555555556,
+        "longitude": 137.23388888888888,
         "depth": "13",
         "magnitude": "0.3",
         "name": "岐阜県飛騨地方"
     },
     {
         "time": "2021-09-17T14:55:01.3+09:00",
-        "latitude": "35.370",
-        "longitude": "136.290",
+        "latitude": 35.61666666666667,
+        "longitude": 136.48333333333332,
         "depth": "12",
         "magnitude": "0.1",
         "name": "岐阜県美濃中西部"
     },
     {
         "time": "2021-09-17T14:59:31.6+09:00",
-        "latitude": "43.114",
-        "longitude": "146.077",
+        "latitude": 43.18444444444444,
+        "longitude": 146.1186111111111,
         "depth": "42",
         "magnitude": "1.0",
         "name": "根室半島南東沖"
     },
     {
         "time": "2021-09-17T14:59:49.7+09:00",
-        "latitude": "34.547",
-        "longitude": "132.372",
+        "latitude": 34.901944444444446,
+        "longitude": 132.61722222222224,
         "depth": "11",
         "magnitude": "0.3",
         "name": "島根県西部"
     },
     {
         "time": "2021-09-17T14:59:52.1+09:00",
-        "latitude": "37.550",
-        "longitude": "142.350",
+        "latitude": 37.916666666666664,
+        "longitude": 142.58333333333334,
         "depth": "21",
         "magnitude": "2.6",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T15:16:49.3+09:00",
-        "latitude": "40.026",
-        "longitude": "139.477",
+        "latitude": 40.035,
+        "longitude": 139.78527777777776,
         "depth": "20",
         "magnitude": "0.4",
         "name": "秋田県沖"
     },
     {
         "time": "2021-09-17T15:20:39.3+09:00",
-        "latitude": "36.079",
-        "longitude": "136.298",
+        "latitude": 36.119166666666665,
+        "longitude": 136.48555555555555,
         "depth": "8",
         "magnitude": "1.5",
         "name": "福井県嶺北"
     },
     {
         "time": "2021-09-17T15:21:16.0+09:00",
-        "latitude": "36.340",
-        "longitude": "137.001",
+        "latitude": 36.56666666666667,
+        "longitude": 137.00027777777777,
         "depth": "24",
         "magnitude": "0.7",
         "name": "富山県西部"
     },
     {
         "time": "2021-09-17T15:21:23.9+09:00",
-        "latitude": "40.263",
-        "longitude": "143.078",
+        "latitude": 40.43416666666666,
+        "longitude": 143.1188888888889,
         "depth": "30",
         "magnitude": "1.0",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T15:23:06.0+09:00",
-        "latitude": "39.175",
-        "longitude": "144.534",
+        "latitude": 39.28472222222222,
+        "longitude": 144.88444444444443,
         "depth": "24",
         "magnitude": "1.5",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T15:23:50.7+09:00",
-        "latitude": "32.493",
-        "longitude": "139.054",
+        "latitude": 32.8175,
+        "longitude": 139.08444444444444,
         "depth": "223",
         "magnitude": "3.3",
         "name": "八丈島近海"
     },
     {
         "time": "2021-09-17T15:34:04.7+09:00",
-        "latitude": "37.116",
-        "longitude": "141.594",
+        "latitude": 37.184999999999995,
+        "longitude": 141.98444444444442,
         "depth": "25",
         "magnitude": "1.2",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T15:35:03.1+09:00",
-        "latitude": "36.013",
-        "longitude": "137.202",
+        "latitude": 36.0175,
+        "longitude": 137.3338888888889,
         "depth": "8",
         "magnitude": "0.0",
         "name": "岐阜県飛騨地方"
     },
     {
         "time": "2021-09-17T15:37:34.3+09:00",
-        "latitude": "30.074",
-        "longitude": "130.080",
+        "latitude": 30.11777777777778,
+        "longitude": 130.13333333333333,
         "depth": "2",
         "magnitude": "2.8",
         "name": "トカラ列島近海"
     },
     {
         "time": "2021-09-17T15:37:34.3+09:00",
-        "latitude": "38.110",
-        "longitude": "141.363",
+        "latitude": 38.18333333333333,
+        "longitude": 141.60083333333333,
         "depth": "52",
         "magnitude": "1.1",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T15:40:44.5+09:00",
-        "latitude": "38.125",
-        "longitude": "141.375",
+        "latitude": 38.20138888888889,
+        "longitude": 141.61805555555557,
         "depth": "51",
         "magnitude": "0.5",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T15:42:58.9+09:00",
-        "latitude": "36.483",
-        "longitude": "139.213",
+        "latitude": 36.80083333333333,
+        "longitude": 139.35083333333333,
         "depth": "3",
         "magnitude": "0.4",
         "name": "群馬県北部"
     },
     {
         "time": "2021-09-17T15:43:32.2+09:00",
-        "latitude": "33.266",
-        "longitude": "135.377",
+        "latitude": 33.434999999999995,
+        "longitude": 135.6186111111111,
         "depth": "14",
         "magnitude": "0.7",
         "name": "和歌山県南方沖"
     },
     {
         "time": "2021-09-17T15:51:35.1+09:00",
-        "latitude": "35.495",
-        "longitude": "136.546",
+        "latitude": 35.81805555555556,
+        "longitude": 136.90166666666667,
         "depth": "11",
         "magnitude": "0.7",
         "name": "岐阜県美濃中西部"
     },
     {
         "time": "2021-09-17T15:53:09.3+09:00",
-        "latitude": "37.309",
-        "longitude": "137.144",
+        "latitude": 37.5025,
+        "longitude": 137.23444444444442,
         "depth": "12",
         "magnitude": "0.8",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T16:08:06.3+09:00",
-        "latitude": "43.363",
-        "longitude": "145.070",
+        "latitude": 43.600833333333334,
+        "longitude": 145.11666666666667,
         "depth": "128",
         "magnitude": "1.9",
         "name": "根室地方北部"
     },
     {
         "time": "2021-09-17T16:08:42.7+09:00",
-        "latitude": "35.197",
-        "longitude": "137.205",
+        "latitude": 35.31861111111112,
+        "longitude": 137.33472222222224,
         "depth": "10",
         "magnitude": "0.3",
         "name": "岐阜県美濃東部"
     },
     {
         "time": "2021-09-17T16:11:03.7+09:00",
-        "latitude": "37.169",
-        "longitude": "141.523",
+        "latitude": 37.26916666666666,
+        "longitude": 141.8675,
         "depth": "33",
         "magnitude": "1.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T16:13:01.4+09:00",
-        "latitude": "36.205",
-        "longitude": "140.014",
+        "latitude": 36.334722222222226,
+        "longitude": 140.01777777777778,
         "depth": "75",
         "magnitude": "0.6",
         "name": "茨城県南部"
     },
     {
         "time": "2021-09-17T16:19:53.5+09:00",
-        "latitude": "39.007",
-        "longitude": "140.367",
+        "latitude": 39.00194444444445,
+        "longitude": 140.60194444444443,
         "depth": "28",
         "magnitude": "0.6",
         "name": "秋田県内陸南部"
     },
     {
         "time": "2021-09-17T16:20:37.6+09:00",
-        "latitude": "36.404",
-        "longitude": "142.188",
+        "latitude": 36.66777777777777,
+        "longitude": 142.30222222222224,
         "depth": "6",
         "magnitude": "2.6",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T16:21:21.7+09:00",
-        "latitude": "40.007",
-        "longitude": "141.575",
+        "latitude": 40.00194444444445,
+        "longitude": 141.95138888888889,
         "depth": "8",
         "magnitude": "0.9",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T16:21:24.5+09:00",
-        "latitude": "37.305",
-        "longitude": "137.199",
+        "latitude": 37.50138888888889,
+        "longitude": 137.31916666666666,
         "depth": "13",
         "magnitude": "0.2",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T16:21:59.4+09:00",
-        "latitude": "40.082",
-        "longitude": "138.478",
+        "latitude": 40.13388888888889,
+        "longitude": 138.78555555555556,
         "depth": "20",
         "magnitude": "2.2",
         "name": "秋田県沖"
     },
     {
         "time": "2021-09-17T16:22:39.5+09:00",
-        "latitude": "34.578",
-        "longitude": "138.111",
+        "latitude": 34.952222222222225,
+        "longitude": 138.1836111111111,
         "depth": "28",
         "magnitude": "0.2",
         "name": "静岡県中部"
     },
     {
         "time": "2021-09-17T16:24:20.5+09:00",
-        "latitude": "41.077",
-        "longitude": "142.396",
+        "latitude": 41.118611111111115,
+        "longitude": 142.65166666666667,
         "depth": "31",
         "magnitude": "1.1",
         "name": "青森県東方沖"
     },
     {
         "time": "2021-09-17T16:24:59.8+09:00",
-        "latitude": "36.390",
-        "longitude": "138.252",
+        "latitude": 36.65,
+        "longitude": 138.41722222222222,
         "depth": "4",
         "magnitude": "0.5",
         "name": "長野県北部"
     },
     {
         "time": "2021-09-17T16:29:17.5+09:00",
-        "latitude": "42.044",
-        "longitude": "142.536",
+        "latitude": 42.06777777777778,
+        "longitude": 142.885,
         "depth": "39",
         "magnitude": "0.5",
         "name": "浦河沖"
     },
     {
         "time": "2021-09-17T16:31:09.3+09:00",
-        "latitude": "34.567",
-        "longitude": "139.156",
+        "latitude": 34.93527777777778,
+        "longitude": 139.25166666666667,
         "depth": "14",
         "magnitude": "0.5",
         "name": "伊豆半島東方沖"
     },
     {
         "time": "2021-09-17T16:32:03.8+09:00",
-        "latitude": "36.207",
-        "longitude": "140.289",
+        "latitude": 36.33527777777778,
+        "longitude": 140.46916666666667,
         "depth": "86",
         "magnitude": "1.0",
         "name": "茨城県北部"
     },
     {
         "time": "2021-09-17T16:35:57.4+09:00",
-        "latitude": "35.072",
-        "longitude": "129.469",
+        "latitude": 35.117222222222225,
+        "longitude": 129.76916666666668,
         "depth": "19",
         "magnitude": "2.2",
         "name": "福岡県北西沖"
     },
     {
         "time": "2021-09-17T16:36:02.4+09:00",
-        "latitude": "31.400",
-        "longitude": "131.493",
+        "latitude": 31.666666666666668,
+        "longitude": 131.8175,
         "depth": "38",
         "magnitude": "1.5",
         "name": "日向灘"
     },
     {
         "time": "2021-09-17T16:36:18.1+09:00",
-        "latitude": "37.165",
-        "longitude": "136.456",
+        "latitude": 37.268055555555556,
+        "longitude": 136.75166666666667,
         "depth": "9",
         "magnitude": "0.4",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T16:44:51.9+09:00",
-        "latitude": "24.533",
-        "longitude": "125.259",
+        "latitude": 24.884166666666665,
+        "longitude": 125.41916666666667,
         "depth": "28",
         "magnitude": "2.5",
         "name": "宮古島近海"
     },
     {
         "time": "2021-09-17T16:45:33.6+09:00",
-        "latitude": "37.416",
-        "longitude": "143.457",
+        "latitude": 37.684999999999995,
+        "longitude": 143.75194444444443,
         "depth": "27",
         "magnitude": "1.8",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T16:49:24.6+09:00",
-        "latitude": "37.110",
-        "longitude": "142.080",
+        "latitude": 37.18333333333333,
+        "longitude": 142.13333333333333,
         "depth": "25",
         "magnitude": "0.7",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T16:50:21.8+09:00",
-        "latitude": "37.079",
-        "longitude": "142.126",
+        "latitude": 37.119166666666665,
+        "longitude": 142.20166666666665,
         "depth": "15",
         "magnitude": "0.6",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T16:51:32.5+09:00",
-        "latitude": "37.316",
-        "longitude": "141.481",
+        "latitude": 37.51833333333333,
+        "longitude": 141.80027777777778,
         "depth": "41",
         "magnitude": "0.9",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T16:55:07.7+09:00",
-        "latitude": "34.356",
-        "longitude": "136.335",
+        "latitude": 34.585,
+        "longitude": 136.5513888888889,
         "depth": "35",
         "magnitude": "0.7",
         "name": "三重県中部"
     },
     {
         "time": "2021-09-17T16:55:16.3+09:00",
-        "latitude": "32.095",
-        "longitude": "130.326",
+        "latitude": 32.15138888888889,
+        "longitude": 130.535,
         "depth": "7",
         "magnitude": "0.5",
         "name": "熊本県天草・芦北地方"
     },
     {
         "time": "2021-09-17T17:03:07.0+09:00",
-        "latitude": "33.514",
-        "longitude": "134.598",
+        "latitude": 33.85111111111111,
+        "longitude": 134.98555555555555,
         "depth": "12",
         "magnitude": null,
         "name": "紀伊水道"
     },
     {
         "time": "2021-09-17T17:03:19.3+09:00",
-        "latitude": "33.526",
-        "longitude": "134.590",
+        "latitude": 33.86833333333333,
+        "longitude": 134.98333333333332,
         "depth": "12",
         "magnitude": "0.7",
         "name": "紀伊水道"
     },
     {
         "time": "2021-09-17T17:03:52.2+09:00",
-        "latitude": "37.070",
-        "longitude": "142.132",
+        "latitude": 37.11666666666667,
+        "longitude": 142.21722222222223,
         "depth": "16",
         "magnitude": "1.7",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T17:06:30.4+09:00",
-        "latitude": "42.518",
-        "longitude": "145.392",
+        "latitude": 42.852222222222224,
+        "longitude": 145.65055555555557,
         "depth": "34",
         "magnitude": "2.4",
         "name": "根室半島南東沖"
     },
     {
         "time": "2021-09-17T17:12:40.5+09:00",
-        "latitude": "37.279",
-        "longitude": "142.136",
+        "latitude": 37.4525,
+        "longitude": 142.21833333333333,
         "depth": "25",
         "magnitude": "1.5",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T17:19:09.9+09:00",
-        "latitude": "40.024",
-        "longitude": "142.242",
+        "latitude": 40.03444444444444,
+        "longitude": 142.40055555555557,
         "depth": "5",
         "magnitude": "1.5",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T17:20:19.4+09:00",
-        "latitude": "24.462",
-        "longitude": "125.203",
+        "latitude": 24.76722222222222,
+        "longitude": 125.33416666666666,
         "depth": "47",
         "magnitude": "1.1",
         "name": "宮古島近海"
     },
     {
         "time": "2021-09-17T17:30:23.1+09:00",
-        "latitude": "37.394",
-        "longitude": "141.353",
+        "latitude": 37.651111111111106,
+        "longitude": 141.58416666666668,
         "depth": "53",
         "magnitude": "1.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T17:32:31.3+09:00",
-        "latitude": "37.306",
-        "longitude": "137.180",
+        "latitude": 37.501666666666665,
+        "longitude": 137.3,
         "depth": "12",
         "magnitude": "1.4",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T17:34:20.8+09:00",
-        "latitude": "37.287",
-        "longitude": "137.159",
+        "latitude": 37.468611111111116,
+        "longitude": 137.2525,
         "depth": "14",
         "magnitude": "0.6",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T17:34:42.6+09:00",
-        "latitude": "38.290",
-        "longitude": "139.192",
+        "latitude": 38.483333333333334,
+        "longitude": 139.31722222222223,
         "depth": "167",
         "magnitude": "2.4",
         "name": "新潟県下越沖"
     },
     {
         "time": "2021-09-17T17:34:55.8+09:00",
-        "latitude": "37.309",
-        "longitude": "137.178",
+        "latitude": 37.5025,
+        "longitude": 137.28555555555556,
         "depth": "12",
         "magnitude": "0.6",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T17:38:53.7+09:00",
-        "latitude": "37.305",
-        "longitude": "137.182",
+        "latitude": 37.50138888888889,
+        "longitude": 137.30055555555558,
         "depth": "12",
         "magnitude": "1.5",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T17:42:26.7+09:00",
-        "latitude": "37.311",
-        "longitude": "137.145",
+        "latitude": 37.51694444444444,
+        "longitude": 137.23472222222222,
         "depth": "13",
         "magnitude": "1.0",
         "name": "能登半島沖"
     },
     {
         "time": "2021-09-17T17:53:56.4+09:00",
-        "latitude": "37.106",
-        "longitude": "142.102",
+        "latitude": 37.16833333333333,
+        "longitude": 142.16722222222222,
         "depth": "21",
         "magnitude": "1.2",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T17:57:23.1+09:00",
-        "latitude": "40.149",
-        "longitude": "143.145",
+        "latitude": 40.23583333333333,
+        "longitude": 143.23472222222222,
         "depth": "6",
         "magnitude": null,
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T17:57:35.7+09:00",
-        "latitude": "40.142",
-        "longitude": "143.145",
+        "latitude": 40.23388888888889,
+        "longitude": 143.23472222222222,
         "depth": "7",
         "magnitude": "1.4",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T17:57:59.3+09:00",
-        "latitude": "38.376",
-        "longitude": "144.227",
+        "latitude": 38.61833333333333,
+        "longitude": 144.3686111111111,
         "depth": "25",
         "magnitude": "1.7",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T17:58:34.9+09:00",
-        "latitude": "36.038",
-        "longitude": "137.416",
+        "latitude": 36.05222222222222,
+        "longitude": 137.685,
         "depth": "9",
         "magnitude": "0.2",
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T18:00:53.5+09:00",
-        "latitude": "37.430",
-        "longitude": "141.437",
+        "latitude": 37.71666666666667,
+        "longitude": 141.7186111111111,
         "depth": "50",
         "magnitude": "2.7",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T18:04:47.6+09:00",
-        "latitude": "36.367",
-        "longitude": "140.579",
+        "latitude": 36.60194444444445,
+        "longitude": 140.9525,
         "depth": "46",
         "magnitude": "1.4",
         "name": "茨城県沖"
     },
     {
         "time": "2021-09-17T18:06:14.8+09:00",
-        "latitude": "35.063",
-        "longitude": "140.127",
+        "latitude": 35.100833333333334,
+        "longitude": 140.20194444444442,
         "depth": "60",
         "magnitude": "1.7",
         "name": "千葉県南東沖"
     },
     {
         "time": "2021-09-17T18:06:25.4+09:00",
-        "latitude": "37.054",
-        "longitude": "141.194",
+        "latitude": 37.08444444444444,
+        "longitude": 141.31777777777776,
         "depth": "9",
         "magnitude": "1.2",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T18:09:41.7+09:00",
-        "latitude": "36.478",
-        "longitude": "141.218",
+        "latitude": 36.785555555555554,
+        "longitude": 141.35222222222222,
         "depth": "9",
         "magnitude": "1.2",
         "name": "茨城県沖"
     },
     {
         "time": "2021-09-17T18:11:28.5+09:00",
-        "latitude": "37.545",
-        "longitude": "142.341",
+        "latitude": 37.90138888888889,
+        "longitude": 142.56694444444443,
         "depth": "18",
         "magnitude": "1.0",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T18:15:47.1+09:00",
-        "latitude": "38.554",
-        "longitude": "140.519",
+        "latitude": 38.91777777777777,
+        "longitude": 140.8525,
         "depth": "6",
         "magnitude": "0.9",
         "name": "宮城県北部"
     },
     {
         "time": "2021-09-17T18:16:46.2+09:00",
-        "latitude": "24.565",
-        "longitude": "123.190",
+        "latitude": 24.934722222222224,
+        "longitude": 123.31666666666666,
         "depth": "129",
         "magnitude": "2.3",
         "name": "与那国島近海"
     },
     {
         "time": "2021-09-17T18:39:20.4+09:00",
-        "latitude": "37.308",
-        "longitude": "137.130",
+        "latitude": 37.50222222222222,
+        "longitude": 137.21666666666667,
         "depth": "13",
         "magnitude": "1.9",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T18:40:52.9+09:00",
-        "latitude": "39.022",
-        "longitude": "142.224",
+        "latitude": 39.03388888888889,
+        "longitude": 142.36777777777777,
         "depth": "33",
         "magnitude": "1.9",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T18:47:43.0+09:00",
-        "latitude": "37.308",
-        "longitude": "137.131",
+        "latitude": 37.50222222222222,
+        "longitude": 137.21694444444444,
         "depth": "13",
         "magnitude": "2.2",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T18:48:57.4+09:00",
-        "latitude": "35.359",
-        "longitude": "143.442",
+        "latitude": 35.58583333333333,
+        "longitude": 143.73388888888888,
         "depth": "44",
         "magnitude": "1.9",
         "name": "関東東方沖"
     },
     {
         "time": "2021-09-17T18:52:07.6+09:00",
-        "latitude": "37.300",
-        "longitude": "137.136",
+        "latitude": 37.5,
+        "longitude": 137.21833333333333,
         "depth": "12",
         "magnitude": "0.5",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T18:56:08.6+09:00",
-        "latitude": "43.316",
-        "longitude": "144.088",
+        "latitude": 43.51833333333333,
+        "longitude": 144.13555555555556,
         "depth": "7",
         "magnitude": "0.8",
         "name": "網走地方"
     },
     {
         "time": "2021-09-17T19:02:03.3+09:00",
-        "latitude": "35.277",
-        "longitude": "136.443",
+        "latitude": 35.45194444444445,
+        "longitude": 136.73416666666665,
         "depth": "13",
         "magnitude": "0.0",
         "name": "岐阜県美濃中西部"
     },
     {
         "time": "2021-09-17T19:02:20.1+09:00",
-        "latitude": "35.468",
-        "longitude": "137.506",
+        "latitude": 35.76888888888889,
+        "longitude": 137.835,
         "depth": "15",
         "magnitude": "0.8",
         "name": "長野県南部"
     },
     {
         "time": "2021-09-17T19:04:39.4+09:00",
-        "latitude": "36.260",
-        "longitude": "139.543",
+        "latitude": 36.43333333333333,
+        "longitude": 139.90083333333334,
         "depth": "116",
         "magnitude": "0.8",
         "name": "栃木県南部"
     },
     {
         "time": "2021-09-17T19:09:26.4+09:00",
-        "latitude": "42.212",
-        "longitude": "143.061",
+        "latitude": 42.35055555555556,
+        "longitude": 143.10027777777776,
         "depth": "51",
         "magnitude": "2.7",
         "name": "十勝地方南部"
     },
     {
         "time": "2021-09-17T19:13:19.1+09:00",
-        "latitude": "36.262",
-        "longitude": "139.534",
+        "latitude": 36.43388888888889,
+        "longitude": 139.88444444444443,
         "depth": "115",
         "magnitude": "1.2",
         "name": "栃木県南部"
     },
     {
         "time": "2021-09-17T19:17:18.1+09:00",
-        "latitude": "34.507",
-        "longitude": "139.403",
+        "latitude": 34.83527777777778,
+        "longitude": 139.6675,
         "depth": "15",
         "magnitude": "0.9",
         "name": "伊豆大島近海"
     },
     {
         "time": "2021-09-17T19:18:21.8+09:00",
-        "latitude": "41.137",
-        "longitude": "139.460",
+        "latitude": 41.218611111111116,
+        "longitude": 139.76666666666668,
         "depth": "23",
         "magnitude": "0.8",
         "name": "青森県西方沖"
     },
     {
         "time": "2021-09-17T19:32:02.8+09:00",
-        "latitude": "34.102",
-        "longitude": "140.384",
+        "latitude": 34.16722222222222,
+        "longitude": 140.63444444444443,
         "depth": "56",
         "magnitude": "1.2",
         "name": "房総半島南方沖"
     },
     {
         "time": "2021-09-17T19:33:22.4+09:00",
-        "latitude": "37.299",
-        "longitude": "137.132",
+        "latitude": 37.48583333333333,
+        "longitude": 137.21722222222223,
         "depth": "12",
         "magnitude": "1.2",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T19:38:28.6+09:00",
-        "latitude": "37.022",
-        "longitude": "136.595",
+        "latitude": 37.03388888888889,
+        "longitude": 136.98472222222222,
         "depth": "7",
         "magnitude": null,
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T20:01:13.7+09:00",
-        "latitude": "37.312",
-        "longitude": "137.135",
+        "latitude": 37.51722222222222,
+        "longitude": 137.21805555555557,
         "depth": "12",
         "magnitude": "0.5",
         "name": "能登半島沖"
     },
     {
         "time": "2021-09-17T20:02:04.1+09:00",
-        "latitude": "24.111",
-        "longitude": "124.032",
+        "latitude": 24.183611111111112,
+        "longitude": 124.05055555555555,
         "depth": "27",
         "magnitude": "3.4",
         "name": "石垣島近海"
     },
     {
         "time": "2021-09-17T20:04:20.5+09:00",
-        "latitude": "24.110",
-        "longitude": "124.030",
+        "latitude": 24.183333333333334,
+        "longitude": 124.05,
         "depth": "26",
         "magnitude": "1.1",
         "name": "石垣島近海"
     },
     {
         "time": "2021-09-17T20:12:23.3+09:00",
-        "latitude": "33.282",
-        "longitude": "135.347",
+        "latitude": 33.467222222222226,
+        "longitude": 135.5686111111111,
         "depth": "28",
         "magnitude": "0.9",
         "name": "和歌山県南方沖"
     },
     {
         "time": "2021-09-17T20:17:54.5+09:00",
-        "latitude": "37.299",
-        "longitude": "137.134",
+        "latitude": 37.48583333333333,
+        "longitude": 137.21777777777777,
         "depth": "12",
         "magnitude": "1.2",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T20:20:07.7+09:00",
-        "latitude": "33.521",
-        "longitude": "140.107",
+        "latitude": 33.86694444444444,
+        "longitude": 140.1686111111111,
         "depth": "84",
         "magnitude": "0.9",
         "name": "房総半島南方沖"
     },
     {
         "time": "2021-09-17T20:20:46.9+09:00",
-        "latitude": "35.504",
-        "longitude": "141.010",
+        "latitude": 35.83444444444444,
+        "longitude": 141.01666666666668,
         "depth": "21",
         "magnitude": "1.0",
         "name": "千葉県東方沖"
     },
     {
         "time": "2021-09-17T20:26:36.2+09:00",
-        "latitude": "28.076",
-        "longitude": "129.281",
+        "latitude": 28.118333333333332,
+        "longitude": 129.46694444444444,
         "depth": "27",
         "magnitude": "1.1",
         "name": "奄美大島近海"
     },
     {
         "time": "2021-09-17T20:27:47.3+09:00",
-        "latitude": "36.474",
-        "longitude": "140.345",
+        "latitude": 36.78444444444444,
+        "longitude": 140.56805555555556,
         "depth": "8",
         "magnitude": "0.5",
         "name": "茨城県北部"
     },
     {
         "time": "2021-09-17T20:30:48.0+09:00",
-        "latitude": "36.412",
-        "longitude": "141.421",
+        "latitude": 36.68388888888889,
+        "longitude": 141.70027777777776,
         "depth": "24",
         "magnitude": "1.5",
         "name": "茨城県沖"
     },
     {
         "time": "2021-09-17T20:36:08.5+09:00",
-        "latitude": "38.360",
-        "longitude": "144.222",
+        "latitude": 38.6,
+        "longitude": 144.36722222222224,
         "depth": "21",
         "magnitude": "1.7",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T20:36:16.0+09:00",
-        "latitude": "26.463",
-        "longitude": "128.454",
+        "latitude": 26.7675,
+        "longitude": 128.7511111111111,
         "depth": "17",
         "magnitude": "1.0",
         "name": "沖縄本島近海"
     },
     {
         "time": "2021-09-17T20:40:05.6+09:00",
-        "latitude": "23.437",
-        "longitude": "121.430",
+        "latitude": 23.71861111111111,
+        "longitude": 121.71666666666667,
         "depth": "36",
         "magnitude": "2.7",
         "name": "台湾付近"
     },
     {
         "time": "2021-09-17T20:41:14.8+09:00",
-        "latitude": "39.035",
-        "longitude": "140.541",
+        "latitude": 39.05138888888889,
+        "longitude": 140.90027777777777,
         "depth": "11",
         "magnitude": "0.5",
         "name": "岩手県内陸南部"
     },
     {
         "time": "2021-09-17T20:41:27.0+09:00",
-        "latitude": "28.175",
-        "longitude": "129.343",
+        "latitude": 28.284722222222225,
+        "longitude": 129.5675,
         "depth": "33",
         "magnitude": "1.1",
         "name": "奄美大島近海"
     },
     {
         "time": "2021-09-17T20:42:12.1+09:00",
-        "latitude": "39.041",
-        "longitude": "140.537",
+        "latitude": 39.066944444444445,
+        "longitude": 140.88527777777776,
         "depth": "8",
         "magnitude": "0.1",
         "name": "岩手県内陸南部"
     },
     {
         "time": "2021-09-17T20:42:14.2+09:00",
-        "latitude": "34.482",
-        "longitude": "134.447",
+        "latitude": 34.800555555555555,
+        "longitude": 134.73527777777775,
         "depth": "13",
         "magnitude": "0.8",
         "name": "兵庫県南西部"
     },
     {
         "time": "2021-09-17T20:43:24.3+09:00",
-        "latitude": "39.596",
-        "longitude": "140.449",
+        "latitude": 39.985,
+        "longitude": 140.73583333333332,
         "depth": "16",
         "magnitude": "0.3",
         "name": "秋田県内陸南部"
     },
     {
         "time": "2021-09-17T20:44:17.8+09:00",
-        "latitude": "34.482",
-        "longitude": "134.447",
+        "latitude": 34.800555555555555,
+        "longitude": 134.73527777777775,
         "depth": "13",
         "magnitude": "1.0",
         "name": "兵庫県南西部"
     },
     {
         "time": "2021-09-17T20:46:51.2+09:00",
-        "latitude": "32.157",
-        "longitude": "130.230",
+        "latitude": 32.25194444444445,
+        "longitude": 130.38333333333333,
         "depth": "12",
         "magnitude": null,
         "name": "熊本県天草・芦北地方"
     },
     {
         "time": "2021-09-17T20:47:48.0+09:00",
-        "latitude": "34.493",
-        "longitude": "142.156",
+        "latitude": 34.8175,
+        "longitude": 142.25166666666667,
         "depth": "11",
         "magnitude": "1.3",
         "name": "関東東方沖"
     },
     {
         "time": "2021-09-17T20:51:47.9+09:00",
-        "latitude": "30.357",
-        "longitude": "131.108",
+        "latitude": 30.585277777777776,
+        "longitude": 131.1688888888889,
         "depth": "29",
         "magnitude": "1.4",
         "name": "種子島近海"
     },
     {
         "time": "2021-09-17T20:53:25.4+09:00",
-        "latitude": "37.297",
-        "longitude": "137.133",
+        "latitude": 37.48527777777778,
+        "longitude": 137.2175,
         "depth": "11",
         "magnitude": "0.6",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T20:53:52.1+09:00",
-        "latitude": "37.273",
-        "longitude": "137.146",
+        "latitude": 37.450833333333335,
+        "longitude": 137.23499999999999,
         "depth": "11",
         "magnitude": "0.7",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T20:57:19.4+09:00",
-        "latitude": "35.559",
-        "longitude": "142.554",
+        "latitude": 35.91916666666666,
+        "longitude": 142.91777777777776,
         "depth": "33",
         "magnitude": "1.5",
         "name": "関東東方沖"
     },
     {
         "time": "2021-09-17T20:57:42.2+09:00",
-        "latitude": "37.592",
-        "longitude": "141.177",
+        "latitude": 37.98388888888889,
+        "longitude": 141.28527777777776,
         "depth": "69",
         "magnitude": "2.6",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T20:58:30.4+09:00",
-        "latitude": "29.547",
-        "longitude": "130.123",
+        "latitude": 29.901944444444442,
+        "longitude": 130.20083333333332,
         "depth": "56",
         "magnitude": "2.2",
         "name": "トカラ列島近海"
     },
     {
         "time": "2021-09-17T21:04:11.3+09:00",
-        "latitude": "38.360",
-        "longitude": "144.226",
+        "latitude": 38.6,
+        "longitude": 144.36833333333334,
         "depth": "22",
         "magnitude": "1.8",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T21:06:27.3+09:00",
-        "latitude": "35.491",
-        "longitude": "137.262",
+        "latitude": 35.816944444444445,
+        "longitude": 137.4338888888889,
         "depth": "8",
         "magnitude": "0.5",
         "name": "長野県南部"
     },
     {
         "time": "2021-09-17T21:08:03.3+09:00",
-        "latitude": "38.514",
-        "longitude": "141.349",
+        "latitude": 38.85111111111111,
+        "longitude": 141.56916666666666,
         "depth": "97",
         "magnitude": "1.5",
         "name": "宮城県北部"
     },
     {
         "time": "2021-09-17T21:08:50.2+09:00",
-        "latitude": "32.325",
-        "longitude": "131.503",
+        "latitude": 32.53472222222222,
+        "longitude": 131.83416666666668,
         "depth": "46",
         "magnitude": "0.8",
         "name": "日向灘"
     },
     {
         "time": "2021-09-17T21:12:29.8+09:00",
-        "latitude": "36.202",
-        "longitude": "140.546",
+        "latitude": 36.33388888888889,
+        "longitude": 140.90166666666667,
         "depth": "38",
         "magnitude": "0.9",
         "name": "茨城県沖"
     },
     {
         "time": "2021-09-17T21:12:43.8+09:00",
-        "latitude": "37.426",
-        "longitude": "141.417",
+        "latitude": 37.70166666666667,
+        "longitude": 141.68527777777777,
         "depth": "54",
         "magnitude": "0.5",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T21:15:59.7+09:00",
-        "latitude": "24.205",
-        "longitude": "125.117",
+        "latitude": 24.334722222222222,
+        "longitude": 125.18527777777778,
         "depth": "43",
         "magnitude": "1.9",
         "name": "宮古島近海"
     },
     {
         "time": "2021-09-17T21:17:32.9+09:00",
-        "latitude": "37.297",
-        "longitude": "137.184",
+        "latitude": 37.48527777777778,
+        "longitude": 137.3011111111111,
         "depth": "13",
         "magnitude": "0.9",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T21:19:57.2+09:00",
-        "latitude": "36.536",
-        "longitude": "140.322",
+        "latitude": 36.885,
+        "longitude": 140.5338888888889,
         "depth": "8",
         "magnitude": "0.2",
         "name": "福島県中通り"
     },
     {
         "time": "2021-09-17T21:20:12.4+09:00",
-        "latitude": "37.471",
-        "longitude": "141.428",
+        "latitude": 37.78361111111111,
+        "longitude": 141.70222222222222,
         "depth": "50",
         "magnitude": "2.3",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T21:20:24.8+09:00",
-        "latitude": "38.345",
-        "longitude": "144.237",
+        "latitude": 38.56805555555556,
+        "longitude": 144.38527777777776,
         "depth": "27",
         "magnitude": "1.4",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T21:22:25.1+09:00",
-        "latitude": "24.115",
-        "longitude": "124.029",
+        "latitude": 24.184722222222224,
+        "longitude": 124.03583333333333,
         "depth": "27",
         "magnitude": "0.7",
         "name": "石垣島近海"
     },
     {
         "time": "2021-09-17T21:22:27.0+09:00",
-        "latitude": "37.259",
-        "longitude": "141.586",
+        "latitude": 37.41916666666666,
+        "longitude": 141.96833333333333,
         "depth": "35",
         "magnitude": "1.9",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T21:23:04.7+09:00",
-        "latitude": "31.387",
-        "longitude": "131.450",
+        "latitude": 31.635277777777777,
+        "longitude": 131.75,
         "depth": "39",
         "magnitude": "2.6",
         "name": "日向灘"
     },
     {
         "time": "2021-09-17T21:24:26.5+09:00",
-        "latitude": "37.106",
-        "longitude": "141.127",
+        "latitude": 37.16833333333333,
+        "longitude": 141.20194444444442,
         "depth": "37",
         "magnitude": "1.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T21:25:57.7+09:00",
-        "latitude": "33.019",
-        "longitude": "130.300",
+        "latitude": 33.01916666666666,
+        "longitude": 130.5,
         "depth": "7",
         "magnitude": "0.9",
         "name": "福岡県筑後地方"
     },
     {
         "time": "2021-09-17T21:27:00.4+09:00",
-        "latitude": "36.460",
-        "longitude": "140.343",
+        "latitude": 36.766666666666666,
+        "longitude": 140.5675,
         "depth": "8",
         "magnitude": "0.1",
         "name": "茨城県北部"
     },
     {
         "time": "2021-09-17T21:28:01.8+09:00",
-        "latitude": "31.404",
-        "longitude": "131.445",
+        "latitude": 31.66777777777778,
+        "longitude": 131.73472222222222,
         "depth": "35",
         "magnitude": "0.9",
         "name": "日向灘"
     },
     {
         "time": "2021-09-17T21:29:38.5+09:00",
-        "latitude": "34.482",
-        "longitude": "134.447",
+        "latitude": 34.800555555555555,
+        "longitude": 134.73527777777775,
         "depth": "12",
         "magnitude": "0.5",
         "name": "兵庫県南西部"
     },
     {
         "time": "2021-09-17T21:30:08.5+09:00",
-        "latitude": "24.109",
-        "longitude": "124.031",
+        "latitude": 24.16916666666667,
+        "longitude": 124.05027777777778,
         "depth": "26",
         "magnitude": "1.1",
         "name": "石垣島近海"
     },
     {
         "time": "2021-09-17T21:32:20.2+09:00",
-        "latitude": "37.188",
-        "longitude": "142.045",
+        "latitude": 37.30222222222222,
+        "longitude": 142.06805555555556,
         "depth": "33",
         "magnitude": "1.2",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T21:34:47.8+09:00",
-        "latitude": "37.298",
-        "longitude": "137.133",
+        "latitude": 37.48555555555556,
+        "longitude": 137.2175,
         "depth": "12",
         "magnitude": "1.1",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T21:35:35.7+09:00",
-        "latitude": "30.151",
-        "longitude": "139.548",
+        "latitude": 30.25027777777778,
+        "longitude": 139.90222222222224,
         "depth": "290",
         "magnitude": "3.9",
         "name": "鳥島近海"
     },
     {
         "time": "2021-09-17T21:41:10.4+09:00",
-        "latitude": "35.390",
-        "longitude": "134.353",
+        "latitude": 35.65,
+        "longitude": 134.58416666666668,
         "depth": "7",
         "magnitude": "-0.4",
         "name": "兵庫県北部"
     },
     {
         "time": "2021-09-17T21:43:23.6+09:00",
-        "latitude": "38.062",
-        "longitude": "142.182",
+        "latitude": 38.10055555555556,
+        "longitude": 142.30055555555558,
         "depth": "32",
         "magnitude": "0.9",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T21:49:47.7+09:00",
-        "latitude": "36.357",
-        "longitude": "137.501",
+        "latitude": 36.58527777777778,
+        "longitude": 137.8336111111111,
         "depth": "14",
         "magnitude": "-0.2",
         "name": "長野県北部"
     },
     {
         "time": "2021-09-17T21:52:52.0+09:00",
-        "latitude": "37.474",
-        "longitude": "142.277",
+        "latitude": 37.78444444444444,
+        "longitude": 142.45194444444442,
         "depth": "43",
         "magnitude": "1.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T21:56:33.0+09:00",
-        "latitude": "37.548",
-        "longitude": "142.229",
+        "latitude": 37.90222222222222,
+        "longitude": 142.36916666666667,
         "depth": "33",
         "magnitude": "0.9",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T21:59:38.8+09:00",
-        "latitude": "37.036",
-        "longitude": "140.376",
+        "latitude": 37.05166666666666,
+        "longitude": 140.61833333333334,
         "depth": "5",
         "magnitude": "3.2",
         "name": "福島県中通り"
     },
     {
         "time": "2021-09-17T21:59:57.1+09:00",
-        "latitude": "28.469",
-        "longitude": "130.011",
+        "latitude": 28.769166666666667,
+        "longitude": 130.01694444444445,
         "depth": "22",
         "magnitude": "1.8",
         "name": "奄美大島近海"
     },
     {
         "time": "2021-09-17T22:06:27.3+09:00",
-        "latitude": "38.324",
-        "longitude": "142.029",
+        "latitude": 38.53444444444444,
+        "longitude": 142.03583333333333,
         "depth": "39",
         "magnitude": "1.0",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T22:06:35.9+09:00",
-        "latitude": "28.464",
-        "longitude": "130.014",
+        "latitude": 28.767777777777777,
+        "longitude": 130.01777777777778,
         "depth": "21",
         "magnitude": "1.7",
         "name": "奄美大島近海"
     },
     {
         "time": "2021-09-17T22:07:34.7+09:00",
-        "latitude": "35.012",
-        "longitude": "134.290",
+        "latitude": 35.01722222222222,
+        "longitude": 134.48333333333332,
         "depth": "13",
         "magnitude": "0.0",
         "name": "兵庫県南西部"
     },
     {
         "time": "2021-09-17T22:07:45.2+09:00",
-        "latitude": "37.184",
-        "longitude": "142.121",
+        "latitude": 37.301111111111105,
+        "longitude": 142.20027777777776,
         "depth": "22",
         "magnitude": "1.5",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T22:09:28.1+09:00",
-        "latitude": "35.482",
-        "longitude": "141.063",
+        "latitude": 35.800555555555555,
+        "longitude": 141.10083333333333,
         "depth": "28",
         "magnitude": "1.1",
         "name": "千葉県東方沖"
     },
     {
         "time": "2021-09-17T22:17:34.9+09:00",
-        "latitude": "37.194",
-        "longitude": "141.582",
+        "latitude": 37.31777777777778,
+        "longitude": 141.96722222222223,
         "depth": "28",
         "magnitude": "1.1",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T22:19:47.8+09:00",
-        "latitude": "36.034",
-        "longitude": "137.370",
+        "latitude": 36.051111111111105,
+        "longitude": 137.61666666666667,
         "depth": "6",
         "magnitude": "0.5",
         "name": "長野県中部"
     },
     {
         "time": "2021-09-17T22:21:00.4+09:00",
-        "latitude": "33.040",
-        "longitude": "133.475",
+        "latitude": 33.06666666666667,
+        "longitude": 133.78472222222223,
         "depth": "28",
         "magnitude": "1.4",
         "name": "土佐湾"
     },
     {
         "time": "2021-09-17T22:25:09.7+09:00",
-        "latitude": "37.309",
-        "longitude": "137.129",
+        "latitude": 37.5025,
+        "longitude": 137.2025,
         "depth": "11",
         "magnitude": "1.1",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T22:25:12.9+09:00",
-        "latitude": "36.209",
-        "longitude": "139.577",
+        "latitude": 36.33583333333333,
+        "longitude": 139.95194444444442,
         "depth": "76",
         "magnitude": "0.8",
         "name": "茨城県南部"
     },
     {
         "time": "2021-09-17T22:30:02.4+09:00",
-        "latitude": "32.117",
-        "longitude": "130.195",
+        "latitude": 32.18527777777778,
+        "longitude": 130.31805555555556,
         "depth": "8",
         "magnitude": "0.0",
         "name": "鹿児島県薩摩地方"
     },
     {
         "time": "2021-09-17T22:31:05.6+09:00",
-        "latitude": "40.586",
-        "longitude": "145.528",
+        "latitude": 40.968333333333334,
+        "longitude": 145.8688888888889,
         "depth": "17",
         "magnitude": "1.4",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T22:34:43.3+09:00",
-        "latitude": "28.187",
-        "longitude": "128.391",
+        "latitude": 28.301944444444445,
+        "longitude": 128.65027777777777,
         "depth": "79",
         "magnitude": "1.2",
         "name": "トカラ列島近海"
     },
     {
         "time": "2021-09-17T22:44:45.7+09:00",
-        "latitude": "39.551",
-        "longitude": "142.443",
+        "latitude": 39.91694444444444,
+        "longitude": 142.73416666666665,
         "depth": "34",
         "magnitude": "1.6",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T22:44:57.3+09:00",
-        "latitude": "35.269",
-        "longitude": "136.202",
+        "latitude": 35.43583333333333,
+        "longitude": 136.3338888888889,
         "depth": "13",
         "magnitude": "0.6",
         "name": "滋賀県北部"
     },
     {
         "time": "2021-09-17T22:45:21.1+09:00",
-        "latitude": "31.388",
-        "longitude": "131.452",
+        "latitude": 31.635555555555555,
+        "longitude": 131.75055555555556,
         "depth": "38",
         "magnitude": "2.7",
         "name": "日向灘"
     },
     {
         "time": "2021-09-17T22:45:51.4+09:00",
-        "latitude": "34.417",
-        "longitude": "140.382",
+        "latitude": 34.68527777777778,
+        "longitude": 140.6338888888889,
         "depth": "45",
         "magnitude": "1.1",
         "name": "千葉県南東沖"
     },
     {
         "time": "2021-09-17T22:46:39.7+09:00",
-        "latitude": "37.419",
-        "longitude": "141.335",
+        "latitude": 37.68583333333333,
+        "longitude": 141.5513888888889,
         "depth": "52",
         "magnitude": "1.0",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T22:46:55.0+09:00",
-        "latitude": "33.213",
-        "longitude": "133.387",
+        "latitude": 33.350833333333334,
+        "longitude": 133.63527777777776,
         "depth": "22",
         "magnitude": "1.2",
         "name": "土佐湾"
     },
     {
         "time": "2021-09-17T22:47:36.4+09:00",
-        "latitude": "32.412",
-        "longitude": "130.003",
+        "latitude": 32.68388888888889,
+        "longitude": 130.00083333333333,
         "depth": "14",
         "magnitude": "1.1",
         "name": "橘湾"
     },
     {
         "time": "2021-09-17T23:01:57.8+09:00",
-        "latitude": "33.489",
-        "longitude": "135.255",
+        "latitude": 33.802499999999995,
+        "longitude": 135.41805555555555,
         "depth": "40",
         "magnitude": null,
         "name": "和歌山県南部"
     },
     {
         "time": "2021-09-17T23:02:39.2+09:00",
-        "latitude": "37.305",
-        "longitude": "137.141",
+        "latitude": 37.50138888888889,
+        "longitude": 137.2336111111111,
         "depth": "13",
         "magnitude": "2.3",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T23:03:27.5+09:00",
-        "latitude": "36.353",
-        "longitude": "137.505",
+        "latitude": 36.58416666666667,
+        "longitude": 137.83472222222224,
         "depth": "16",
         "magnitude": "0.2",
         "name": "長野県北部"
     },
     {
         "time": "2021-09-17T23:05:07.5+09:00",
-        "latitude": "34.409",
-        "longitude": "140.386",
+        "latitude": 34.66916666666666,
+        "longitude": 140.635,
         "depth": "51",
         "magnitude": "1.1",
         "name": "千葉県南東沖"
     },
     {
         "time": "2021-09-17T23:07:34.3+09:00",
-        "latitude": "33.105",
-        "longitude": "132.136",
+        "latitude": 33.168055555555554,
+        "longitude": 132.21833333333333,
         "depth": "39",
         "magnitude": null,
         "name": "豊後水道"
     },
     {
         "time": "2021-09-17T23:09:22.1+09:00",
-        "latitude": "36.031",
-        "longitude": "137.353",
+        "latitude": 36.05027777777777,
+        "longitude": 137.58416666666668,
         "depth": "7",
         "magnitude": null,
         "name": "岐阜県飛騨地方"
     },
     {
         "time": "2021-09-17T23:13:19.2+09:00",
-        "latitude": "37.398",
-        "longitude": "141.374",
+        "latitude": 37.65222222222222,
+        "longitude": 141.61777777777777,
         "depth": "55",
         "magnitude": "1.5",
         "name": "福島県沖"
     },
     {
         "time": "2021-09-17T23:13:37.1+09:00",
-        "latitude": "33.152",
-        "longitude": "137.082",
+        "latitude": 33.25055555555556,
+        "longitude": 137.1338888888889,
         "depth": "35",
         "magnitude": "1.3",
         "name": "三重県南東沖"
     },
     {
         "time": "2021-09-17T23:15:38.4+09:00",
-        "latitude": "35.259",
-        "longitude": "133.507",
+        "latitude": 35.41916666666666,
+        "longitude": 133.83527777777778,
         "depth": "10",
         "magnitude": "0.1",
         "name": "鳥取県中部"
     },
     {
         "time": "2021-09-17T23:18:20.9+09:00",
-        "latitude": "24.260",
-        "longitude": "123.050",
+        "latitude": 24.433333333333334,
+        "longitude": 123.08333333333333,
         "depth": "54",
         "magnitude": "1.3",
         "name": "与那国島近海"
     },
     {
         "time": "2021-09-17T23:19:45.9+09:00",
-        "latitude": "37.312",
-        "longitude": "137.125",
+        "latitude": 37.51722222222222,
+        "longitude": 137.20138888888889,
         "depth": "12",
         "magnitude": "0.4",
         "name": "能登半島沖"
     },
     {
         "time": "2021-09-17T23:20:33.0+09:00",
-        "latitude": "35.386",
-        "longitude": "135.250",
+        "latitude": 35.635,
+        "longitude": 135.41666666666666,
         "depth": "9",
         "magnitude": "1.0",
         "name": "若狭湾"
     },
     {
         "time": "2021-09-17T23:20:44.0+09:00",
-        "latitude": "37.306",
-        "longitude": "137.183",
+        "latitude": 37.501666666666665,
+        "longitude": 137.30083333333334,
         "depth": "12",
         "magnitude": "0.7",
         "name": "石川県能登地方"
     },
     {
         "time": "2021-09-17T23:23:00.0+09:00",
-        "latitude": "34.424",
-        "longitude": "140.380",
+        "latitude": 34.70111111111111,
+        "longitude": 140.63333333333333,
         "depth": "46",
         "magnitude": "1.3",
         "name": "千葉県南東沖"
     },
     {
         "time": "2021-09-17T23:23:45.1+09:00",
-        "latitude": "35.418",
-        "longitude": "140.080",
+        "latitude": 35.68555555555555,
+        "longitude": 140.13333333333333,
         "depth": "66",
         "magnitude": "1.3",
         "name": "千葉県北西部"
     },
     {
         "time": "2021-09-17T23:26:47.2+09:00",
-        "latitude": "37.313",
-        "longitude": "137.123",
+        "latitude": 37.5175,
+        "longitude": 137.20083333333332,
         "depth": "13",
         "magnitude": "0.7",
         "name": "能登半島沖"
     },
     {
         "time": "2021-09-17T23:28:54.5+09:00",
-        "latitude": "38.568",
-        "longitude": "140.527",
+        "latitude": 38.93555555555555,
+        "longitude": 140.8686111111111,
         "depth": "7",
         "magnitude": "0.5",
         "name": "宮城県北部"
     },
     {
         "time": "2021-09-17T23:29:39.2+09:00",
-        "latitude": "38.563",
-        "longitude": "140.527",
+        "latitude": 38.93416666666666,
+        "longitude": 140.8686111111111,
         "depth": "4",
         "magnitude": null,
         "name": "宮城県北部"
     },
     {
         "time": "2021-09-17T23:30:37.1+09:00",
-        "latitude": "24.112",
-        "longitude": "124.024",
+        "latitude": 24.183888888888887,
+        "longitude": 124.03444444444445,
         "depth": "25",
         "magnitude": "0.7",
         "name": "石垣島近海"
     },
     {
         "time": "2021-09-17T23:41:45.3+09:00",
-        "latitude": "32.327",
-        "longitude": "131.574",
+        "latitude": 32.53527777777778,
+        "longitude": 131.9511111111111,
         "depth": "18",
         "magnitude": null,
         "name": "日向灘"
     },
     {
         "time": "2021-09-17T23:42:27.8+09:00",
-        "latitude": "32.290",
-        "longitude": "132.016",
+        "latitude": 32.483333333333334,
+        "longitude": 132.01833333333335,
         "depth": "30",
         "magnitude": "0.8",
         "name": "日向灘"
     },
     {
         "time": "2021-09-17T23:44:18.3+09:00",
-        "latitude": "34.425",
-        "longitude": "140.383",
+        "latitude": 34.70138888888889,
+        "longitude": 140.63416666666666,
         "depth": "42",
         "magnitude": "1.4",
         "name": "千葉県南東沖"
     },
     {
         "time": "2021-09-17T23:44:29.3+09:00",
-        "latitude": "38.328",
-        "longitude": "142.107",
+        "latitude": 38.535555555555554,
+        "longitude": 142.1686111111111,
         "depth": "37",
         "magnitude": "1.3",
         "name": "宮城県沖"
     },
     {
         "time": "2021-09-17T23:46:03.5+09:00",
-        "latitude": "34.427",
-        "longitude": "140.378",
+        "latitude": 34.70194444444445,
+        "longitude": 140.6188888888889,
         "depth": "44",
         "magnitude": "1.2",
         "name": "千葉県南東沖"
     },
     {
         "time": "2021-09-17T23:46:30.9+09:00",
-        "latitude": "31.435",
-        "longitude": "131.513",
+        "latitude": 31.718055555555555,
+        "longitude": 131.85083333333333,
         "depth": "40",
         "magnitude": "1.3",
         "name": "日向灘"
     },
     {
         "time": "2021-09-17T23:49:22.8+09:00",
-        "latitude": "40.058",
-        "longitude": "142.078",
+        "latitude": 40.08555555555556,
+        "longitude": 142.1188888888889,
         "depth": "46",
         "magnitude": "1.8",
         "name": "岩手県沖"
     },
     {
         "time": "2021-09-17T23:51:17.8+09:00",
-        "latitude": "28.465",
-        "longitude": "130.014",
+        "latitude": 28.768055555555556,
+        "longitude": 130.01777777777778,
         "depth": "24",
         "magnitude": "1.9",
         "name": "奄美大島近海"
     },
     {
         "time": "2021-09-17T23:54:10.9+09:00",
-        "latitude": "31.152",
-        "longitude": "130.377",
+        "latitude": 31.250555555555554,
+        "longitude": 130.6186111111111,
         "depth": "7",
         "magnitude": "0.9",
         "name": "鹿児島県薩摩地方"
     },
     {
         "time": "2021-09-17T23:55:59.6+09:00",
-        "latitude": "38.252",
-        "longitude": "144.422",
+        "latitude": 38.41722222222222,
+        "longitude": 144.70055555555555,
         "depth": "19",
         "magnitude": "1.3",
         "name": "三陸沖"
     },
     {
         "time": "2021-09-17T23:58:12.4+09:00",
-        "latitude": "39.596",
-        "longitude": "140.524",
+        "latitude": 39.985,
+        "longitude": 140.86777777777777,
         "depth": "7",
         "magnitude": "0.4",
         "name": "岩手県内陸北部"
     },
     {
         "time": "2021-09-17T23:58:52.0+09:00",
-        "latitude": "46.359",
-        "longitude": "152.427",
+        "latitude": 46.58583333333333,
+        "longitude": 152.70194444444442,
         "depth": "204",
         "magnitude": "4.0",
         "name": "千島列島"
