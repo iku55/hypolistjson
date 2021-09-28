@@ -42,11 +42,12 @@ const genJson = () => {
     for (row of rows) {
         var columns = getColumns(row);
 
+        console.log(columns.latitude);
         // 成形
         var json = {
             time: ('0000'+columns.year.trim()).slice(-4)+'-'+('00'+columns.month.trim()).slice(-2)+'-'+('00'+columns.day.trim()).slice(-2)+'T'+columns.hour.trim()+':'+columns.minute.trim()+':'+('0000'+columns.second.trim()).slice(-4)+'+09:00',
-            latitude: columns.latitude.replace(/\s/g,'0').replace(/(\d+)°(\d+).(\d+)'N/, '$1.$2$3'),
-            longitude: columns.longitude.replace(/\s/g,'0').replace(/(\d+)°(\d+).(\d+)'E/, '$1.$2$3'),
+            latitude: DMStoDMM(columns.latitude.replace(/ /g, '').match(/(\d+)°(\d+).(\d+)'N/)),
+            longitude: DMStoDMM(columns.longitude.replace(/ /g, '').match(/(\d+)°(\d+).(\d+)'E/)),
             depth: columns.depth.trim(),
             magnitude: (columns.magnitude.trim() == '-')?null:columns.magnitude.trim(),
             name: columns.name.trim()
@@ -72,4 +73,12 @@ const updateLastChecked = (last) => {
     var json = JSON.parse(fs.readFileSync('data/times.json'));
     json["lastChecked"] = last;
     fs.writeFileSync('data/times.json', JSON.stringify(json, null, "    "));
+}
+
+const DMStoDMM = (match) => {
+    console.log(match);
+    var D = parseInt(match[1]);
+    var M = parseInt(match[2]);
+    var S = parseInt(match[3]);
+    return (D + (M / 60) + (S / 3600));
 }
