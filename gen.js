@@ -40,7 +40,7 @@ const genJson = () => {
     var output = [];
 
     for (row of rows) {
-        console.log(columns.latitude);
+        var columns = getColumns(row);
         // 成形
         var json = {
             time: ('0000'+columns.year.trim()).slice(-4)+'-'+('00'+columns.month.trim()).slice(-2)+'-'+('00'+columns.day.trim()).slice(-2)+'T'+columns.hour.trim()+':'+columns.minute.trim()+':'+('0000'+columns.second.trim()).slice(-4)+'+09:00',
