@@ -23,3 +23,5 @@ https://raw.githubusercontent.com/iku55/hypolistjson/main/data/[日付].json
   ...
 ]
 ```
+## これを使用したもの
+- [震源リストの地図(https://iku55.github.io/hypolistmap/)](https://iku55.github.io/hypolistmap/)
