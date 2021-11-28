@@ -26,5 +26,5 @@ https://raw.githubusercontent.com/iku55/hypolistjson/main/data/[日付].json
 ## これを使用したもの
 ### [震源リストの地図(https://iku55.github.io/hypolistmap/)](https://iku55.github.io/hypolistmap/)
 ![hypolistmap](images/hypolistmap.jpeg)
-### 震源リストの回数(近日公開予定)
+### [震源リストの回数(https://iku55.github.io/hypolistcount/)](https://iku55.github.io/hypolistcount/)
 ![hypolistcount](images/hypolistcount.jpeg)
