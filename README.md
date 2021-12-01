@@ -1,7 +1,8 @@
 # hypolistjson
 気象庁の震源リストをJSONに変換したものです(自動生成)  
 `データ: 気象庁 震源リスト`のようにクレジットを書いて利用可能です。  
-また、このリポジトリのリンクを書いてくれたら喜びます。
+また、このリポジトリのリンクを書いてくれたら喜びます。  
+クレジットやデータ使用については[気象庁ホームページのデータ利用の留意事項](https://www.data.jma.go.jp/developer/ryuui.pdf)をご確認ください。
 ## リンク
 https://raw.githubusercontent.com/iku55/hypolistjson/main/data/[日付].json  
 日付の例: 20210918
